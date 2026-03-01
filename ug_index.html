@@ -1,0 +1,249 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>UG College Predictor - EAMCET</title>
+    <link rel="stylesheet" href="/static/css/style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+</head>
+<body>
+    <!-- Clean White Background -->
+    <div class="bg-white"></div>
+
+    <!-- Main Container -->
+    <div class="container">
+        <!-- Header -->
+        <header class="header">
+            <div class="logo-container">
+                <div class="logo-icon">
+                    <i class="fas fa-university"></i>
+                </div>
+                <div class="logo-text">
+                    <h1><span>UG College Predictor</span></h1>
+                    <p class="logo-subtitle">EAMCET Engineering Admissions</p>
+                </div>
+            </div>
+            <div style="margin-top: 1rem; text-align: right;">
+                <a href="/pg" class="download-btn" style="display: inline-flex;">
+                    <i class="fas fa-graduation-cap"></i> Go to PG Predictor
+                </a>
+            </div>
+        </header>
+
+        <!-- Main Card -->
+        <div class="main-card">
+            <!-- Input Section -->
+            <div class="input-section">
+                <h2 class="section-title">
+                    <i class="fas fa-clipboard-list"></i>
+                    Student Details (EAMCET)
+                </h2>
+
+                <div class="input-grid">
+                    <!-- Rank Input -->
+                    <div class="input-group">
+                        <label class="input-label">
+                            <i class="fas fa-hashtag"></i>
+                            EAMCET Rank
+                        </label>
+                        <input type="number" id="rank" placeholder="Enter your rank (e.g., 15000)" min="0" required
+                               class="modern-input">
+                        <span class="input-hint">As per Cut Off- Start from 1800</span>
+                    </div>
+
+                    <!-- Range Input -->
+                    <div class="input-group">
+                        <label class="input-label">
+                            <i class="fas fa-chart-line"></i>
+                            Range
+                        </label>
+                        <input type="number" id="range" placeholder="e.g., 5000" value="5000" min="0" required
+                               class="modern-input">
+                        <span class="input-hint">Number of ranks below your score to consider</span>
+                    </div>
+
+                    <!-- Category Selection -->
+                    <div class="input-group full-width">
+                        <label class="input-label">
+                            <i class="fas fa-tag"></i>
+                            Category
+                        </label>
+                        <div class="options-grid" id="category-container">
+                            <div class="loading-message">Loading categories...</div>
+                        </div>
+                    </div>
+
+                    <!-- Gender Selection -->
+                    <div class="input-group full-width">
+                        <label class="input-label">
+                            <i class="fas fa-venus-mars"></i>
+                            Gender
+                        </label>
+                        <div class="options-grid">
+                            <label class="option-card">
+                                <input type="radio" name="gender" value="BOYS" checked>
+                                <div class="option-content">
+                                    <i class="fas fa-male"></i>
+                                    <span>Boys</span>
+                                </div>
+                            </label>
+                            <label class="option-card">
+                                <input type="radio" name="gender" value="GIRLS">
+                                <div class="option-content">
+                                    <i class="fas fa-female"></i>
+                                    <span>Girls</span>
+                                </div>
+                            </label>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Range Info -->
+                <div id="range-warning" class="range-info" style="display: none;">
+                    <i class="fas fa-info-circle"></i>
+                    <span id="warning-message"></span>
+                </div>
+
+                <!-- Predict Button -->
+                <button id="predict-btn" class="predict-btn">
+                    <span>Get UG Predictions</span>
+                    <i class="fas fa-arrow-right"></i>
+                    <div class="btn-loader" style="display: none;"></div>
+                </button>
+            </div>
+
+            <!-- Results Section -->
+            <div id="results-section" style="display: none;">
+                <div class="section-divider">
+                    <i class="fas fa-chart-bar"></i>
+                </div>
+
+                <div class="results-header">
+                    <h2 class="section-title">
+                        <i class="fas fa-chart-line"></i>
+                        UG Prediction Results
+                    </h2>
+                    <div class="results-badges">
+                        <span class="result-badge" id="rank-badge"></span>
+                        <span class="result-badge" id="range-badge"></span>
+                        <span class="result-badge" id="category-badge"></span>
+                        <span class="result-badge" id="gender-badge"></span>
+                    </div>
+                </div>
+
+                <!-- Summary Cards -->
+                <div class="summary-grid">
+                    <div class="summary-card" id="card-total">
+                        <div class="card-icon" style="background: #000000;">
+                            <i class="fas fa-university"></i>
+                        </div>
+                        <div class="card-stats">
+                            <span class="stat-label">Total Matches</span>
+                            <span class="stat-value" id="total-matches">0</span>
+                        </div>
+                    </div>
+                    <div class="summary-card" id="card-excellent">
+                        <div class="card-icon" style="background: #10B981;">
+                            <i class="fas fa-check-circle"></i>
+                        </div>
+                        <div class="card-stats">
+                            <span class="stat-label">Excellent (≥80%)</span>
+                            <span class="stat-value" id="excellent-count">0</span>
+                        </div>
+                    </div>
+                    <div class="summary-card" id="card-good">
+                        <div class="card-icon" style="background: #F59E0B;">
+                            <i class="fas fa-chart-line"></i>
+                        </div>
+                        <div class="card-stats">
+                            <span class="stat-label">Good (60-79%)</span>
+                            <span class="stat-value" id="good-count">0</span>
+                        </div>
+                    </div>
+                    <div class="summary-card" id="card-moderate">
+                        <div class="card-icon" style="background: #8B5CF6;">
+                            <i class="fas fa-exclamation-triangle"></i>
+                        </div>
+                        <div class="card-stats">
+                            <span class="stat-label">Moderate (40-59%)</span>
+                            <span class="stat-value" id="moderate-count">0</span>
+                        </div>
+                    </div>
+                    <div class="summary-card" id="card-low">
+                        <div class="card-icon" style="background: #6B7280;">
+                            <i class="fas fa-times-circle"></i>
+                        </div>
+                        <div class="card-stats">
+                            <span class="stat-label">Low (<40%)</span>
+                            <span class="stat-value" id="low-count">0</span>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Large Chart Container -->
+                <div class="chart-container-large">
+                    <h3 class="chart-title">
+                        <i class="fas fa-chart-bar"></i>
+                        Top 10 UG College Recommendations
+                    </h3>
+                    <div id="chart-wrapper" class="chart-wrapper-large">
+                        <!-- Chart will be inserted here -->
+                        <div class="chart-placeholder">
+                            <p>Your chart will appear here</p>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Table Container -->
+                <div class="table-container">
+                    <div class="table-header">
+                        <h3 class="table-title">
+                            <i class="fas fa-table"></i>
+                            All Matching UG Colleges
+                        </h3>
+                        <button id="download-btn" class="download-btn">
+                            <i class="fas fa-download"></i>
+                            <span>Download CSV</span>
+                        </button>
+                    </div>
+                    <div class="table-wrapper">
+                        <table class="results-table">
+                            <thead>
+                                <tr>
+                                    <th>#</th>
+                                    <th>Branch</th>
+                                    <th>Cutoff Rank</th>
+                                    <th>Admission Chance</th>
+                                    <th>Institute Name</th>
+                                </tr>
+                            </thead>
+                            <tbody id="table-body">
+                                <!-- Results will be inserted here -->
+                            </tbody>
+                        </table>
+                    </div>
+                    <div class="table-footer" id="table-info"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Loading Overlay -->
+    <div id="loading-overlay" class="loading-overlay" style="display: none;">
+        <div class="loader-content">
+            <div class="spinner"></div>
+            <p>Analyzing your EAMCET rank...</p>
+        </div>
+    </div>
+
+    <!-- Toast Notification -->
+    <div id="toast" class="toast">
+        <i class="toast-icon"></i>
+        <span class="toast-message"></span>
+    </div>
+
+    <script src="/static/js/ug_script.js"></script>
+</body>
+</html>

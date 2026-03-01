@@ -1,0 +1,3291 @@
+College,Branch,Category,Closing_Rank
+JNTUH,MTECH-CSE,OC,1534
+JNTUH,MTECH-CSE,BC-A,1632
+JNTUH,MTECH-CSE,BC-B,1326
+JNTUH,MTECH-CSE,BC-C,1622
+JNTUH,MTECH-CSE,BC-D,1700
+JNTUH,MTECH-CSE,SC,1673
+JNTUH,MTECH-CSE,ST,1619
+JNTUH,MTECH-ECE,OC,1538
+JNTUH,MTECH-ECE,BC-A,1483
+JNTUH,MTECH-ECE,BC-B,1417
+JNTUH,MTECH-ECE,BC-C,1525
+JNTUH,MTECH-ECE,BC-D,1370
+JNTUH,MTECH-ECE,SC,1547
+JNTUH,MTECH-ECE,ST,1500
+JNTUH,MTECH-EEE,OC,1714
+JNTUH,MTECH-EEE,BC-A,1721
+JNTUH,MTECH-EEE,BC-B,1694
+JNTUH,MTECH-EEE,BC-C,1931
+JNTUH,MTECH-EEE,BC-D,1742
+JNTUH,MTECH-EEE,SC,1685
+JNTUH,MTECH-EEE,ST,1719
+JNTUH,MTECH-MECH,OC,1375
+JNTUH,MTECH-MECH,BC-A,1335
+JNTUH,MTECH-MECH,BC-B,1613
+JNTUH,MTECH-MECH,BC-C,1596
+JNTUH,MTECH-MECH,BC-D,1548
+JNTUH,MTECH-MECH,SC,1548
+JNTUH,MTECH-MECH,ST,1567
+JNTUH,MTECH-CIVIL,OC,1519
+JNTUH,MTECH-CIVIL,BC-A,1589
+JNTUH,MTECH-CIVIL,BC-B,1785
+JNTUH,MTECH-CIVIL,BC-C,1600
+JNTUH,MTECH-CIVIL,BC-D,1393
+JNTUH,MTECH-CIVIL,SC,1419
+JNTUH,MTECH-CIVIL,ST,1461
+OU,MTECH-CSE,OC,1252
+OU,MTECH-CSE,BC-A,1167
+OU,MTECH-CSE,BC-B,1466
+OU,MTECH-CSE,BC-C,1325
+OU,MTECH-CSE,BC-D,1385
+OU,MTECH-CSE,SC,1286
+OU,MTECH-CSE,ST,1496
+OU,MTECH-ECE,OC,1038
+OU,MTECH-ECE,BC-A,1369
+OU,MTECH-ECE,BC-B,989
+OU,MTECH-ECE,BC-C,1303
+OU,MTECH-ECE,BC-D,1116
+OU,MTECH-ECE,SC,975
+OU,MTECH-ECE,ST,1084
+OU,MTECH-EEE,OC,1426
+OU,MTECH-EEE,BC-A,1310
+OU,MTECH-EEE,BC-B,1211
+OU,MTECH-EEE,BC-C,1183
+OU,MTECH-EEE,BC-D,1069
+OU,MTECH-EEE,SC,1307
+OU,MTECH-EEE,ST,1072
+OU,MTECH-MECH,OC,1205
+OU,MTECH-MECH,BC-A,1298
+OU,MTECH-MECH,BC-B,1232
+OU,MTECH-MECH,BC-C,1318
+OU,MTECH-MECH,BC-D,1005
+OU,MTECH-MECH,SC,1325
+OU,MTECH-MECH,ST,1041
+OU,MTECH-CIVIL,OC,1109
+OU,MTECH-CIVIL,BC-A,1392
+OU,MTECH-CIVIL,BC-B,1455
+OU,MTECH-CIVIL,BC-C,1533
+OU,MTECH-CIVIL,BC-D,1350
+OU,MTECH-CIVIL,SC,1046
+OU,MTECH-CIVIL,ST,1417
+CBIT,MTECH-CSE,OC,1797
+CBIT,MTECH-CSE,BC-A,1543
+CBIT,MTECH-CSE,BC-B,1802
+CBIT,MTECH-CSE,BC-C,1446
+CBIT,MTECH-CSE,BC-D,1623
+CBIT,MTECH-CSE,SC,1844
+CBIT,MTECH-CSE,ST,1474
+CBIT,MTECH-ECE,OC,1500
+CBIT,MTECH-ECE,BC-A,1872
+CBIT,MTECH-ECE,BC-B,1690
+CBIT,MTECH-ECE,BC-C,1868
+CBIT,MTECH-ECE,BC-D,1465
+CBIT,MTECH-ECE,SC,1430
+CBIT,MTECH-ECE,ST,1788
+CBIT,MTECH-EEE,OC,1538
+CBIT,MTECH-EEE,BC-A,1858
+CBIT,MTECH-EEE,BC-B,1538
+CBIT,MTECH-EEE,BC-C,1970
+CBIT,MTECH-EEE,BC-D,1951
+CBIT,MTECH-EEE,SC,1735
+CBIT,MTECH-EEE,ST,1527
+CBIT,MTECH-MECH,OC,1745
+CBIT,MTECH-MECH,BC-A,1571
+CBIT,MTECH-MECH,BC-B,1536
+CBIT,MTECH-MECH,BC-C,1601
+CBIT,MTECH-MECH,BC-D,1509
+CBIT,MTECH-MECH,SC,1525
+CBIT,MTECH-MECH,ST,1699
+CBIT,MTECH-CIVIL,OC,1705
+CBIT,MTECH-CIVIL,BC-A,1824
+CBIT,MTECH-CIVIL,BC-B,2022
+CBIT,MTECH-CIVIL,BC-C,2024
+CBIT,MTECH-CIVIL,BC-D,1818
+CBIT,MTECH-CIVIL,SC,1983
+CBIT,MTECH-CIVIL,ST,1748
+VNR,MTECH-CSE,OC,1146
+VNR,MTECH-CSE,BC-A,1287
+VNR,MTECH-CSE,BC-B,1268
+VNR,MTECH-CSE,BC-C,1073
+VNR,MTECH-CSE,BC-D,1424
+VNR,MTECH-CSE,SC,1242
+VNR,MTECH-CSE,ST,1308
+VNR,MTECH-ECE,OC,852
+VNR,MTECH-ECE,BC-A,1114
+VNR,MTECH-ECE,BC-B,1234
+VNR,MTECH-ECE,BC-C,1096
+VNR,MTECH-ECE,BC-D,984
+VNR,MTECH-ECE,SC,1210
+VNR,MTECH-ECE,ST,786
+VNR,MTECH-EEE,OC,1284
+VNR,MTECH-EEE,BC-A,979
+VNR,MTECH-EEE,BC-B,1154
+VNR,MTECH-EEE,BC-C,924
+VNR,MTECH-EEE,BC-D,958
+VNR,MTECH-EEE,SC,1004
+VNR,MTECH-EEE,ST,1251
+VNR,MTECH-MECH,OC,1127
+VNR,MTECH-MECH,BC-A,1211
+VNR,MTECH-MECH,BC-B,883
+VNR,MTECH-MECH,BC-C,1032
+VNR,MTECH-MECH,BC-D,1164
+VNR,MTECH-MECH,SC,1036
+VNR,MTECH-MECH,ST,802
+VNR,MTECH-CIVIL,OC,1107
+VNR,MTECH-CIVIL,BC-A,918
+VNR,MTECH-CIVIL,BC-B,1185
+VNR,MTECH-CIVIL,BC-C,1197
+VNR,MTECH-CIVIL,BC-D,773
+VNR,MTECH-CIVIL,SC,1264
+VNR,MTECH-CIVIL,ST,877
+CVR,MTECH-CSE,OC,1472
+CVR,MTECH-CSE,BC-A,1490
+CVR,MTECH-CSE,BC-B,1192
+CVR,MTECH-CSE,BC-C,1104
+CVR,MTECH-CSE,BC-D,1148
+CVR,MTECH-CSE,SC,1052
+CVR,MTECH-CSE,ST,1132
+CVR,MTECH-ECE,OC,1494
+CVR,MTECH-ECE,BC-A,1631
+CVR,MTECH-ECE,BC-B,1562
+CVR,MTECH-ECE,BC-C,1242
+CVR,MTECH-ECE,BC-D,1352
+CVR,MTECH-ECE,SC,1506
+CVR,MTECH-ECE,ST,1411
+CVR,MTECH-EEE,OC,1298
+CVR,MTECH-EEE,BC-A,1564
+CVR,MTECH-EEE,BC-B,1655
+CVR,MTECH-EEE,BC-C,1365
+CVR,MTECH-EEE,BC-D,1277
+CVR,MTECH-EEE,SC,1717
+CVR,MTECH-EEE,ST,1437
+CVR,MTECH-MECH,OC,1550
+CVR,MTECH-MECH,BC-A,1396
+CVR,MTECH-MECH,BC-B,1753
+CVR,MTECH-MECH,BC-C,1484
+CVR,MTECH-MECH,BC-D,1371
+CVR,MTECH-MECH,SC,1370
+CVR,MTECH-MECH,ST,1761
+CVR,MTECH-CIVIL,OC,1482
+CVR,MTECH-CIVIL,BC-A,1676
+CVR,MTECH-CIVIL,BC-B,1611
+CVR,MTECH-CIVIL,BC-C,1591
+CVR,MTECH-CIVIL,BC-D,1272
+CVR,MTECH-CIVIL,SC,1680
+CVR,MTECH-CIVIL,ST,1670
+MGIT,MTECH-CSE,OC,1719
+MGIT,MTECH-CSE,BC-A,1606
+MGIT,MTECH-CSE,BC-B,1712
+MGIT,MTECH-CSE,BC-C,1613
+MGIT,MTECH-CSE,BC-D,1534
+MGIT,MTECH-CSE,SC,1325
+MGIT,MTECH-CSE,ST,1586
+MGIT,MTECH-ECE,OC,1645
+MGIT,MTECH-ECE,BC-A,1536
+MGIT,MTECH-ECE,BC-B,1803
+MGIT,MTECH-ECE,BC-C,1792
+MGIT,MTECH-ECE,BC-D,1684
+MGIT,MTECH-ECE,SC,1921
+MGIT,MTECH-ECE,ST,1630
+MGIT,MTECH-EEE,OC,1500
+MGIT,MTECH-EEE,BC-A,1911
+MGIT,MTECH-EEE,BC-B,1534
+MGIT,MTECH-EEE,BC-C,1706
+MGIT,MTECH-EEE,BC-D,1581
+MGIT,MTECH-EEE,SC,1698
+MGIT,MTECH-EEE,ST,1738
+MGIT,MTECH-MECH,OC,1679
+MGIT,MTECH-MECH,BC-A,1428
+MGIT,MTECH-MECH,BC-B,1505
+MGIT,MTECH-MECH,BC-C,1391
+MGIT,MTECH-MECH,BC-D,1366
+MGIT,MTECH-MECH,SC,1811
+MGIT,MTECH-MECH,ST,1762
+MGIT,MTECH-CIVIL,OC,1684
+MGIT,MTECH-CIVIL,BC-A,1676
+MGIT,MTECH-CIVIL,BC-B,1545
+MGIT,MTECH-CIVIL,BC-C,1858
+MGIT,MTECH-CIVIL,BC-D,1924
+MGIT,MTECH-CIVIL,SC,1964
+MGIT,MTECH-CIVIL,ST,1847
+GRIET,MTECH-CSE,OC,505
+GRIET,MTECH-CSE,BC-A,845
+GRIET,MTECH-CSE,BC-B,734
+GRIET,MTECH-CSE,BC-C,678
+GRIET,MTECH-CSE,BC-D,807
+GRIET,MTECH-CSE,SC,489
+GRIET,MTECH-CSE,ST,870
+GRIET,MTECH-ECE,OC,933
+GRIET,MTECH-ECE,BC-A,832
+GRIET,MTECH-ECE,BC-B,882
+GRIET,MTECH-ECE,BC-C,965
+GRIET,MTECH-ECE,BC-D,593
+GRIET,MTECH-ECE,SC,965
+GRIET,MTECH-ECE,ST,858
+GRIET,MTECH-EEE,OC,892
+GRIET,MTECH-EEE,BC-A,523
+GRIET,MTECH-EEE,BC-B,900
+GRIET,MTECH-EEE,BC-C,838
+GRIET,MTECH-EEE,BC-D,600
+GRIET,MTECH-EEE,SC,628
+GRIET,MTECH-EEE,ST,860
+GRIET,MTECH-MECH,OC,744
+GRIET,MTECH-MECH,BC-A,839
+GRIET,MTECH-MECH,BC-B,881
+GRIET,MTECH-MECH,BC-C,837
+GRIET,MTECH-MECH,BC-D,983
+GRIET,MTECH-MECH,SC,734
+GRIET,MTECH-MECH,ST,567
+GRIET,MTECH-CIVIL,OC,801
+GRIET,MTECH-CIVIL,BC-A,602
+GRIET,MTECH-CIVIL,BC-B,907
+GRIET,MTECH-CIVIL,BC-C,1033
+GRIET,MTECH-CIVIL,BC-D,610
+GRIET,MTECH-CIVIL,SC,1044
+GRIET,MTECH-CIVIL,ST,813
+MREC,MTECH-CSE,OC,1588
+MREC,MTECH-CSE,BC-A,1821
+MREC,MTECH-CSE,BC-B,1404
+MREC,MTECH-CSE,BC-C,1642
+MREC,MTECH-CSE,BC-D,1418
+MREC,MTECH-CSE,SC,1655
+MREC,MTECH-CSE,ST,1655
+MREC,MTECH-ECE,OC,1540
+MREC,MTECH-ECE,BC-A,1618
+MREC,MTECH-ECE,BC-B,1327
+MREC,MTECH-ECE,BC-C,1329
+MREC,MTECH-ECE,BC-D,1555
+MREC,MTECH-ECE,SC,1544
+MREC,MTECH-ECE,ST,1196
+MREC,MTECH-EEE,OC,1426
+MREC,MTECH-EEE,BC-A,1673
+MREC,MTECH-EEE,BC-B,1525
+MREC,MTECH-EEE,BC-C,1643
+MREC,MTECH-EEE,BC-D,1691
+MREC,MTECH-EEE,SC,1552
+MREC,MTECH-EEE,ST,1743
+MREC,MTECH-MECH,OC,1235
+MREC,MTECH-MECH,BC-A,1297
+MREC,MTECH-MECH,BC-B,1461
+MREC,MTECH-MECH,BC-C,1329
+MREC,MTECH-MECH,BC-D,1320
+MREC,MTECH-MECH,SC,1506
+MREC,MTECH-MECH,ST,1358
+MREC,MTECH-CIVIL,OC,1598
+MREC,MTECH-CIVIL,BC-A,1315
+MREC,MTECH-CIVIL,BC-B,1470
+MREC,MTECH-CIVIL,BC-C,1354
+MREC,MTECH-CIVIL,BC-D,1636
+MREC,MTECH-CIVIL,SC,1492
+MREC,MTECH-CIVIL,ST,1537
+SNIST,MTECH-CSE,OC,1420
+SNIST,MTECH-CSE,BC-A,1501
+SNIST,MTECH-CSE,BC-B,1736
+SNIST,MTECH-CSE,BC-C,1724
+SNIST,MTECH-CSE,BC-D,1666
+SNIST,MTECH-CSE,SC,1665
+SNIST,MTECH-CSE,ST,1791
+SNIST,MTECH-ECE,OC,1677
+SNIST,MTECH-ECE,BC-A,1608
+SNIST,MTECH-ECE,BC-B,1769
+SNIST,MTECH-ECE,BC-C,1576
+SNIST,MTECH-ECE,BC-D,1670
+SNIST,MTECH-ECE,SC,1552
+SNIST,MTECH-ECE,ST,1471
+SNIST,MTECH-EEE,OC,1710
+SNIST,MTECH-EEE,BC-A,1707
+SNIST,MTECH-EEE,BC-B,1802
+SNIST,MTECH-EEE,BC-C,1796
+SNIST,MTECH-EEE,BC-D,1791
+SNIST,MTECH-EEE,SC,1692
+SNIST,MTECH-EEE,ST,1713
+SNIST,MTECH-MECH,OC,1563
+SNIST,MTECH-MECH,BC-A,1955
+SNIST,MTECH-MECH,BC-B,1952
+SNIST,MTECH-MECH,BC-C,1762
+SNIST,MTECH-MECH,BC-D,1872
+SNIST,MTECH-MECH,SC,1585
+SNIST,MTECH-MECH,ST,1712
+SNIST,MTECH-CIVIL,OC,1448
+SNIST,MTECH-CIVIL,BC-A,1702
+SNIST,MTECH-CIVIL,BC-B,1924
+SNIST,MTECH-CIVIL,BC-C,1534
+SNIST,MTECH-CIVIL,BC-D,1714
+SNIST,MTECH-CIVIL,SC,1576
+SNIST,MTECH-CIVIL,ST,1444
+VCE,MTECH-CSE,OC,339
+VCE,MTECH-CSE,BC-A,565
+VCE,MTECH-CSE,BC-B,613
+VCE,MTECH-CSE,BC-C,392
+VCE,MTECH-CSE,BC-D,611
+VCE,MTECH-CSE,SC,681
+VCE,MTECH-CSE,ST,565
+VCE,MTECH-ECE,OC,985
+VCE,MTECH-ECE,BC-A,877
+VCE,MTECH-ECE,BC-B,659
+VCE,MTECH-ECE,BC-C,723
+VCE,MTECH-ECE,BC-D,564
+VCE,MTECH-ECE,SC,869
+VCE,MTECH-ECE,ST,772
+VCE,MTECH-EEE,OC,461
+VCE,MTECH-EEE,BC-A,432
+VCE,MTECH-EEE,BC-B,515
+VCE,MTECH-EEE,BC-C,589
+VCE,MTECH-EEE,BC-D,458
+VCE,MTECH-EEE,SC,822
+VCE,MTECH-EEE,ST,844
+VCE,MTECH-MECH,OC,831
+VCE,MTECH-MECH,BC-A,638
+VCE,MTECH-MECH,BC-B,869
+VCE,MTECH-MECH,BC-C,843
+VCE,MTECH-MECH,BC-D,438
+VCE,MTECH-MECH,SC,901
+VCE,MTECH-MECH,ST,806
+VCE,MTECH-CIVIL,OC,821
+VCE,MTECH-CIVIL,BC-A,724
+VCE,MTECH-CIVIL,BC-B,680
+VCE,MTECH-CIVIL,BC-C,483
+VCE,MTECH-CIVIL,BC-D,489
+VCE,MTECH-CIVIL,SC,539
+VCE,MTECH-CIVIL,ST,835
+KUCE,MTECH-CSE,OC,1109
+KUCE,MTECH-CSE,BC-A,1437
+KUCE,MTECH-CSE,BC-B,1362
+KUCE,MTECH-CSE,BC-C,1162
+KUCE,MTECH-CSE,BC-D,1409
+KUCE,MTECH-CSE,SC,1079
+KUCE,MTECH-CSE,ST,1376
+KUCE,MTECH-ECE,OC,1132
+KUCE,MTECH-ECE,BC-A,1180
+KUCE,MTECH-ECE,BC-B,1182
+KUCE,MTECH-ECE,BC-C,1175
+KUCE,MTECH-ECE,BC-D,1292
+KUCE,MTECH-ECE,SC,1214
+KUCE,MTECH-ECE,ST,1188
+KUCE,MTECH-EEE,OC,1410
+KUCE,MTECH-EEE,BC-A,1311
+KUCE,MTECH-EEE,BC-B,1142
+KUCE,MTECH-EEE,BC-C,1287
+KUCE,MTECH-EEE,BC-D,1147
+KUCE,MTECH-EEE,SC,1099
+KUCE,MTECH-EEE,ST,1248
+KUCE,MTECH-MECH,OC,1109
+KUCE,MTECH-MECH,BC-A,1216
+KUCE,MTECH-MECH,BC-B,1077
+KUCE,MTECH-MECH,BC-C,1186
+KUCE,MTECH-MECH,BC-D,991
+KUCE,MTECH-MECH,SC,1071
+KUCE,MTECH-MECH,ST,988
+KUCE,MTECH-CIVIL,OC,1440
+KUCE,MTECH-CIVIL,BC-A,1280
+KUCE,MTECH-CIVIL,BC-B,984
+KUCE,MTECH-CIVIL,BC-C,1242
+KUCE,MTECH-CIVIL,BC-D,1311
+KUCE,MTECH-CIVIL,SC,1326
+KUCE,MTECH-CIVIL,ST,1230
+UCEOU,MTECH-CSE,OC,1216
+UCEOU,MTECH-CSE,BC-A,1267
+UCEOU,MTECH-CSE,BC-B,1315
+UCEOU,MTECH-CSE,BC-C,1425
+UCEOU,MTECH-CSE,BC-D,1330
+UCEOU,MTECH-CSE,SC,1349
+UCEOU,MTECH-CSE,ST,1379
+UCEOU,MTECH-ECE,OC,1000
+UCEOU,MTECH-ECE,BC-A,889
+UCEOU,MTECH-ECE,BC-B,912
+UCEOU,MTECH-ECE,BC-C,1110
+UCEOU,MTECH-ECE,BC-D,1071
+UCEOU,MTECH-ECE,SC,833
+UCEOU,MTECH-ECE,ST,964
+UCEOU,MTECH-EEE,OC,834
+UCEOU,MTECH-EEE,BC-A,1107
+UCEOU,MTECH-EEE,BC-B,887
+UCEOU,MTECH-EEE,BC-C,855
+UCEOU,MTECH-EEE,BC-D,924
+UCEOU,MTECH-EEE,SC,890
+UCEOU,MTECH-EEE,ST,797
+UCEOU,MTECH-MECH,OC,1034
+UCEOU,MTECH-MECH,BC-A,965
+UCEOU,MTECH-MECH,BC-B,1401
+UCEOU,MTECH-MECH,BC-C,1121
+UCEOU,MTECH-MECH,BC-D,964
+UCEOU,MTECH-MECH,SC,1160
+UCEOU,MTECH-MECH,ST,1021
+UCEOU,MTECH-CIVIL,OC,1191
+UCEOU,MTECH-CIVIL,BC-A,1117
+UCEOU,MTECH-CIVIL,BC-B,1133
+UCEOU,MTECH-CIVIL,BC-C,1208
+UCEOU,MTECH-CIVIL,BC-D,897
+UCEOU,MTECH-CIVIL,SC,1273
+UCEOU,MTECH-CIVIL,ST,1258
+BVRIET,MTECH-CSE,OC,1479
+BVRIET,MTECH-CSE,BC-A,1928
+BVRIET,MTECH-CSE,BC-B,1799
+BVRIET,MTECH-CSE,BC-C,1532
+BVRIET,MTECH-CSE,BC-D,1854
+BVRIET,MTECH-CSE,SC,1464
+BVRIET,MTECH-CSE,ST,1866
+BVRIET,MTECH-ECE,OC,1834
+BVRIET,MTECH-ECE,BC-A,1703
+BVRIET,MTECH-ECE,BC-B,1937
+BVRIET,MTECH-ECE,BC-C,1893
+BVRIET,MTECH-ECE,BC-D,1708
+BVRIET,MTECH-ECE,SC,1712
+BVRIET,MTECH-ECE,ST,1582
+BVRIET,MTECH-EEE,OC,1432
+BVRIET,MTECH-EEE,BC-A,1775
+BVRIET,MTECH-EEE,BC-B,1528
+BVRIET,MTECH-EEE,BC-C,1552
+BVRIET,MTECH-EEE,BC-D,1779
+BVRIET,MTECH-EEE,SC,1681
+BVRIET,MTECH-EEE,ST,1603
+BVRIET,MTECH-MECH,OC,1860
+BVRIET,MTECH-MECH,BC-A,1890
+BVRIET,MTECH-MECH,BC-B,1636
+BVRIET,MTECH-MECH,BC-C,1664
+BVRIET,MTECH-MECH,BC-D,1770
+BVRIET,MTECH-MECH,SC,1873
+BVRIET,MTECH-MECH,ST,1705
+BVRIET,MTECH-CIVIL,OC,1760
+BVRIET,MTECH-CIVIL,BC-A,1990
+BVRIET,MTECH-CIVIL,BC-B,1678
+BVRIET,MTECH-CIVIL,BC-C,1675
+BVRIET,MTECH-CIVIL,BC-D,1784
+BVRIET,MTECH-CIVIL,SC,1827
+BVRIET,MTECH-CIVIL,ST,1780
+Anurag Engineering College,MTECH-CSE,OC,1489
+Anurag Engineering College,MTECH-CSE,BC-A,1621
+Anurag Engineering College,MTECH-CSE,BC-B,1368
+Anurag Engineering College,MTECH-CSE,BC-C,1743
+Anurag Engineering College,MTECH-CSE,BC-D,1359
+Anurag Engineering College,MTECH-CSE,SC,1709
+Anurag Engineering College,MTECH-CSE,ST,1591
+Anurag Engineering College,MTECH-ECE,OC,1447
+Anurag Engineering College,MTECH-ECE,BC-A,1463
+Anurag Engineering College,MTECH-ECE,BC-B,1438
+Anurag Engineering College,MTECH-ECE,BC-C,1550
+Anurag Engineering College,MTECH-ECE,BC-D,1510
+Anurag Engineering College,MTECH-ECE,SC,1437
+Anurag Engineering College,MTECH-ECE,ST,1331
+Anurag Engineering College,MTECH-EEE,OC,1530
+Anurag Engineering College,MTECH-EEE,BC-A,1381
+Anurag Engineering College,MTECH-EEE,BC-B,1265
+Anurag Engineering College,MTECH-EEE,BC-C,1351
+Anurag Engineering College,MTECH-EEE,BC-D,1239
+Anurag Engineering College,MTECH-EEE,SC,1408
+Anurag Engineering College,MTECH-EEE,ST,1416
+Anurag Engineering College,MTECH-MECH,OC,1754
+Anurag Engineering College,MTECH-MECH,BC-A,1622
+Anurag Engineering College,MTECH-MECH,BC-B,1473
+Anurag Engineering College,MTECH-MECH,BC-C,1414
+Anurag Engineering College,MTECH-MECH,BC-D,1472
+Anurag Engineering College,MTECH-MECH,SC,1745
+Anurag Engineering College,MTECH-MECH,ST,1639
+Anurag Engineering College,MTECH-CIVIL,OC,1631
+Anurag Engineering College,MTECH-CIVIL,BC-A,1445
+Anurag Engineering College,MTECH-CIVIL,BC-B,1471
+Anurag Engineering College,MTECH-CIVIL,BC-C,1380
+Anurag Engineering College,MTECH-CIVIL,BC-D,1569
+Anurag Engineering College,MTECH-CIVIL,SC,1295
+Anurag Engineering College,MTECH-CIVIL,ST,1529
+CMR Engineering College,MTECH-CSE,OC,1427
+CMR Engineering College,MTECH-CSE,BC-A,1509
+CMR Engineering College,MTECH-CSE,BC-B,1521
+CMR Engineering College,MTECH-CSE,BC-C,1354
+CMR Engineering College,MTECH-CSE,BC-D,1556
+CMR Engineering College,MTECH-CSE,SC,1484
+CMR Engineering College,MTECH-CSE,ST,1297
+CMR Engineering College,MTECH-ECE,OC,1458
+CMR Engineering College,MTECH-ECE,BC-A,1167
+CMR Engineering College,MTECH-ECE,BC-B,1174
+CMR Engineering College,MTECH-ECE,BC-C,1272
+CMR Engineering College,MTECH-ECE,BC-D,1596
+CMR Engineering College,MTECH-ECE,SC,1192
+CMR Engineering College,MTECH-ECE,ST,1115
+CMR Engineering College,MTECH-EEE,OC,1197
+CMR Engineering College,MTECH-EEE,BC-A,1519
+CMR Engineering College,MTECH-EEE,BC-B,1293
+CMR Engineering College,MTECH-EEE,BC-C,1434
+CMR Engineering College,MTECH-EEE,BC-D,1396
+CMR Engineering College,MTECH-EEE,SC,1530
+CMR Engineering College,MTECH-EEE,ST,1221
+CMR Engineering College,MTECH-MECH,OC,1271
+CMR Engineering College,MTECH-MECH,BC-A,1560
+CMR Engineering College,MTECH-MECH,BC-B,1132
+CMR Engineering College,MTECH-MECH,BC-C,1269
+CMR Engineering College,MTECH-MECH,BC-D,1229
+CMR Engineering College,MTECH-MECH,SC,1131
+CMR Engineering College,MTECH-MECH,ST,1224
+CMR Engineering College,MTECH-CIVIL,OC,1385
+CMR Engineering College,MTECH-CIVIL,BC-A,1537
+CMR Engineering College,MTECH-CIVIL,BC-B,1672
+CMR Engineering College,MTECH-CIVIL,BC-C,1550
+CMR Engineering College,MTECH-CIVIL,BC-D,1736
+CMR Engineering College,MTECH-CIVIL,SC,1401
+CMR Engineering College,MTECH-CIVIL,ST,1508
+Malla Reddy Engineering College,MTECH-CSE,OC,1270
+Malla Reddy Engineering College,MTECH-CSE,BC-A,1141
+Malla Reddy Engineering College,MTECH-CSE,BC-B,1216
+Malla Reddy Engineering College,MTECH-CSE,BC-C,1338
+Malla Reddy Engineering College,MTECH-CSE,BC-D,1015
+Malla Reddy Engineering College,MTECH-CSE,SC,1028
+Malla Reddy Engineering College,MTECH-CSE,ST,1435
+Malla Reddy Engineering College,MTECH-ECE,OC,1544
+Malla Reddy Engineering College,MTECH-ECE,BC-A,1440
+Malla Reddy Engineering College,MTECH-ECE,BC-B,1472
+Malla Reddy Engineering College,MTECH-ECE,BC-C,1253
+Malla Reddy Engineering College,MTECH-ECE,BC-D,1326
+Malla Reddy Engineering College,MTECH-ECE,SC,1336
+Malla Reddy Engineering College,MTECH-ECE,ST,1461
+Malla Reddy Engineering College,MTECH-EEE,OC,1343
+Malla Reddy Engineering College,MTECH-EEE,BC-A,1180
+Malla Reddy Engineering College,MTECH-EEE,BC-B,986
+Malla Reddy Engineering College,MTECH-EEE,BC-C,1413
+Malla Reddy Engineering College,MTECH-EEE,BC-D,982
+Malla Reddy Engineering College,MTECH-EEE,SC,1430
+Malla Reddy Engineering College,MTECH-EEE,ST,966
+Malla Reddy Engineering College,MTECH-MECH,OC,1445
+Malla Reddy Engineering College,MTECH-MECH,BC-A,1268
+Malla Reddy Engineering College,MTECH-MECH,BC-B,1500
+Malla Reddy Engineering College,MTECH-MECH,BC-C,1527
+Malla Reddy Engineering College,MTECH-MECH,BC-D,1177
+Malla Reddy Engineering College,MTECH-MECH,SC,1302
+Malla Reddy Engineering College,MTECH-MECH,ST,1186
+Malla Reddy Engineering College,MTECH-CIVIL,OC,1429
+Malla Reddy Engineering College,MTECH-CIVIL,BC-A,1370
+Malla Reddy Engineering College,MTECH-CIVIL,BC-B,1394
+Malla Reddy Engineering College,MTECH-CIVIL,BC-C,1109
+Malla Reddy Engineering College,MTECH-CIVIL,BC-D,1351
+Malla Reddy Engineering College,MTECH-CIVIL,SC,1520
+Malla Reddy Engineering College,MTECH-CIVIL,ST,1416
+Malla Reddy Institute of Technology,MTECH-CSE,OC,764
+Malla Reddy Institute of Technology,MTECH-CSE,BC-A,613
+Malla Reddy Institute of Technology,MTECH-CSE,BC-B,684
+Malla Reddy Institute of Technology,MTECH-CSE,BC-C,943
+Malla Reddy Institute of Technology,MTECH-CSE,BC-D,1094
+Malla Reddy Institute of Technology,MTECH-CSE,SC,680
+Malla Reddy Institute of Technology,MTECH-CSE,ST,778
+Malla Reddy Institute of Technology,MTECH-ECE,OC,959
+Malla Reddy Institute of Technology,MTECH-ECE,BC-A,563
+Malla Reddy Institute of Technology,MTECH-ECE,BC-B,944
+Malla Reddy Institute of Technology,MTECH-ECE,BC-C,817
+Malla Reddy Institute of Technology,MTECH-ECE,BC-D,877
+Malla Reddy Institute of Technology,MTECH-ECE,SC,887
+Malla Reddy Institute of Technology,MTECH-ECE,ST,673
+Malla Reddy Institute of Technology,MTECH-EEE,OC,554
+Malla Reddy Institute of Technology,MTECH-EEE,BC-A,607
+Malla Reddy Institute of Technology,MTECH-EEE,BC-B,890
+Malla Reddy Institute of Technology,MTECH-EEE,BC-C,644
+Malla Reddy Institute of Technology,MTECH-EEE,BC-D,489
+Malla Reddy Institute of Technology,MTECH-EEE,SC,696
+Malla Reddy Institute of Technology,MTECH-EEE,ST,840
+Malla Reddy Institute of Technology,MTECH-MECH,OC,522
+Malla Reddy Institute of Technology,MTECH-MECH,BC-A,646
+Malla Reddy Institute of Technology,MTECH-MECH,BC-B,743
+Malla Reddy Institute of Technology,MTECH-MECH,BC-C,471
+Malla Reddy Institute of Technology,MTECH-MECH,BC-D,566
+Malla Reddy Institute of Technology,MTECH-MECH,SC,870
+Malla Reddy Institute of Technology,MTECH-MECH,ST,403
+Malla Reddy Institute of Technology,MTECH-CIVIL,OC,497
+Malla Reddy Institute of Technology,MTECH-CIVIL,BC-A,755
+Malla Reddy Institute of Technology,MTECH-CIVIL,BC-B,859
+Malla Reddy Institute of Technology,MTECH-CIVIL,BC-C,875
+Malla Reddy Institute of Technology,MTECH-CIVIL,BC-D,634
+Malla Reddy Institute of Technology,MTECH-CIVIL,SC,974
+Malla Reddy Institute of Technology,MTECH-CIVIL,ST,900
+SR Engineering College,MTECH-CSE,OC,1650
+SR Engineering College,MTECH-CSE,BC-A,1837
+SR Engineering College,MTECH-CSE,BC-B,1546
+SR Engineering College,MTECH-CSE,BC-C,1343
+SR Engineering College,MTECH-CSE,BC-D,1698
+SR Engineering College,MTECH-CSE,SC,1365
+SR Engineering College,MTECH-CSE,ST,1369
+SR Engineering College,MTECH-ECE,OC,1542
+SR Engineering College,MTECH-ECE,BC-A,1290
+SR Engineering College,MTECH-ECE,BC-B,1415
+SR Engineering College,MTECH-ECE,BC-C,1281
+SR Engineering College,MTECH-ECE,BC-D,1522
+SR Engineering College,MTECH-ECE,SC,1558
+SR Engineering College,MTECH-ECE,ST,1461
+SR Engineering College,MTECH-EEE,OC,1442
+SR Engineering College,MTECH-EEE,BC-A,1571
+SR Engineering College,MTECH-EEE,BC-B,1826
+SR Engineering College,MTECH-EEE,BC-C,1559
+SR Engineering College,MTECH-EEE,BC-D,1357
+SR Engineering College,MTECH-EEE,SC,1399
+SR Engineering College,MTECH-EEE,ST,1706
+SR Engineering College,MTECH-MECH,OC,1185
+SR Engineering College,MTECH-MECH,BC-A,1480
+SR Engineering College,MTECH-MECH,BC-B,1239
+SR Engineering College,MTECH-MECH,BC-C,1215
+SR Engineering College,MTECH-MECH,BC-D,1462
+SR Engineering College,MTECH-MECH,SC,1518
+SR Engineering College,MTECH-MECH,ST,1321
+SR Engineering College,MTECH-CIVIL,OC,1482
+SR Engineering College,MTECH-CIVIL,BC-A,1545
+SR Engineering College,MTECH-CIVIL,BC-B,1839
+SR Engineering College,MTECH-CIVIL,BC-C,1466
+SR Engineering College,MTECH-CIVIL,BC-D,1451
+SR Engineering College,MTECH-CIVIL,SC,1372
+SR Engineering College,MTECH-CIVIL,ST,1816
+Vaagdevi Engineering College,MTECH-CSE,OC,1682
+Vaagdevi Engineering College,MTECH-CSE,BC-A,1299
+Vaagdevi Engineering College,MTECH-CSE,BC-B,1505
+Vaagdevi Engineering College,MTECH-CSE,BC-C,1589
+Vaagdevi Engineering College,MTECH-CSE,BC-D,1298
+Vaagdevi Engineering College,MTECH-CSE,SC,1654
+Vaagdevi Engineering College,MTECH-CSE,ST,1344
+Vaagdevi Engineering College,MTECH-ECE,OC,1289
+Vaagdevi Engineering College,MTECH-ECE,BC-A,1140
+Vaagdevi Engineering College,MTECH-ECE,BC-B,1366
+Vaagdevi Engineering College,MTECH-ECE,BC-C,1226
+Vaagdevi Engineering College,MTECH-ECE,BC-D,1364
+Vaagdevi Engineering College,MTECH-ECE,SC,1495
+Vaagdevi Engineering College,MTECH-ECE,ST,1169
+Vaagdevi Engineering College,MTECH-EEE,OC,1356
+Vaagdevi Engineering College,MTECH-EEE,BC-A,1330
+Vaagdevi Engineering College,MTECH-EEE,BC-B,1200
+Vaagdevi Engineering College,MTECH-EEE,BC-C,1263
+Vaagdevi Engineering College,MTECH-EEE,BC-D,1505
+Vaagdevi Engineering College,MTECH-EEE,SC,1465
+Vaagdevi Engineering College,MTECH-EEE,ST,1533
+Vaagdevi Engineering College,MTECH-MECH,OC,1369
+Vaagdevi Engineering College,MTECH-MECH,BC-A,1133
+Vaagdevi Engineering College,MTECH-MECH,BC-B,1120
+Vaagdevi Engineering College,MTECH-MECH,BC-C,1311
+Vaagdevi Engineering College,MTECH-MECH,BC-D,1321
+Vaagdevi Engineering College,MTECH-MECH,SC,1274
+Vaagdevi Engineering College,MTECH-MECH,ST,1476
+Vaagdevi Engineering College,MTECH-CIVIL,OC,1106
+Vaagdevi Engineering College,MTECH-CIVIL,BC-A,1295
+Vaagdevi Engineering College,MTECH-CIVIL,BC-B,1385
+Vaagdevi Engineering College,MTECH-CIVIL,BC-C,1211
+Vaagdevi Engineering College,MTECH-CIVIL,BC-D,1287
+Vaagdevi Engineering College,MTECH-CIVIL,SC,1378
+Vaagdevi Engineering College,MTECH-CIVIL,ST,1239
+Geethanjali College of Engineering,MTECH-CSE,OC,1403
+Geethanjali College of Engineering,MTECH-CSE,BC-A,1419
+Geethanjali College of Engineering,MTECH-CSE,BC-B,1524
+Geethanjali College of Engineering,MTECH-CSE,BC-C,1431
+Geethanjali College of Engineering,MTECH-CSE,BC-D,1437
+Geethanjali College of Engineering,MTECH-CSE,SC,1472
+Geethanjali College of Engineering,MTECH-CSE,ST,1467
+Geethanjali College of Engineering,MTECH-ECE,OC,1410
+Geethanjali College of Engineering,MTECH-ECE,BC-A,1179
+Geethanjali College of Engineering,MTECH-ECE,BC-B,1236
+Geethanjali College of Engineering,MTECH-ECE,BC-C,1230
+Geethanjali College of Engineering,MTECH-ECE,BC-D,1429
+Geethanjali College of Engineering,MTECH-ECE,SC,1470
+Geethanjali College of Engineering,MTECH-ECE,ST,1172
+Geethanjali College of Engineering,MTECH-EEE,OC,1644
+Geethanjali College of Engineering,MTECH-EEE,BC-A,1636
+Geethanjali College of Engineering,MTECH-EEE,BC-B,1371
+Geethanjali College of Engineering,MTECH-EEE,BC-C,1531
+Geethanjali College of Engineering,MTECH-EEE,BC-D,1507
+Geethanjali College of Engineering,MTECH-EEE,SC,1663
+Geethanjali College of Engineering,MTECH-EEE,ST,1447
+Geethanjali College of Engineering,MTECH-MECH,OC,1301
+Geethanjali College of Engineering,MTECH-MECH,BC-A,1300
+Geethanjali College of Engineering,MTECH-MECH,BC-B,1523
+Geethanjali College of Engineering,MTECH-MECH,BC-C,1455
+Geethanjali College of Engineering,MTECH-MECH,BC-D,1505
+Geethanjali College of Engineering,MTECH-MECH,SC,1263
+Geethanjali College of Engineering,MTECH-MECH,ST,1296
+Geethanjali College of Engineering,MTECH-CIVIL,OC,1324
+Geethanjali College of Engineering,MTECH-CIVIL,BC-A,1535
+Geethanjali College of Engineering,MTECH-CIVIL,BC-B,1426
+Geethanjali College of Engineering,MTECH-CIVIL,BC-C,1238
+Geethanjali College of Engineering,MTECH-CIVIL,BC-D,1289
+Geethanjali College of Engineering,MTECH-CIVIL,SC,1085
+Geethanjali College of Engineering,MTECH-CIVIL,ST,1128
+MLR Institute of Technology,MTECH-CSE,OC,1444
+MLR Institute of Technology,MTECH-CSE,BC-A,1296
+MLR Institute of Technology,MTECH-CSE,BC-B,1277
+MLR Institute of Technology,MTECH-CSE,BC-C,1446
+MLR Institute of Technology,MTECH-CSE,BC-D,1259
+MLR Institute of Technology,MTECH-CSE,SC,1560
+MLR Institute of Technology,MTECH-CSE,ST,1567
+MLR Institute of Technology,MTECH-ECE,OC,1388
+MLR Institute of Technology,MTECH-ECE,BC-A,1781
+MLR Institute of Technology,MTECH-ECE,BC-B,1777
+MLR Institute of Technology,MTECH-ECE,BC-C,1613
+MLR Institute of Technology,MTECH-ECE,BC-D,1327
+MLR Institute of Technology,MTECH-ECE,SC,1451
+MLR Institute of Technology,MTECH-ECE,ST,1543
+MLR Institute of Technology,MTECH-EEE,OC,1425
+MLR Institute of Technology,MTECH-EEE,BC-A,1550
+MLR Institute of Technology,MTECH-EEE,BC-B,1446
+MLR Institute of Technology,MTECH-EEE,BC-C,1894
+MLR Institute of Technology,MTECH-EEE,BC-D,1486
+MLR Institute of Technology,MTECH-EEE,SC,1825
+MLR Institute of Technology,MTECH-EEE,ST,1605
+MLR Institute of Technology,MTECH-MECH,OC,1715
+MLR Institute of Technology,MTECH-MECH,BC-A,1619
+MLR Institute of Technology,MTECH-MECH,BC-B,1853
+MLR Institute of Technology,MTECH-MECH,BC-C,1523
+MLR Institute of Technology,MTECH-MECH,BC-D,1832
+MLR Institute of Technology,MTECH-MECH,SC,1732
+MLR Institute of Technology,MTECH-MECH,ST,1683
+MLR Institute of Technology,MTECH-CIVIL,OC,1307
+MLR Institute of Technology,MTECH-CIVIL,BC-A,1737
+MLR Institute of Technology,MTECH-CIVIL,BC-B,1389
+MLR Institute of Technology,MTECH-CIVIL,BC-C,1342
+MLR Institute of Technology,MTECH-CIVIL,BC-D,1642
+MLR Institute of Technology,MTECH-CIVIL,SC,1736
+MLR Institute of Technology,MTECH-CIVIL,ST,1402
+Guru Nanak Engineering College,MTECH-CSE,OC,1531
+Guru Nanak Engineering College,MTECH-CSE,BC-A,1775
+Guru Nanak Engineering College,MTECH-CSE,BC-B,1485
+Guru Nanak Engineering College,MTECH-CSE,BC-C,1783
+Guru Nanak Engineering College,MTECH-CSE,BC-D,1688
+Guru Nanak Engineering College,MTECH-CSE,SC,1848
+Guru Nanak Engineering College,MTECH-CSE,ST,1738
+Guru Nanak Engineering College,MTECH-ECE,OC,1705
+Guru Nanak Engineering College,MTECH-ECE,BC-A,1895
+Guru Nanak Engineering College,MTECH-ECE,BC-B,1936
+Guru Nanak Engineering College,MTECH-ECE,BC-C,1930
+Guru Nanak Engineering College,MTECH-ECE,BC-D,1547
+Guru Nanak Engineering College,MTECH-ECE,SC,1464
+Guru Nanak Engineering College,MTECH-ECE,ST,1932
+Guru Nanak Engineering College,MTECH-EEE,OC,1341
+Guru Nanak Engineering College,MTECH-EEE,BC-A,1717
+Guru Nanak Engineering College,MTECH-EEE,BC-B,1317
+Guru Nanak Engineering College,MTECH-EEE,BC-C,1509
+Guru Nanak Engineering College,MTECH-EEE,BC-D,1390
+Guru Nanak Engineering College,MTECH-EEE,SC,1358
+Guru Nanak Engineering College,MTECH-EEE,ST,1335
+Guru Nanak Engineering College,MTECH-MECH,OC,1440
+Guru Nanak Engineering College,MTECH-MECH,BC-A,1395
+Guru Nanak Engineering College,MTECH-MECH,BC-B,1512
+Guru Nanak Engineering College,MTECH-MECH,BC-C,1700
+Guru Nanak Engineering College,MTECH-MECH,BC-D,1464
+Guru Nanak Engineering College,MTECH-MECH,SC,1405
+Guru Nanak Engineering College,MTECH-MECH,ST,1554
+Guru Nanak Engineering College,MTECH-CIVIL,OC,1592
+Guru Nanak Engineering College,MTECH-CIVIL,BC-A,1368
+Guru Nanak Engineering College,MTECH-CIVIL,BC-B,1386
+Guru Nanak Engineering College,MTECH-CIVIL,BC-C,1635
+Guru Nanak Engineering College,MTECH-CIVIL,BC-D,1522
+Guru Nanak Engineering College,MTECH-CIVIL,SC,1280
+Guru Nanak Engineering College,MTECH-CIVIL,ST,1637
+Methodist College of Engineering,MTECH-CSE,OC,1577
+Methodist College of Engineering,MTECH-CSE,BC-A,1473
+Methodist College of Engineering,MTECH-CSE,BC-B,1740
+Methodist College of Engineering,MTECH-CSE,BC-C,1593
+Methodist College of Engineering,MTECH-CSE,BC-D,1581
+Methodist College of Engineering,MTECH-CSE,SC,1520
+Methodist College of Engineering,MTECH-CSE,ST,1429
+Methodist College of Engineering,MTECH-ECE,OC,1982
+Methodist College of Engineering,MTECH-ECE,BC-A,1866
+Methodist College of Engineering,MTECH-ECE,BC-B,1797
+Methodist College of Engineering,MTECH-ECE,BC-C,1788
+Methodist College of Engineering,MTECH-ECE,BC-D,1694
+Methodist College of Engineering,MTECH-ECE,SC,1952
+Methodist College of Engineering,MTECH-ECE,ST,1960
+Methodist College of Engineering,MTECH-EEE,OC,1568
+Methodist College of Engineering,MTECH-EEE,BC-A,1888
+Methodist College of Engineering,MTECH-EEE,BC-B,1777
+Methodist College of Engineering,MTECH-EEE,BC-C,1855
+Methodist College of Engineering,MTECH-EEE,BC-D,1625
+Methodist College of Engineering,MTECH-EEE,SC,1818
+Methodist College of Engineering,MTECH-EEE,ST,1440
+Methodist College of Engineering,MTECH-MECH,OC,1606
+Methodist College of Engineering,MTECH-MECH,BC-A,1626
+Methodist College of Engineering,MTECH-MECH,BC-B,1850
+Methodist College of Engineering,MTECH-MECH,BC-C,1657
+Methodist College of Engineering,MTECH-MECH,BC-D,1456
+Methodist College of Engineering,MTECH-MECH,SC,1808
+Methodist College of Engineering,MTECH-MECH,ST,1793
+Methodist College of Engineering,MTECH-CIVIL,OC,1623
+Methodist College of Engineering,MTECH-CIVIL,BC-A,1733
+Methodist College of Engineering,MTECH-CIVIL,BC-B,1621
+Methodist College of Engineering,MTECH-CIVIL,BC-C,1572
+Methodist College of Engineering,MTECH-CIVIL,BC-D,1879
+Methodist College of Engineering,MTECH-CIVIL,SC,1811
+Methodist College of Engineering,MTECH-CIVIL,ST,1577
+St. Martins Engineering College,MTECH-CSE,OC,1366
+St. Martins Engineering College,MTECH-CSE,BC-A,1287
+St. Martins Engineering College,MTECH-CSE,BC-B,1111
+St. Martins Engineering College,MTECH-CSE,BC-C,1261
+St. Martins Engineering College,MTECH-CSE,BC-D,1365
+St. Martins Engineering College,MTECH-CSE,SC,1144
+St. Martins Engineering College,MTECH-CSE,ST,972
+St. Martins Engineering College,MTECH-ECE,OC,1093
+St. Martins Engineering College,MTECH-ECE,BC-A,1509
+St. Martins Engineering College,MTECH-ECE,BC-B,1546
+St. Martins Engineering College,MTECH-ECE,BC-C,1496
+St. Martins Engineering College,MTECH-ECE,BC-D,1368
+St. Martins Engineering College,MTECH-ECE,SC,1111
+St. Martins Engineering College,MTECH-ECE,ST,1425
+St. Martins Engineering College,MTECH-EEE,OC,1297
+St. Martins Engineering College,MTECH-EEE,BC-A,1172
+St. Martins Engineering College,MTECH-EEE,BC-B,1175
+St. Martins Engineering College,MTECH-EEE,BC-C,1051
+St. Martins Engineering College,MTECH-EEE,BC-D,857
+St. Martins Engineering College,MTECH-EEE,SC,938
+St. Martins Engineering College,MTECH-EEE,ST,950
+St. Martins Engineering College,MTECH-MECH,OC,1383
+St. Martins Engineering College,MTECH-MECH,BC-A,1244
+St. Martins Engineering College,MTECH-MECH,BC-B,1187
+St. Martins Engineering College,MTECH-MECH,BC-C,1163
+St. Martins Engineering College,MTECH-MECH,BC-D,1263
+St. Martins Engineering College,MTECH-MECH,SC,1063
+St. Martins Engineering College,MTECH-MECH,ST,917
+St. Martins Engineering College,MTECH-CIVIL,OC,1529
+St. Martins Engineering College,MTECH-CIVIL,BC-A,1260
+St. Martins Engineering College,MTECH-CIVIL,BC-B,1551
+St. Martins Engineering College,MTECH-CIVIL,BC-C,1241
+St. Martins Engineering College,MTECH-CIVIL,BC-D,1475
+St. Martins Engineering College,MTECH-CIVIL,SC,1589
+St. Martins Engineering College,MTECH-CIVIL,ST,1463
+Princeton College of Engineering,MTECH-CSE,OC,1417
+Princeton College of Engineering,MTECH-CSE,BC-A,1246
+Princeton College of Engineering,MTECH-CSE,BC-B,1426
+Princeton College of Engineering,MTECH-CSE,BC-C,1360
+Princeton College of Engineering,MTECH-CSE,BC-D,1495
+Princeton College of Engineering,MTECH-CSE,SC,1401
+Princeton College of Engineering,MTECH-CSE,ST,1304
+Princeton College of Engineering,MTECH-ECE,OC,980
+Princeton College of Engineering,MTECH-ECE,BC-A,1250
+Princeton College of Engineering,MTECH-ECE,BC-B,1365
+Princeton College of Engineering,MTECH-ECE,BC-C,1313
+Princeton College of Engineering,MTECH-ECE,BC-D,1128
+Princeton College of Engineering,MTECH-ECE,SC,1037
+Princeton College of Engineering,MTECH-ECE,ST,1015
+Princeton College of Engineering,MTECH-EEE,OC,1500
+Princeton College of Engineering,MTECH-EEE,BC-A,1269
+Princeton College of Engineering,MTECH-EEE,BC-B,1152
+Princeton College of Engineering,MTECH-EEE,BC-C,1011
+Princeton College of Engineering,MTECH-EEE,BC-D,1501
+Princeton College of Engineering,MTECH-EEE,SC,1093
+Princeton College of Engineering,MTECH-EEE,ST,1265
+Princeton College of Engineering,MTECH-MECH,OC,1616
+Princeton College of Engineering,MTECH-MECH,BC-A,1411
+Princeton College of Engineering,MTECH-MECH,BC-B,1620
+Princeton College of Engineering,MTECH-MECH,BC-C,1470
+Princeton College of Engineering,MTECH-MECH,BC-D,1228
+Princeton College of Engineering,MTECH-MECH,SC,1288
+Princeton College of Engineering,MTECH-MECH,ST,1503
+Princeton College of Engineering,MTECH-CIVIL,OC,1273
+Princeton College of Engineering,MTECH-CIVIL,BC-A,1542
+Princeton College of Engineering,MTECH-CIVIL,BC-B,1226
+Princeton College of Engineering,MTECH-CIVIL,BC-C,1423
+Princeton College of Engineering,MTECH-CIVIL,BC-D,1112
+Princeton College of Engineering,MTECH-CIVIL,SC,1542
+Princeton College of Engineering,MTECH-CIVIL,ST,1273
+Nalla Narasimha Reddy Engineering College,MTECH-CSE,OC,1369
+Nalla Narasimha Reddy Engineering College,MTECH-CSE,BC-A,1205
+Nalla Narasimha Reddy Engineering College,MTECH-CSE,BC-B,1158
+Nalla Narasimha Reddy Engineering College,MTECH-CSE,BC-C,1386
+Nalla Narasimha Reddy Engineering College,MTECH-CSE,BC-D,1451
+Nalla Narasimha Reddy Engineering College,MTECH-CSE,SC,1322
+Nalla Narasimha Reddy Engineering College,MTECH-CSE,ST,1469
+Nalla Narasimha Reddy Engineering College,MTECH-ECE,OC,1096
+Nalla Narasimha Reddy Engineering College,MTECH-ECE,BC-A,1305
+Nalla Narasimha Reddy Engineering College,MTECH-ECE,BC-B,1246
+Nalla Narasimha Reddy Engineering College,MTECH-ECE,BC-C,1317
+Nalla Narasimha Reddy Engineering College,MTECH-ECE,BC-D,1452
+Nalla Narasimha Reddy Engineering College,MTECH-ECE,SC,1312
+Nalla Narasimha Reddy Engineering College,MTECH-ECE,ST,1107
+Nalla Narasimha Reddy Engineering College,MTECH-EEE,OC,921
+Nalla Narasimha Reddy Engineering College,MTECH-EEE,BC-A,1021
+Nalla Narasimha Reddy Engineering College,MTECH-EEE,BC-B,1170
+Nalla Narasimha Reddy Engineering College,MTECH-EEE,BC-C,1115
+Nalla Narasimha Reddy Engineering College,MTECH-EEE,BC-D,926
+Nalla Narasimha Reddy Engineering College,MTECH-EEE,SC,1353
+Nalla Narasimha Reddy Engineering College,MTECH-EEE,ST,1116
+Nalla Narasimha Reddy Engineering College,MTECH-MECH,OC,1151
+Nalla Narasimha Reddy Engineering College,MTECH-MECH,BC-A,1024
+Nalla Narasimha Reddy Engineering College,MTECH-MECH,BC-B,1366
+Nalla Narasimha Reddy Engineering College,MTECH-MECH,BC-C,1199
+Nalla Narasimha Reddy Engineering College,MTECH-MECH,BC-D,975
+Nalla Narasimha Reddy Engineering College,MTECH-MECH,SC,1307
+Nalla Narasimha Reddy Engineering College,MTECH-MECH,ST,1229
+Nalla Narasimha Reddy Engineering College,MTECH-CIVIL,OC,1249
+Nalla Narasimha Reddy Engineering College,MTECH-CIVIL,BC-A,1206
+Nalla Narasimha Reddy Engineering College,MTECH-CIVIL,BC-B,1277
+Nalla Narasimha Reddy Engineering College,MTECH-CIVIL,BC-C,1258
+Nalla Narasimha Reddy Engineering College,MTECH-CIVIL,BC-D,1315
+Nalla Narasimha Reddy Engineering College,MTECH-CIVIL,SC,1207
+Nalla Narasimha Reddy Engineering College,MTECH-CIVIL,ST,1141
+Indur Institute of Engineering,MTECH-CSE,OC,1098
+Indur Institute of Engineering,MTECH-CSE,BC-A,1125
+Indur Institute of Engineering,MTECH-CSE,BC-B,1139
+Indur Institute of Engineering,MTECH-CSE,BC-C,913
+Indur Institute of Engineering,MTECH-CSE,BC-D,949
+Indur Institute of Engineering,MTECH-CSE,SC,844
+Indur Institute of Engineering,MTECH-CSE,ST,713
+Indur Institute of Engineering,MTECH-ECE,OC,854
+Indur Institute of Engineering,MTECH-ECE,BC-A,618
+Indur Institute of Engineering,MTECH-ECE,BC-B,729
+Indur Institute of Engineering,MTECH-ECE,BC-C,786
+Indur Institute of Engineering,MTECH-ECE,BC-D,674
+Indur Institute of Engineering,MTECH-ECE,SC,917
+Indur Institute of Engineering,MTECH-ECE,ST,933
+Indur Institute of Engineering,MTECH-EEE,OC,710
+Indur Institute of Engineering,MTECH-EEE,BC-A,702
+Indur Institute of Engineering,MTECH-EEE,BC-B,542
+Indur Institute of Engineering,MTECH-EEE,BC-C,784
+Indur Institute of Engineering,MTECH-EEE,BC-D,957
+Indur Institute of Engineering,MTECH-EEE,SC,880
+Indur Institute of Engineering,MTECH-EEE,ST,526
+Indur Institute of Engineering,MTECH-MECH,OC,567
+Indur Institute of Engineering,MTECH-MECH,BC-A,815
+Indur Institute of Engineering,MTECH-MECH,BC-B,621
+Indur Institute of Engineering,MTECH-MECH,BC-C,893
+Indur Institute of Engineering,MTECH-MECH,BC-D,701
+Indur Institute of Engineering,MTECH-MECH,SC,574
+Indur Institute of Engineering,MTECH-MECH,ST,708
+Indur Institute of Engineering,MTECH-CIVIL,OC,1016
+Indur Institute of Engineering,MTECH-CIVIL,BC-A,915
+Indur Institute of Engineering,MTECH-CIVIL,BC-B,1121
+Indur Institute of Engineering,MTECH-CIVIL,BC-C,792
+Indur Institute of Engineering,MTECH-CIVIL,BC-D,1115
+Indur Institute of Engineering,MTECH-CIVIL,SC,1047
+Indur Institute of Engineering,MTECH-CIVIL,ST,1180
+AVN Institute of Engineering,MTECH-CSE,OC,1328
+AVN Institute of Engineering,MTECH-CSE,BC-A,1176
+AVN Institute of Engineering,MTECH-CSE,BC-B,1135
+AVN Institute of Engineering,MTECH-CSE,BC-C,1198
+AVN Institute of Engineering,MTECH-CSE,BC-D,938
+AVN Institute of Engineering,MTECH-CSE,SC,1107
+AVN Institute of Engineering,MTECH-CSE,ST,1087
+AVN Institute of Engineering,MTECH-ECE,OC,938
+AVN Institute of Engineering,MTECH-ECE,BC-A,790
+AVN Institute of Engineering,MTECH-ECE,BC-B,1172
+AVN Institute of Engineering,MTECH-ECE,BC-C,1197
+AVN Institute of Engineering,MTECH-ECE,BC-D,962
+AVN Institute of Engineering,MTECH-ECE,SC,833
+AVN Institute of Engineering,MTECH-ECE,ST,902
+AVN Institute of Engineering,MTECH-EEE,OC,867
+AVN Institute of Engineering,MTECH-EEE,BC-A,1110
+AVN Institute of Engineering,MTECH-EEE,BC-B,1212
+AVN Institute of Engineering,MTECH-EEE,BC-C,1071
+AVN Institute of Engineering,MTECH-EEE,BC-D,937
+AVN Institute of Engineering,MTECH-EEE,SC,806
+AVN Institute of Engineering,MTECH-EEE,ST,775
+AVN Institute of Engineering,MTECH-MECH,OC,1099
+AVN Institute of Engineering,MTECH-MECH,BC-A,1139
+AVN Institute of Engineering,MTECH-MECH,BC-B,1180
+AVN Institute of Engineering,MTECH-MECH,BC-C,1373
+AVN Institute of Engineering,MTECH-MECH,BC-D,1317
+AVN Institute of Engineering,MTECH-MECH,SC,1417
+AVN Institute of Engineering,MTECH-MECH,ST,1009
+AVN Institute of Engineering,MTECH-CIVIL,OC,1078
+AVN Institute of Engineering,MTECH-CIVIL,BC-A,976
+AVN Institute of Engineering,MTECH-CIVIL,BC-B,1265
+AVN Institute of Engineering,MTECH-CIVIL,BC-C,902
+AVN Institute of Engineering,MTECH-CIVIL,BC-D,1225
+AVN Institute of Engineering,MTECH-CIVIL,SC,948
+AVN Institute of Engineering,MTECH-CIVIL,ST,1183
+Brilliant Institute of Engineering,MTECH-CSE,OC,508
+Brilliant Institute of Engineering,MTECH-CSE,BC-A,568
+Brilliant Institute of Engineering,MTECH-CSE,BC-B,521
+Brilliant Institute of Engineering,MTECH-CSE,BC-C,696
+Brilliant Institute of Engineering,MTECH-CSE,BC-D,381
+Brilliant Institute of Engineering,MTECH-CSE,SC,325
+Brilliant Institute of Engineering,MTECH-CSE,ST,217
+Brilliant Institute of Engineering,MTECH-ECE,OC,472
+Brilliant Institute of Engineering,MTECH-ECE,BC-A,432
+Brilliant Institute of Engineering,MTECH-ECE,BC-B,290
+Brilliant Institute of Engineering,MTECH-ECE,BC-C,258
+Brilliant Institute of Engineering,MTECH-ECE,BC-D,521
+Brilliant Institute of Engineering,MTECH-ECE,SC,549
+Brilliant Institute of Engineering,MTECH-ECE,ST,574
+Brilliant Institute of Engineering,MTECH-EEE,OC,585
+Brilliant Institute of Engineering,MTECH-EEE,BC-A,628
+Brilliant Institute of Engineering,MTECH-EEE,BC-B,598
+Brilliant Institute of Engineering,MTECH-EEE,BC-C,503
+Brilliant Institute of Engineering,MTECH-EEE,BC-D,445
+Brilliant Institute of Engineering,MTECH-EEE,SC,560
+Brilliant Institute of Engineering,MTECH-EEE,ST,341
+Brilliant Institute of Engineering,MTECH-MECH,OC,720
+Brilliant Institute of Engineering,MTECH-MECH,BC-A,812
+Brilliant Institute of Engineering,MTECH-MECH,BC-B,840
+Brilliant Institute of Engineering,MTECH-MECH,BC-C,569
+Brilliant Institute of Engineering,MTECH-MECH,BC-D,594
+Brilliant Institute of Engineering,MTECH-MECH,SC,641
+Brilliant Institute of Engineering,MTECH-MECH,ST,553
+Brilliant Institute of Engineering,MTECH-CIVIL,OC,381
+Brilliant Institute of Engineering,MTECH-CIVIL,BC-A,514
+Brilliant Institute of Engineering,MTECH-CIVIL,BC-B,445
+Brilliant Institute of Engineering,MTECH-CIVIL,BC-C,486
+Brilliant Institute of Engineering,MTECH-CIVIL,BC-D,291
+Brilliant Institute of Engineering,MTECH-CIVIL,SC,176
+Brilliant Institute of Engineering,MTECH-CIVIL,ST,141
+TKR College of Engineering,MTECH-CSE,OC,1113
+TKR College of Engineering,MTECH-CSE,BC-A,1557
+TKR College of Engineering,MTECH-CSE,BC-B,1210
+TKR College of Engineering,MTECH-CSE,BC-C,1189
+TKR College of Engineering,MTECH-CSE,BC-D,1500
+TKR College of Engineering,MTECH-CSE,SC,1147
+TKR College of Engineering,MTECH-CSE,ST,1369
+TKR College of Engineering,MTECH-ECE,OC,1299
+TKR College of Engineering,MTECH-ECE,BC-A,1386
+TKR College of Engineering,MTECH-ECE,BC-B,1636
+TKR College of Engineering,MTECH-ECE,BC-C,1486
+TKR College of Engineering,MTECH-ECE,BC-D,1596
+TKR College of Engineering,MTECH-ECE,SC,1365
+TKR College of Engineering,MTECH-ECE,ST,1325
+TKR College of Engineering,MTECH-EEE,OC,1639
+TKR College of Engineering,MTECH-EEE,BC-A,1649
+TKR College of Engineering,MTECH-EEE,BC-B,1328
+TKR College of Engineering,MTECH-EEE,BC-C,1225
+TKR College of Engineering,MTECH-EEE,BC-D,1185
+TKR College of Engineering,MTECH-EEE,SC,1394
+TKR College of Engineering,MTECH-EEE,ST,1543
+TKR College of Engineering,MTECH-MECH,OC,1183
+TKR College of Engineering,MTECH-MECH,BC-A,1297
+TKR College of Engineering,MTECH-MECH,BC-B,1177
+TKR College of Engineering,MTECH-MECH,BC-C,1229
+TKR College of Engineering,MTECH-MECH,BC-D,1157
+TKR College of Engineering,MTECH-MECH,SC,1089
+TKR College of Engineering,MTECH-MECH,ST,1324
+TKR College of Engineering,MTECH-CIVIL,OC,1409
+TKR College of Engineering,MTECH-CIVIL,BC-A,1477
+TKR College of Engineering,MTECH-CIVIL,BC-B,1136
+TKR College of Engineering,MTECH-CIVIL,BC-C,1199
+TKR College of Engineering,MTECH-CIVIL,BC-D,1481
+TKR College of Engineering,MTECH-CIVIL,SC,1402
+TKR College of Engineering,MTECH-CIVIL,ST,1326
+Sreenidhi Institute of Science and Technology,MTECH-CSE,OC,781
+Sreenidhi Institute of Science and Technology,MTECH-CSE,BC-A,792
+Sreenidhi Institute of Science and Technology,MTECH-CSE,BC-B,860
+Sreenidhi Institute of Science and Technology,MTECH-CSE,BC-C,488
+Sreenidhi Institute of Science and Technology,MTECH-CSE,BC-D,603
+Sreenidhi Institute of Science and Technology,MTECH-CSE,SC,851
+Sreenidhi Institute of Science and Technology,MTECH-CSE,ST,468
+Sreenidhi Institute of Science and Technology,MTECH-ECE,OC,515
+Sreenidhi Institute of Science and Technology,MTECH-ECE,BC-A,655
+Sreenidhi Institute of Science and Technology,MTECH-ECE,BC-B,576
+Sreenidhi Institute of Science and Technology,MTECH-ECE,BC-C,625
+Sreenidhi Institute of Science and Technology,MTECH-ECE,BC-D,634
+Sreenidhi Institute of Science and Technology,MTECH-ECE,SC,792
+Sreenidhi Institute of Science and Technology,MTECH-ECE,ST,817
+Sreenidhi Institute of Science and Technology,MTECH-EEE,OC,719
+Sreenidhi Institute of Science and Technology,MTECH-EEE,BC-A,958
+Sreenidhi Institute of Science and Technology,MTECH-EEE,BC-B,680
+Sreenidhi Institute of Science and Technology,MTECH-EEE,BC-C,858
+Sreenidhi Institute of Science and Technology,MTECH-EEE,BC-D,536
+Sreenidhi Institute of Science and Technology,MTECH-EEE,SC,820
+Sreenidhi Institute of Science and Technology,MTECH-EEE,ST,748
+Sreenidhi Institute of Science and Technology,MTECH-MECH,OC,1042
+Sreenidhi Institute of Science and Technology,MTECH-MECH,BC-A,891
+Sreenidhi Institute of Science and Technology,MTECH-MECH,BC-B,856
+Sreenidhi Institute of Science and Technology,MTECH-MECH,BC-C,938
+Sreenidhi Institute of Science and Technology,MTECH-MECH,BC-D,640
+Sreenidhi Institute of Science and Technology,MTECH-MECH,SC,812
+Sreenidhi Institute of Science and Technology,MTECH-MECH,ST,912
+Sreenidhi Institute of Science and Technology,MTECH-CIVIL,OC,706
+Sreenidhi Institute of Science and Technology,MTECH-CIVIL,BC-A,515
+Sreenidhi Institute of Science and Technology,MTECH-CIVIL,BC-B,646
+Sreenidhi Institute of Science and Technology,MTECH-CIVIL,BC-C,614
+Sreenidhi Institute of Science and Technology,MTECH-CIVIL,BC-D,731
+Sreenidhi Institute of Science and Technology,MTECH-CIVIL,SC,538
+Sreenidhi Institute of Science and Technology,MTECH-CIVIL,ST,870
+Balaji Institute of Technology and Science,MTECH-CSE,OC,1946
+Balaji Institute of Technology and Science,MTECH-CSE,BC-A,2079
+Balaji Institute of Technology and Science,MTECH-CSE,BC-B,1997
+Balaji Institute of Technology and Science,MTECH-CSE,BC-C,1941
+Balaji Institute of Technology and Science,MTECH-CSE,BC-D,1833
+Balaji Institute of Technology and Science,MTECH-CSE,SC,1723
+Balaji Institute of Technology and Science,MTECH-CSE,ST,1708
+Balaji Institute of Technology and Science,MTECH-ECE,OC,1564
+Balaji Institute of Technology and Science,MTECH-ECE,BC-A,1704
+Balaji Institute of Technology and Science,MTECH-ECE,BC-B,1701
+Balaji Institute of Technology and Science,MTECH-ECE,BC-C,1766
+Balaji Institute of Technology and Science,MTECH-ECE,BC-D,1961
+Balaji Institute of Technology and Science,MTECH-ECE,SC,1975
+Balaji Institute of Technology and Science,MTECH-ECE,ST,1770
+Balaji Institute of Technology and Science,MTECH-EEE,OC,1959
+Balaji Institute of Technology and Science,MTECH-EEE,BC-A,1993
+Balaji Institute of Technology and Science,MTECH-EEE,BC-B,1826
+Balaji Institute of Technology and Science,MTECH-EEE,BC-C,1789
+Balaji Institute of Technology and Science,MTECH-EEE,BC-D,1668
+Balaji Institute of Technology and Science,MTECH-EEE,SC,1578
+Balaji Institute of Technology and Science,MTECH-EEE,ST,1830
+Balaji Institute of Technology and Science,MTECH-MECH,OC,1691
+Balaji Institute of Technology and Science,MTECH-MECH,BC-A,1938
+Balaji Institute of Technology and Science,MTECH-MECH,BC-B,1804
+Balaji Institute of Technology and Science,MTECH-MECH,BC-C,2071
+Balaji Institute of Technology and Science,MTECH-MECH,BC-D,1788
+Balaji Institute of Technology and Science,MTECH-MECH,SC,1937
+Balaji Institute of Technology and Science,MTECH-MECH,ST,1945
+Balaji Institute of Technology and Science,MTECH-CIVIL,OC,1622
+Balaji Institute of Technology and Science,MTECH-CIVIL,BC-A,1989
+Balaji Institute of Technology and Science,MTECH-CIVIL,BC-B,1509
+Balaji Institute of Technology and Science,MTECH-CIVIL,BC-C,1826
+Balaji Institute of Technology and Science,MTECH-CIVIL,BC-D,1675
+Balaji Institute of Technology and Science,MTECH-CIVIL,SC,1718
+Balaji Institute of Technology and Science,MTECH-CIVIL,ST,1559
+Vardhaman College of Engineering,MTECH-CSE,OC,1593
+Vardhaman College of Engineering,MTECH-CSE,BC-A,1568
+Vardhaman College of Engineering,MTECH-CSE,BC-B,1529
+Vardhaman College of Engineering,MTECH-CSE,BC-C,1777
+Vardhaman College of Engineering,MTECH-CSE,BC-D,1610
+Vardhaman College of Engineering,MTECH-CSE,SC,1786
+Vardhaman College of Engineering,MTECH-CSE,ST,1669
+Vardhaman College of Engineering,MTECH-ECE,OC,1944
+Vardhaman College of Engineering,MTECH-ECE,BC-A,1621
+Vardhaman College of Engineering,MTECH-ECE,BC-B,1569
+Vardhaman College of Engineering,MTECH-ECE,BC-C,1540
+Vardhaman College of Engineering,MTECH-ECE,BC-D,1599
+Vardhaman College of Engineering,MTECH-ECE,SC,1599
+Vardhaman College of Engineering,MTECH-ECE,ST,1569
+Vardhaman College of Engineering,MTECH-EEE,OC,1887
+Vardhaman College of Engineering,MTECH-EEE,BC-A,1687
+Vardhaman College of Engineering,MTECH-EEE,BC-B,1624
+Vardhaman College of Engineering,MTECH-EEE,BC-C,1813
+Vardhaman College of Engineering,MTECH-EEE,BC-D,1740
+Vardhaman College of Engineering,MTECH-EEE,SC,1458
+Vardhaman College of Engineering,MTECH-EEE,ST,1740
+Vardhaman College of Engineering,MTECH-MECH,OC,1618
+Vardhaman College of Engineering,MTECH-MECH,BC-A,1848
+Vardhaman College of Engineering,MTECH-MECH,BC-B,1856
+Vardhaman College of Engineering,MTECH-MECH,BC-C,1484
+Vardhaman College of Engineering,MTECH-MECH,BC-D,1648
+Vardhaman College of Engineering,MTECH-MECH,SC,1528
+Vardhaman College of Engineering,MTECH-MECH,ST,1623
+Vardhaman College of Engineering,MTECH-CIVIL,OC,1666
+Vardhaman College of Engineering,MTECH-CIVIL,BC-A,1769
+Vardhaman College of Engineering,MTECH-CIVIL,BC-B,1425
+Vardhaman College of Engineering,MTECH-CIVIL,BC-C,1691
+Vardhaman College of Engineering,MTECH-CIVIL,BC-D,1664
+Vardhaman College of Engineering,MTECH-CIVIL,SC,1826
+Vardhaman College of Engineering,MTECH-CIVIL,ST,1782
+Gokaraju Rangaraju Institute of Engineering and Technology,MTECH-CSE,OC,825
+Gokaraju Rangaraju Institute of Engineering and Technology,MTECH-CSE,BC-A,515
+Gokaraju Rangaraju Institute of Engineering and Technology,MTECH-CSE,BC-B,626
+Gokaraju Rangaraju Institute of Engineering and Technology,MTECH-CSE,BC-C,436
+Gokaraju Rangaraju Institute of Engineering and Technology,MTECH-CSE,BC-D,801
+Gokaraju Rangaraju Institute of Engineering and Technology,MTECH-CSE,SC,595
+Gokaraju Rangaraju Institute of Engineering and Technology,MTECH-CSE,ST,620
+Gokaraju Rangaraju Institute of Engineering and Technology,MTECH-ECE,OC,396
+Gokaraju Rangaraju Institute of Engineering and Technology,MTECH-ECE,BC-A,396
+Gokaraju Rangaraju Institute of Engineering and Technology,MTECH-ECE,BC-B,401
+Gokaraju Rangaraju Institute of Engineering and Technology,MTECH-ECE,BC-C,550
+Gokaraju Rangaraju Institute of Engineering and Technology,MTECH-ECE,BC-D,341
+Gokaraju Rangaraju Institute of Engineering and Technology,MTECH-ECE,SC,381
+Gokaraju Rangaraju Institute of Engineering and Technology,MTECH-ECE,ST,427
+Gokaraju Rangaraju Institute of Engineering and Technology,MTECH-EEE,OC,786
+Gokaraju Rangaraju Institute of Engineering and Technology,MTECH-EEE,BC-A,836
+Gokaraju Rangaraju Institute of Engineering and Technology,MTECH-EEE,BC-B,857
+Gokaraju Rangaraju Institute of Engineering and Technology,MTECH-EEE,BC-C,796
+Gokaraju Rangaraju Institute of Engineering and Technology,MTECH-EEE,BC-D,642
+Gokaraju Rangaraju Institute of Engineering and Technology,MTECH-EEE,SC,940
+Gokaraju Rangaraju Institute of Engineering and Technology,MTECH-EEE,ST,745
+Gokaraju Rangaraju Institute of Engineering and Technology,MTECH-MECH,OC,272
+Gokaraju Rangaraju Institute of Engineering and Technology,MTECH-MECH,BC-A,569
+Gokaraju Rangaraju Institute of Engineering and Technology,MTECH-MECH,BC-B,646
+Gokaraju Rangaraju Institute of Engineering and Technology,MTECH-MECH,BC-C,451
+Gokaraju Rangaraju Institute of Engineering and Technology,MTECH-MECH,BC-D,495
+Gokaraju Rangaraju Institute of Engineering and Technology,MTECH-MECH,SC,368
+Gokaraju Rangaraju Institute of Engineering and Technology,MTECH-MECH,ST,483
+Gokaraju Rangaraju Institute of Engineering and Technology,MTECH-CIVIL,OC,701
+Gokaraju Rangaraju Institute of Engineering and Technology,MTECH-CIVIL,BC-A,325
+Gokaraju Rangaraju Institute of Engineering and Technology,MTECH-CIVIL,BC-B,458
+Gokaraju Rangaraju Institute of Engineering and Technology,MTECH-CIVIL,BC-C,485
+Gokaraju Rangaraju Institute of Engineering and Technology,MTECH-CIVIL,BC-D,406
+Gokaraju Rangaraju Institute of Engineering and Technology,MTECH-CIVIL,SC,428
+Gokaraju Rangaraju Institute of Engineering and Technology,MTECH-CIVIL,ST,525
+Kamala Institute of Technology,MTECH-CSE,OC,1531
+Kamala Institute of Technology,MTECH-CSE,BC-A,1129
+Kamala Institute of Technology,MTECH-CSE,BC-B,1454
+Kamala Institute of Technology,MTECH-CSE,BC-C,1397
+Kamala Institute of Technology,MTECH-CSE,BC-D,1476
+Kamala Institute of Technology,MTECH-CSE,SC,1089
+Kamala Institute of Technology,MTECH-CSE,ST,1342
+Kamala Institute of Technology,MTECH-ECE,OC,1409
+Kamala Institute of Technology,MTECH-ECE,BC-A,1306
+Kamala Institute of Technology,MTECH-ECE,BC-B,1251
+Kamala Institute of Technology,MTECH-ECE,BC-C,1446
+Kamala Institute of Technology,MTECH-ECE,BC-D,1386
+Kamala Institute of Technology,MTECH-ECE,SC,1576
+Kamala Institute of Technology,MTECH-ECE,ST,1435
+Kamala Institute of Technology,MTECH-EEE,OC,1464
+Kamala Institute of Technology,MTECH-EEE,BC-A,1438
+Kamala Institute of Technology,MTECH-EEE,BC-B,1565
+Kamala Institute of Technology,MTECH-EEE,BC-C,1595
+Kamala Institute of Technology,MTECH-EEE,BC-D,1632
+Kamala Institute of Technology,MTECH-EEE,SC,1505
+Kamala Institute of Technology,MTECH-EEE,ST,1375
+Kamala Institute of Technology,MTECH-MECH,OC,1501
+Kamala Institute of Technology,MTECH-MECH,BC-A,1289
+Kamala Institute of Technology,MTECH-MECH,BC-B,1345
+Kamala Institute of Technology,MTECH-MECH,BC-C,1248
+Kamala Institute of Technology,MTECH-MECH,BC-D,1540
+Kamala Institute of Technology,MTECH-MECH,SC,1399
+Kamala Institute of Technology,MTECH-MECH,ST,1305
+Kamala Institute of Technology,MTECH-CIVIL,OC,1614
+Kamala Institute of Technology,MTECH-CIVIL,BC-A,1207
+Kamala Institute of Technology,MTECH-CIVIL,BC-B,1527
+Kamala Institute of Technology,MTECH-CIVIL,BC-C,1269
+Kamala Institute of Technology,MTECH-CIVIL,BC-D,1425
+Kamala Institute of Technology,MTECH-CIVIL,SC,1332
+Kamala Institute of Technology,MTECH-CIVIL,ST,1360
+Kakatiya Institute of Technology and Science,MTECH-CSE,OC,1372
+Kakatiya Institute of Technology and Science,MTECH-CSE,BC-A,1102
+Kakatiya Institute of Technology and Science,MTECH-CSE,BC-B,1272
+Kakatiya Institute of Technology and Science,MTECH-CSE,BC-C,1444
+Kakatiya Institute of Technology and Science,MTECH-CSE,BC-D,1414
+Kakatiya Institute of Technology and Science,MTECH-CSE,SC,1144
+Kakatiya Institute of Technology and Science,MTECH-CSE,ST,1041
+Kakatiya Institute of Technology and Science,MTECH-ECE,OC,1547
+Kakatiya Institute of Technology and Science,MTECH-ECE,BC-A,1271
+Kakatiya Institute of Technology and Science,MTECH-ECE,BC-B,1517
+Kakatiya Institute of Technology and Science,MTECH-ECE,BC-C,1577
+Kakatiya Institute of Technology and Science,MTECH-ECE,BC-D,1522
+Kakatiya Institute of Technology and Science,MTECH-ECE,SC,1339
+Kakatiya Institute of Technology and Science,MTECH-ECE,ST,1607
+Kakatiya Institute of Technology and Science,MTECH-EEE,OC,1037
+Kakatiya Institute of Technology and Science,MTECH-EEE,BC-A,1231
+Kakatiya Institute of Technology and Science,MTECH-EEE,BC-B,1130
+Kakatiya Institute of Technology and Science,MTECH-EEE,BC-C,1165
+Kakatiya Institute of Technology and Science,MTECH-EEE,BC-D,1423
+Kakatiya Institute of Technology and Science,MTECH-EEE,SC,1299
+Kakatiya Institute of Technology and Science,MTECH-EEE,ST,1504
+Kakatiya Institute of Technology and Science,MTECH-MECH,OC,1162
+Kakatiya Institute of Technology and Science,MTECH-MECH,BC-A,1126
+Kakatiya Institute of Technology and Science,MTECH-MECH,BC-B,1234
+Kakatiya Institute of Technology and Science,MTECH-MECH,BC-C,1136
+Kakatiya Institute of Technology and Science,MTECH-MECH,BC-D,1482
+Kakatiya Institute of Technology and Science,MTECH-MECH,SC,1119
+Kakatiya Institute of Technology and Science,MTECH-MECH,ST,1558
+Kakatiya Institute of Technology and Science,MTECH-CIVIL,OC,1495
+Kakatiya Institute of Technology and Science,MTECH-CIVIL,BC-A,1205
+Kakatiya Institute of Technology and Science,MTECH-CIVIL,BC-B,1618
+Kakatiya Institute of Technology and Science,MTECH-CIVIL,BC-C,1213
+Kakatiya Institute of Technology and Science,MTECH-CIVIL,BC-D,1683
+Kakatiya Institute of Technology and Science,MTECH-CIVIL,SC,1361
+Kakatiya Institute of Technology and Science,MTECH-CIVIL,ST,1204
+Mahaveer Institute of Science and Technology,MTECH-CSE,OC,304
+Mahaveer Institute of Science and Technology,MTECH-CSE,BC-A,328
+Mahaveer Institute of Science and Technology,MTECH-CSE,BC-B,546
+Mahaveer Institute of Science and Technology,MTECH-CSE,BC-C,144
+Mahaveer Institute of Science and Technology,MTECH-CSE,BC-D,187
+Mahaveer Institute of Science and Technology,MTECH-CSE,SC,531
+Mahaveer Institute of Science and Technology,MTECH-CSE,ST,458
+Mahaveer Institute of Science and Technology,MTECH-ECE,OC,680
+Mahaveer Institute of Science and Technology,MTECH-ECE,BC-A,660
+Mahaveer Institute of Science and Technology,MTECH-ECE,BC-B,542
+Mahaveer Institute of Science and Technology,MTECH-ECE,BC-C,556
+Mahaveer Institute of Science and Technology,MTECH-ECE,BC-D,571
+Mahaveer Institute of Science and Technology,MTECH-ECE,SC,513
+Mahaveer Institute of Science and Technology,MTECH-ECE,ST,806
+Mahaveer Institute of Science and Technology,MTECH-EEE,OC,387
+Mahaveer Institute of Science and Technology,MTECH-EEE,BC-A,448
+Mahaveer Institute of Science and Technology,MTECH-EEE,BC-B,273
+Mahaveer Institute of Science and Technology,MTECH-EEE,BC-C,399
+Mahaveer Institute of Science and Technology,MTECH-EEE,BC-D,703
+Mahaveer Institute of Science and Technology,MTECH-EEE,SC,445
+Mahaveer Institute of Science and Technology,MTECH-EEE,ST,551
+Mahaveer Institute of Science and Technology,MTECH-MECH,OC,701
+Mahaveer Institute of Science and Technology,MTECH-MECH,BC-A,794
+Mahaveer Institute of Science and Technology,MTECH-MECH,BC-B,808
+Mahaveer Institute of Science and Technology,MTECH-MECH,BC-C,434
+Mahaveer Institute of Science and Technology,MTECH-MECH,BC-D,845
+Mahaveer Institute of Science and Technology,MTECH-MECH,SC,524
+Mahaveer Institute of Science and Technology,MTECH-MECH,ST,455
+Mahaveer Institute of Science and Technology,MTECH-CIVIL,OC,401
+Mahaveer Institute of Science and Technology,MTECH-CIVIL,BC-A,589
+Mahaveer Institute of Science and Technology,MTECH-CIVIL,BC-B,640
+Mahaveer Institute of Science and Technology,MTECH-CIVIL,BC-C,608
+Mahaveer Institute of Science and Technology,MTECH-CIVIL,BC-D,519
+Mahaveer Institute of Science and Technology,MTECH-CIVIL,SC,717
+Mahaveer Institute of Science and Technology,MTECH-CIVIL,ST,358
+Narsimha Reddy Engineering College,MTECH-CSE,OC,686
+Narsimha Reddy Engineering College,MTECH-CSE,BC-A,476
+Narsimha Reddy Engineering College,MTECH-CSE,BC-B,447
+Narsimha Reddy Engineering College,MTECH-CSE,BC-C,630
+Narsimha Reddy Engineering College,MTECH-CSE,BC-D,311
+Narsimha Reddy Engineering College,MTECH-CSE,SC,402
+Narsimha Reddy Engineering College,MTECH-CSE,ST,624
+Narsimha Reddy Engineering College,MTECH-ECE,OC,816
+Narsimha Reddy Engineering College,MTECH-ECE,BC-A,736
+Narsimha Reddy Engineering College,MTECH-ECE,BC-B,423
+Narsimha Reddy Engineering College,MTECH-ECE,BC-C,708
+Narsimha Reddy Engineering College,MTECH-ECE,BC-D,531
+Narsimha Reddy Engineering College,MTECH-ECE,SC,572
+Narsimha Reddy Engineering College,MTECH-ECE,ST,503
+Narsimha Reddy Engineering College,MTECH-EEE,OC,548
+Narsimha Reddy Engineering College,MTECH-EEE,BC-A,476
+Narsimha Reddy Engineering College,MTECH-EEE,BC-B,768
+Narsimha Reddy Engineering College,MTECH-EEE,BC-C,573
+Narsimha Reddy Engineering College,MTECH-EEE,BC-D,364
+Narsimha Reddy Engineering College,MTECH-EEE,SC,676
+Narsimha Reddy Engineering College,MTECH-EEE,ST,508
+Narsimha Reddy Engineering College,MTECH-MECH,OC,553
+Narsimha Reddy Engineering College,MTECH-MECH,BC-A,711
+Narsimha Reddy Engineering College,MTECH-MECH,BC-B,536
+Narsimha Reddy Engineering College,MTECH-MECH,BC-C,767
+Narsimha Reddy Engineering College,MTECH-MECH,BC-D,862
+Narsimha Reddy Engineering College,MTECH-MECH,SC,841
+Narsimha Reddy Engineering College,MTECH-MECH,ST,435
+Narsimha Reddy Engineering College,MTECH-CIVIL,OC,368
+Narsimha Reddy Engineering College,MTECH-CIVIL,BC-A,457
+Narsimha Reddy Engineering College,MTECH-CIVIL,BC-B,501
+Narsimha Reddy Engineering College,MTECH-CIVIL,BC-C,535
+Narsimha Reddy Engineering College,MTECH-CIVIL,BC-D,490
+Narsimha Reddy Engineering College,MTECH-CIVIL,SC,303
+Narsimha Reddy Engineering College,MTECH-CIVIL,ST,547
+Vignan Institute of Technology and Science,MTECH-CSE,OC,1107
+Vignan Institute of Technology and Science,MTECH-CSE,BC-A,865
+Vignan Institute of Technology and Science,MTECH-CSE,BC-B,633
+Vignan Institute of Technology and Science,MTECH-CSE,BC-C,1094
+Vignan Institute of Technology and Science,MTECH-CSE,BC-D,908
+Vignan Institute of Technology and Science,MTECH-CSE,SC,930
+Vignan Institute of Technology and Science,MTECH-CSE,ST,988
+Vignan Institute of Technology and Science,MTECH-ECE,OC,1087
+Vignan Institute of Technology and Science,MTECH-ECE,BC-A,1157
+Vignan Institute of Technology and Science,MTECH-ECE,BC-B,1260
+Vignan Institute of Technology and Science,MTECH-ECE,BC-C,1258
+Vignan Institute of Technology and Science,MTECH-ECE,BC-D,858
+Vignan Institute of Technology and Science,MTECH-ECE,SC,892
+Vignan Institute of Technology and Science,MTECH-ECE,ST,1225
+Vignan Institute of Technology and Science,MTECH-EEE,OC,936
+Vignan Institute of Technology and Science,MTECH-EEE,BC-A,1014
+Vignan Institute of Technology and Science,MTECH-EEE,BC-B,1018
+Vignan Institute of Technology and Science,MTECH-EEE,BC-C,649
+Vignan Institute of Technology and Science,MTECH-EEE,BC-D,911
+Vignan Institute of Technology and Science,MTECH-EEE,SC,945
+Vignan Institute of Technology and Science,MTECH-EEE,ST,1051
+Vignan Institute of Technology and Science,MTECH-MECH,OC,1020
+Vignan Institute of Technology and Science,MTECH-MECH,BC-A,822
+Vignan Institute of Technology and Science,MTECH-MECH,BC-B,613
+Vignan Institute of Technology and Science,MTECH-MECH,BC-C,1005
+Vignan Institute of Technology and Science,MTECH-MECH,BC-D,993
+Vignan Institute of Technology and Science,MTECH-MECH,SC,994
+Vignan Institute of Technology and Science,MTECH-MECH,ST,661
+Vignan Institute of Technology and Science,MTECH-CIVIL,OC,607
+Vignan Institute of Technology and Science,MTECH-CIVIL,BC-A,624
+Vignan Institute of Technology and Science,MTECH-CIVIL,BC-B,725
+Vignan Institute of Technology and Science,MTECH-CIVIL,BC-C,872
+Vignan Institute of Technology and Science,MTECH-CIVIL,BC-D,651
+Vignan Institute of Technology and Science,MTECH-CIVIL,SC,934
+Vignan Institute of Technology and Science,MTECH-CIVIL,ST,868
+Chaitanya Engineering College,MTECH-CSE,OC,1182
+Chaitanya Engineering College,MTECH-CSE,BC-A,1102
+Chaitanya Engineering College,MTECH-CSE,BC-B,1537
+Chaitanya Engineering College,MTECH-CSE,BC-C,1541
+Chaitanya Engineering College,MTECH-CSE,BC-D,1170
+Chaitanya Engineering College,MTECH-CSE,SC,1201
+Chaitanya Engineering College,MTECH-CSE,ST,1372
+Chaitanya Engineering College,MTECH-ECE,OC,1523
+Chaitanya Engineering College,MTECH-ECE,BC-A,1552
+Chaitanya Engineering College,MTECH-ECE,BC-B,1404
+Chaitanya Engineering College,MTECH-ECE,BC-C,1599
+Chaitanya Engineering College,MTECH-ECE,BC-D,1474
+Chaitanya Engineering College,MTECH-ECE,SC,1602
+Chaitanya Engineering College,MTECH-ECE,ST,1516
+Chaitanya Engineering College,MTECH-EEE,OC,1604
+Chaitanya Engineering College,MTECH-EEE,BC-A,1217
+Chaitanya Engineering College,MTECH-EEE,BC-B,1480
+Chaitanya Engineering College,MTECH-EEE,BC-C,1379
+Chaitanya Engineering College,MTECH-EEE,BC-D,1293
+Chaitanya Engineering College,MTECH-EEE,SC,1612
+Chaitanya Engineering College,MTECH-EEE,ST,1221
+Chaitanya Engineering College,MTECH-MECH,OC,1530
+Chaitanya Engineering College,MTECH-MECH,BC-A,1682
+Chaitanya Engineering College,MTECH-MECH,BC-B,1702
+Chaitanya Engineering College,MTECH-MECH,BC-C,1468
+Chaitanya Engineering College,MTECH-MECH,BC-D,1503
+Chaitanya Engineering College,MTECH-MECH,SC,1526
+Chaitanya Engineering College,MTECH-MECH,ST,1448
+Chaitanya Engineering College,MTECH-CIVIL,OC,1683
+Chaitanya Engineering College,MTECH-CIVIL,BC-A,1481
+Chaitanya Engineering College,MTECH-CIVIL,BC-B,1493
+Chaitanya Engineering College,MTECH-CIVIL,BC-C,1286
+Chaitanya Engineering College,MTECH-CIVIL,BC-D,1399
+Chaitanya Engineering College,MTECH-CIVIL,SC,1610
+Chaitanya Engineering College,MTECH-CIVIL,ST,1576
+Rishi MS Institute of Engineering and Technology,MTECH-CSE,OC,500
+Rishi MS Institute of Engineering and Technology,MTECH-CSE,BC-A,335
+Rishi MS Institute of Engineering and Technology,MTECH-CSE,BC-B,271
+Rishi MS Institute of Engineering and Technology,MTECH-CSE,BC-C,496
+Rishi MS Institute of Engineering and Technology,MTECH-CSE,BC-D,401
+Rishi MS Institute of Engineering and Technology,MTECH-CSE,SC,343
+Rishi MS Institute of Engineering and Technology,MTECH-CSE,ST,600
+Rishi MS Institute of Engineering and Technology,MTECH-ECE,OC,133
+Rishi MS Institute of Engineering and Technology,MTECH-ECE,BC-A,106
+Rishi MS Institute of Engineering and Technology,MTECH-ECE,BC-B,276
+Rishi MS Institute of Engineering and Technology,MTECH-ECE,BC-C,197
+Rishi MS Institute of Engineering and Technology,MTECH-ECE,BC-D,311
+Rishi MS Institute of Engineering and Technology,MTECH-ECE,SC,361
+Rishi MS Institute of Engineering and Technology,MTECH-ECE,ST,449
+Rishi MS Institute of Engineering and Technology,MTECH-EEE,OC,772
+Rishi MS Institute of Engineering and Technology,MTECH-EEE,BC-A,632
+Rishi MS Institute of Engineering and Technology,MTECH-EEE,BC-B,394
+Rishi MS Institute of Engineering and Technology,MTECH-EEE,BC-C,387
+Rishi MS Institute of Engineering and Technology,MTECH-EEE,BC-D,580
+Rishi MS Institute of Engineering and Technology,MTECH-EEE,SC,449
+Rishi MS Institute of Engineering and Technology,MTECH-EEE,ST,374
+Rishi MS Institute of Engineering and Technology,MTECH-MECH,OC,576
+Rishi MS Institute of Engineering and Technology,MTECH-MECH,BC-A,622
+Rishi MS Institute of Engineering and Technology,MTECH-MECH,BC-B,498
+Rishi MS Institute of Engineering and Technology,MTECH-MECH,BC-C,568
+Rishi MS Institute of Engineering and Technology,MTECH-MECH,BC-D,631
+Rishi MS Institute of Engineering and Technology,MTECH-MECH,SC,436
+Rishi MS Institute of Engineering and Technology,MTECH-MECH,ST,610
+Rishi MS Institute of Engineering and Technology,MTECH-CIVIL,OC,170
+Rishi MS Institute of Engineering and Technology,MTECH-CIVIL,BC-A,389
+Rishi MS Institute of Engineering and Technology,MTECH-CIVIL,BC-B,484
+Rishi MS Institute of Engineering and Technology,MTECH-CIVIL,BC-C,214
+Rishi MS Institute of Engineering and Technology,MTECH-CIVIL,BC-D,128
+Rishi MS Institute of Engineering and Technology,MTECH-CIVIL,SC,458
+Rishi MS Institute of Engineering and Technology,MTECH-CIVIL,ST,433
+Swami Vivekananda Institute of Technology,MTECH-CSE,OC,707
+Swami Vivekananda Institute of Technology,MTECH-CSE,BC-A,915
+Swami Vivekananda Institute of Technology,MTECH-CSE,BC-B,644
+Swami Vivekananda Institute of Technology,MTECH-CSE,BC-C,534
+Swami Vivekananda Institute of Technology,MTECH-CSE,BC-D,877
+Swami Vivekananda Institute of Technology,MTECH-CSE,SC,711
+Swami Vivekananda Institute of Technology,MTECH-CSE,ST,538
+Swami Vivekananda Institute of Technology,MTECH-ECE,OC,570
+Swami Vivekananda Institute of Technology,MTECH-ECE,BC-A,287
+Swami Vivekananda Institute of Technology,MTECH-ECE,BC-B,620
+Swami Vivekananda Institute of Technology,MTECH-ECE,BC-C,359
+Swami Vivekananda Institute of Technology,MTECH-ECE,BC-D,471
+Swami Vivekananda Institute of Technology,MTECH-ECE,SC,515
+Swami Vivekananda Institute of Technology,MTECH-ECE,ST,671
+Swami Vivekananda Institute of Technology,MTECH-EEE,OC,740
+Swami Vivekananda Institute of Technology,MTECH-EEE,BC-A,608
+Swami Vivekananda Institute of Technology,MTECH-EEE,BC-B,836
+Swami Vivekananda Institute of Technology,MTECH-EEE,BC-C,862
+Swami Vivekananda Institute of Technology,MTECH-EEE,BC-D,852
+Swami Vivekananda Institute of Technology,MTECH-EEE,SC,537
+Swami Vivekananda Institute of Technology,MTECH-EEE,ST,583
+Swami Vivekananda Institute of Technology,MTECH-MECH,OC,886
+Swami Vivekananda Institute of Technology,MTECH-MECH,BC-A,685
+Swami Vivekananda Institute of Technology,MTECH-MECH,BC-B,488
+Swami Vivekananda Institute of Technology,MTECH-MECH,BC-C,646
+Swami Vivekananda Institute of Technology,MTECH-MECH,BC-D,677
+Swami Vivekananda Institute of Technology,MTECH-MECH,SC,474
+Swami Vivekananda Institute of Technology,MTECH-MECH,ST,862
+Swami Vivekananda Institute of Technology,MTECH-CIVIL,OC,810
+Swami Vivekananda Institute of Technology,MTECH-CIVIL,BC-A,712
+Swami Vivekananda Institute of Technology,MTECH-CIVIL,BC-B,918
+Swami Vivekananda Institute of Technology,MTECH-CIVIL,BC-C,872
+Swami Vivekananda Institute of Technology,MTECH-CIVIL,BC-D,620
+Swami Vivekananda Institute of Technology,MTECH-CIVIL,SC,627
+Swami Vivekananda Institute of Technology,MTECH-CIVIL,ST,939
+St. Peter’s Engineering College,MTECH-CSE,OC,1607
+St. Peter’s Engineering College,MTECH-CSE,BC-A,1416
+St. Peter’s Engineering College,MTECH-CSE,BC-B,1238
+St. Peter’s Engineering College,MTECH-CSE,BC-C,1385
+St. Peter’s Engineering College,MTECH-CSE,BC-D,1534
+St. Peter’s Engineering College,MTECH-CSE,SC,1298
+St. Peter’s Engineering College,MTECH-CSE,ST,1572
+St. Peter’s Engineering College,MTECH-ECE,OC,1194
+St. Peter’s Engineering College,MTECH-ECE,BC-A,1335
+St. Peter’s Engineering College,MTECH-ECE,BC-B,1565
+St. Peter’s Engineering College,MTECH-ECE,BC-C,1559
+St. Peter’s Engineering College,MTECH-ECE,BC-D,1649
+St. Peter’s Engineering College,MTECH-ECE,SC,1215
+St. Peter’s Engineering College,MTECH-ECE,ST,1620
+St. Peter’s Engineering College,MTECH-EEE,OC,1584
+St. Peter’s Engineering College,MTECH-EEE,BC-A,1248
+St. Peter’s Engineering College,MTECH-EEE,BC-B,1376
+St. Peter’s Engineering College,MTECH-EEE,BC-C,1318
+St. Peter’s Engineering College,MTECH-EEE,BC-D,1314
+St. Peter’s Engineering College,MTECH-EEE,SC,1535
+St. Peter’s Engineering College,MTECH-EEE,ST,1392
+St. Peter’s Engineering College,MTECH-MECH,OC,1290
+St. Peter’s Engineering College,MTECH-MECH,BC-A,1602
+St. Peter’s Engineering College,MTECH-MECH,BC-B,1506
+St. Peter’s Engineering College,MTECH-MECH,BC-C,1415
+St. Peter’s Engineering College,MTECH-MECH,BC-D,1207
+St. Peter’s Engineering College,MTECH-MECH,SC,1289
+St. Peter’s Engineering College,MTECH-MECH,ST,1573
+St. Peter’s Engineering College,MTECH-CIVIL,OC,1436
+St. Peter’s Engineering College,MTECH-CIVIL,BC-A,1553
+St. Peter’s Engineering College,MTECH-CIVIL,BC-B,1669
+St. Peter’s Engineering College,MTECH-CIVIL,BC-C,1193
+St. Peter’s Engineering College,MTECH-CIVIL,BC-D,1236
+St. Peter’s Engineering College,MTECH-CIVIL,SC,1558
+St. Peter’s Engineering College,MTECH-CIVIL,ST,1211
+Joginpally BR Engineering College,MTECH-CSE,OC,514
+Joginpally BR Engineering College,MTECH-CSE,BC-A,664
+Joginpally BR Engineering College,MTECH-CSE,BC-B,761
+Joginpally BR Engineering College,MTECH-CSE,BC-C,748
+Joginpally BR Engineering College,MTECH-CSE,BC-D,334
+Joginpally BR Engineering College,MTECH-CSE,SC,529
+Joginpally BR Engineering College,MTECH-CSE,ST,469
+Joginpally BR Engineering College,MTECH-ECE,OC,734
+Joginpally BR Engineering College,MTECH-ECE,BC-A,541
+Joginpally BR Engineering College,MTECH-ECE,BC-B,379
+Joginpally BR Engineering College,MTECH-ECE,BC-C,594
+Joginpally BR Engineering College,MTECH-ECE,BC-D,656
+Joginpally BR Engineering College,MTECH-ECE,SC,711
+Joginpally BR Engineering College,MTECH-ECE,ST,667
+Joginpally BR Engineering College,MTECH-EEE,OC,606
+Joginpally BR Engineering College,MTECH-EEE,BC-A,589
+Joginpally BR Engineering College,MTECH-EEE,BC-B,539
+Joginpally BR Engineering College,MTECH-EEE,BC-C,801
+Joginpally BR Engineering College,MTECH-EEE,BC-D,603
+Joginpally BR Engineering College,MTECH-EEE,SC,834
+Joginpally BR Engineering College,MTECH-EEE,ST,557
+Joginpally BR Engineering College,MTECH-MECH,OC,623
+Joginpally BR Engineering College,MTECH-MECH,BC-A,662
+Joginpally BR Engineering College,MTECH-MECH,BC-B,335
+Joginpally BR Engineering College,MTECH-MECH,BC-C,323
+Joginpally BR Engineering College,MTECH-MECH,BC-D,271
+Joginpally BR Engineering College,MTECH-MECH,SC,472
+Joginpally BR Engineering College,MTECH-MECH,ST,250
+Joginpally BR Engineering College,MTECH-CIVIL,OC,827
+Joginpally BR Engineering College,MTECH-CIVIL,BC-A,707
+Joginpally BR Engineering College,MTECH-CIVIL,BC-B,654
+Joginpally BR Engineering College,MTECH-CIVIL,BC-C,790
+Joginpally BR Engineering College,MTECH-CIVIL,BC-D,493
+Joginpally BR Engineering College,MTECH-CIVIL,SC,839
+Joginpally BR Engineering College,MTECH-CIVIL,ST,555
+Samskruti College of Engineering,MTECH-CSE,OC,1233
+Samskruti College of Engineering,MTECH-CSE,BC-A,1172
+Samskruti College of Engineering,MTECH-CSE,BC-B,1438
+Samskruti College of Engineering,MTECH-CSE,BC-C,1292
+Samskruti College of Engineering,MTECH-CSE,BC-D,1487
+Samskruti College of Engineering,MTECH-CSE,SC,1096
+Samskruti College of Engineering,MTECH-CSE,ST,1141
+Samskruti College of Engineering,MTECH-ECE,OC,1583
+Samskruti College of Engineering,MTECH-ECE,BC-A,1299
+Samskruti College of Engineering,MTECH-ECE,BC-B,1285
+Samskruti College of Engineering,MTECH-ECE,BC-C,1519
+Samskruti College of Engineering,MTECH-ECE,BC-D,1478
+Samskruti College of Engineering,MTECH-ECE,SC,1468
+Samskruti College of Engineering,MTECH-ECE,ST,1645
+Samskruti College of Engineering,MTECH-EEE,OC,1525
+Samskruti College of Engineering,MTECH-EEE,BC-A,1442
+Samskruti College of Engineering,MTECH-EEE,BC-B,1767
+Samskruti College of Engineering,MTECH-EEE,BC-C,1345
+Samskruti College of Engineering,MTECH-EEE,BC-D,1684
+Samskruti College of Engineering,MTECH-EEE,SC,1787
+Samskruti College of Engineering,MTECH-EEE,ST,1497
+Samskruti College of Engineering,MTECH-MECH,OC,1528
+Samskruti College of Engineering,MTECH-MECH,BC-A,1227
+Samskruti College of Engineering,MTECH-MECH,BC-B,1572
+Samskruti College of Engineering,MTECH-MECH,BC-C,1477
+Samskruti College of Engineering,MTECH-MECH,BC-D,1365
+Samskruti College of Engineering,MTECH-MECH,SC,1284
+Samskruti College of Engineering,MTECH-MECH,ST,1486
+Samskruti College of Engineering,MTECH-CIVIL,OC,1276
+Samskruti College of Engineering,MTECH-CIVIL,BC-A,1335
+Samskruti College of Engineering,MTECH-CIVIL,BC-B,1373
+Samskruti College of Engineering,MTECH-CIVIL,BC-C,1170
+Samskruti College of Engineering,MTECH-CIVIL,BC-D,1475
+Samskruti College of Engineering,MTECH-CIVIL,SC,1104
+Samskruti College of Engineering,MTECH-CIVIL,ST,1510
+Vathsalya Institute of Science and Technology,MTECH-CSE,OC,1945
+Vathsalya Institute of Science and Technology,MTECH-CSE,BC-A,1727
+Vathsalya Institute of Science and Technology,MTECH-CSE,BC-B,1963
+Vathsalya Institute of Science and Technology,MTECH-CSE,BC-C,1953
+Vathsalya Institute of Science and Technology,MTECH-CSE,BC-D,1808
+Vathsalya Institute of Science and Technology,MTECH-CSE,SC,2199
+Vathsalya Institute of Science and Technology,MTECH-CSE,ST,1804
+Vathsalya Institute of Science and Technology,MTECH-ECE,OC,1736
+Vathsalya Institute of Science and Technology,MTECH-ECE,BC-A,2012
+Vathsalya Institute of Science and Technology,MTECH-ECE,BC-B,1744
+Vathsalya Institute of Science and Technology,MTECH-ECE,BC-C,1861
+Vathsalya Institute of Science and Technology,MTECH-ECE,BC-D,1763
+Vathsalya Institute of Science and Technology,MTECH-ECE,SC,1761
+Vathsalya Institute of Science and Technology,MTECH-ECE,ST,1909
+Vathsalya Institute of Science and Technology,MTECH-EEE,OC,1580
+Vathsalya Institute of Science and Technology,MTECH-EEE,BC-A,1782
+Vathsalya Institute of Science and Technology,MTECH-EEE,BC-B,1998
+Vathsalya Institute of Science and Technology,MTECH-EEE,BC-C,1749
+Vathsalya Institute of Science and Technology,MTECH-EEE,BC-D,1833
+Vathsalya Institute of Science and Technology,MTECH-EEE,SC,1868
+Vathsalya Institute of Science and Technology,MTECH-EEE,ST,1524
+Vathsalya Institute of Science and Technology,MTECH-MECH,OC,2145
+Vathsalya Institute of Science and Technology,MTECH-MECH,BC-A,1941
+Vathsalya Institute of Science and Technology,MTECH-MECH,BC-B,2012
+Vathsalya Institute of Science and Technology,MTECH-MECH,BC-C,1926
+Vathsalya Institute of Science and Technology,MTECH-MECH,BC-D,1997
+Vathsalya Institute of Science and Technology,MTECH-MECH,SC,2060
+Vathsalya Institute of Science and Technology,MTECH-MECH,ST,2032
+Vathsalya Institute of Science and Technology,MTECH-CIVIL,OC,1844
+Vathsalya Institute of Science and Technology,MTECH-CIVIL,BC-A,1634
+Vathsalya Institute of Science and Technology,MTECH-CIVIL,BC-B,1508
+Vathsalya Institute of Science and Technology,MTECH-CIVIL,BC-C,1489
+Vathsalya Institute of Science and Technology,MTECH-CIVIL,BC-D,1486
+Vathsalya Institute of Science and Technology,MTECH-CIVIL,SC,1706
+Vathsalya Institute of Science and Technology,MTECH-CIVIL,ST,1811
+Siddhartha Institute of Engineering and Technology,MTECH-CSE,OC,1176
+Siddhartha Institute of Engineering and Technology,MTECH-CSE,BC-A,1085
+Siddhartha Institute of Engineering and Technology,MTECH-CSE,BC-B,1002
+Siddhartha Institute of Engineering and Technology,MTECH-CSE,BC-C,1076
+Siddhartha Institute of Engineering and Technology,MTECH-CSE,BC-D,998
+Siddhartha Institute of Engineering and Technology,MTECH-CSE,SC,1136
+Siddhartha Institute of Engineering and Technology,MTECH-CSE,ST,1189
+Siddhartha Institute of Engineering and Technology,MTECH-ECE,OC,1305
+Siddhartha Institute of Engineering and Technology,MTECH-ECE,BC-A,1030
+Siddhartha Institute of Engineering and Technology,MTECH-ECE,BC-B,1316
+Siddhartha Institute of Engineering and Technology,MTECH-ECE,BC-C,1023
+Siddhartha Institute of Engineering and Technology,MTECH-ECE,BC-D,1165
+Siddhartha Institute of Engineering and Technology,MTECH-ECE,SC,1246
+Siddhartha Institute of Engineering and Technology,MTECH-ECE,ST,1255
+Siddhartha Institute of Engineering and Technology,MTECH-EEE,OC,1191
+Siddhartha Institute of Engineering and Technology,MTECH-EEE,BC-A,1303
+Siddhartha Institute of Engineering and Technology,MTECH-EEE,BC-B,912
+Siddhartha Institute of Engineering and Technology,MTECH-EEE,BC-C,1183
+Siddhartha Institute of Engineering and Technology,MTECH-EEE,BC-D,1094
+Siddhartha Institute of Engineering and Technology,MTECH-EEE,SC,1155
+Siddhartha Institute of Engineering and Technology,MTECH-EEE,ST,841
+Siddhartha Institute of Engineering and Technology,MTECH-MECH,OC,1392
+Siddhartha Institute of Engineering and Technology,MTECH-MECH,BC-A,1275
+Siddhartha Institute of Engineering and Technology,MTECH-MECH,BC-B,1425
+Siddhartha Institute of Engineering and Technology,MTECH-MECH,BC-C,1146
+Siddhartha Institute of Engineering and Technology,MTECH-MECH,BC-D,1241
+Siddhartha Institute of Engineering and Technology,MTECH-MECH,SC,1157
+Siddhartha Institute of Engineering and Technology,MTECH-MECH,ST,1140
+Siddhartha Institute of Engineering and Technology,MTECH-CIVIL,OC,1195
+Siddhartha Institute of Engineering and Technology,MTECH-CIVIL,BC-A,1234
+Siddhartha Institute of Engineering and Technology,MTECH-CIVIL,BC-B,917
+Siddhartha Institute of Engineering and Technology,MTECH-CIVIL,BC-C,1051
+Siddhartha Institute of Engineering and Technology,MTECH-CIVIL,BC-D,952
+Siddhartha Institute of Engineering and Technology,MTECH-CIVIL,SC,943
+Siddhartha Institute of Engineering and Technology,MTECH-CIVIL,ST,1253
+Trinity College of Engineering,MTECH-CSE,OC,482
+Trinity College of Engineering,MTECH-CSE,BC-A,676
+Trinity College of Engineering,MTECH-CSE,BC-B,622
+Trinity College of Engineering,MTECH-CSE,BC-C,537
+Trinity College of Engineering,MTECH-CSE,BC-D,554
+Trinity College of Engineering,MTECH-CSE,SC,828
+Trinity College of Engineering,MTECH-CSE,ST,694
+Trinity College of Engineering,MTECH-ECE,OC,444
+Trinity College of Engineering,MTECH-ECE,BC-A,754
+Trinity College of Engineering,MTECH-ECE,BC-B,362
+Trinity College of Engineering,MTECH-ECE,BC-C,779
+Trinity College of Engineering,MTECH-ECE,BC-D,799
+Trinity College of Engineering,MTECH-ECE,SC,470
+Trinity College of Engineering,MTECH-ECE,ST,774
+Trinity College of Engineering,MTECH-EEE,OC,464
+Trinity College of Engineering,MTECH-EEE,BC-A,621
+Trinity College of Engineering,MTECH-EEE,BC-B,470
+Trinity College of Engineering,MTECH-EEE,BC-C,223
+Trinity College of Engineering,MTECH-EEE,BC-D,305
+Trinity College of Engineering,MTECH-EEE,SC,414
+Trinity College of Engineering,MTECH-EEE,ST,522
+Trinity College of Engineering,MTECH-MECH,OC,704
+Trinity College of Engineering,MTECH-MECH,BC-A,666
+Trinity College of Engineering,MTECH-MECH,BC-B,567
+Trinity College of Engineering,MTECH-MECH,BC-C,638
+Trinity College of Engineering,MTECH-MECH,BC-D,600
+Trinity College of Engineering,MTECH-MECH,SC,870
+Trinity College of Engineering,MTECH-MECH,ST,714
+Trinity College of Engineering,MTECH-CIVIL,OC,486
+Trinity College of Engineering,MTECH-CIVIL,BC-A,344
+Trinity College of Engineering,MTECH-CIVIL,BC-B,563
+Trinity College of Engineering,MTECH-CIVIL,BC-C,589
+Trinity College of Engineering,MTECH-CIVIL,BC-D,396
+Trinity College of Engineering,MTECH-CIVIL,SC,210
+Trinity College of Engineering,MTECH-CIVIL,ST,485
+Arjun College of Technology,MTECH-CSE,OC,1611
+Arjun College of Technology,MTECH-CSE,BC-A,1753
+Arjun College of Technology,MTECH-CSE,BC-B,1900
+Arjun College of Technology,MTECH-CSE,BC-C,1737
+Arjun College of Technology,MTECH-CSE,BC-D,1786
+Arjun College of Technology,MTECH-CSE,SC,1812
+Arjun College of Technology,MTECH-CSE,ST,1848
+Arjun College of Technology,MTECH-ECE,OC,1457
+Arjun College of Technology,MTECH-ECE,BC-A,1578
+Arjun College of Technology,MTECH-ECE,BC-B,1826
+Arjun College of Technology,MTECH-ECE,BC-C,1671
+Arjun College of Technology,MTECH-ECE,BC-D,1523
+Arjun College of Technology,MTECH-ECE,SC,1577
+Arjun College of Technology,MTECH-ECE,ST,1783
+Arjun College of Technology,MTECH-EEE,OC,1887
+Arjun College of Technology,MTECH-EEE,BC-A,1579
+Arjun College of Technology,MTECH-EEE,BC-B,1872
+Arjun College of Technology,MTECH-EEE,BC-C,1598
+Arjun College of Technology,MTECH-EEE,BC-D,1619
+Arjun College of Technology,MTECH-EEE,SC,1508
+Arjun College of Technology,MTECH-EEE,ST,1836
+Arjun College of Technology,MTECH-MECH,OC,1583
+Arjun College of Technology,MTECH-MECH,BC-A,1492
+Arjun College of Technology,MTECH-MECH,BC-B,1689
+Arjun College of Technology,MTECH-MECH,BC-C,1923
+Arjun College of Technology,MTECH-MECH,BC-D,1802
+Arjun College of Technology,MTECH-MECH,SC,1715
+Arjun College of Technology,MTECH-MECH,ST,1744
+Arjun College of Technology,MTECH-CIVIL,OC,2129
+Arjun College of Technology,MTECH-CIVIL,BC-A,1864
+Arjun College of Technology,MTECH-CIVIL,BC-B,1914
+Arjun College of Technology,MTECH-CIVIL,BC-C,1916
+Arjun College of Technology,MTECH-CIVIL,BC-D,1881
+Arjun College of Technology,MTECH-CIVIL,SC,2100
+Arjun College of Technology,MTECH-CIVIL,ST,2038
+SR University,MTECH-CSE,OC,908
+SR University,MTECH-CSE,BC-A,785
+SR University,MTECH-CSE,BC-B,1094
+SR University,MTECH-CSE,BC-C,792
+SR University,MTECH-CSE,BC-D,985
+SR University,MTECH-CSE,SC,800
+SR University,MTECH-CSE,ST,939
+SR University,MTECH-ECE,OC,1050
+SR University,MTECH-ECE,BC-A,890
+SR University,MTECH-ECE,BC-B,640
+SR University,MTECH-ECE,BC-C,1053
+SR University,MTECH-ECE,BC-D,604
+SR University,MTECH-ECE,SC,669
+SR University,MTECH-ECE,ST,707
+SR University,MTECH-EEE,OC,817
+SR University,MTECH-EEE,BC-A,540
+SR University,MTECH-EEE,BC-B,474
+SR University,MTECH-EEE,BC-C,667
+SR University,MTECH-EEE,BC-D,773
+SR University,MTECH-EEE,SC,782
+SR University,MTECH-EEE,ST,527
+SR University,MTECH-MECH,OC,904
+SR University,MTECH-MECH,BC-A,697
+SR University,MTECH-MECH,BC-B,639
+SR University,MTECH-MECH,BC-C,1058
+SR University,MTECH-MECH,BC-D,1120
+SR University,MTECH-MECH,SC,877
+SR University,MTECH-MECH,ST,773
+SR University,MTECH-CIVIL,OC,794
+SR University,MTECH-CIVIL,BC-A,832
+SR University,MTECH-CIVIL,BC-B,1098
+SR University,MTECH-CIVIL,BC-C,611
+SR University,MTECH-CIVIL,BC-D,648
+SR University,MTECH-CIVIL,SC,710
+SR University,MTECH-CIVIL,ST,1021
+Jayamukhi Institute of Technological Sciences,MTECH-CSE,OC,644
+Jayamukhi Institute of Technological Sciences,MTECH-CSE,BC-A,392
+Jayamukhi Institute of Technological Sciences,MTECH-CSE,BC-B,647
+Jayamukhi Institute of Technological Sciences,MTECH-CSE,BC-C,851
+Jayamukhi Institute of Technological Sciences,MTECH-CSE,BC-D,466
+Jayamukhi Institute of Technological Sciences,MTECH-CSE,SC,749
+Jayamukhi Institute of Technological Sciences,MTECH-CSE,ST,586
+Jayamukhi Institute of Technological Sciences,MTECH-ECE,OC,746
+Jayamukhi Institute of Technological Sciences,MTECH-ECE,BC-A,431
+Jayamukhi Institute of Technological Sciences,MTECH-ECE,BC-B,367
+Jayamukhi Institute of Technological Sciences,MTECH-ECE,BC-C,724
+Jayamukhi Institute of Technological Sciences,MTECH-ECE,BC-D,352
+Jayamukhi Institute of Technological Sciences,MTECH-ECE,SC,386
+Jayamukhi Institute of Technological Sciences,MTECH-ECE,ST,742
+Jayamukhi Institute of Technological Sciences,MTECH-EEE,OC,398
+Jayamukhi Institute of Technological Sciences,MTECH-EEE,BC-A,319
+Jayamukhi Institute of Technological Sciences,MTECH-EEE,BC-B,566
+Jayamukhi Institute of Technological Sciences,MTECH-EEE,BC-C,346
+Jayamukhi Institute of Technological Sciences,MTECH-EEE,BC-D,178
+Jayamukhi Institute of Technological Sciences,MTECH-EEE,SC,534
+Jayamukhi Institute of Technological Sciences,MTECH-EEE,ST,395
+Jayamukhi Institute of Technological Sciences,MTECH-MECH,OC,708
+Jayamukhi Institute of Technological Sciences,MTECH-MECH,BC-A,363
+Jayamukhi Institute of Technological Sciences,MTECH-MECH,BC-B,394
+Jayamukhi Institute of Technological Sciences,MTECH-MECH,BC-C,623
+Jayamukhi Institute of Technological Sciences,MTECH-MECH,BC-D,586
+Jayamukhi Institute of Technological Sciences,MTECH-MECH,SC,359
+Jayamukhi Institute of Technological Sciences,MTECH-MECH,ST,587
+Jayamukhi Institute of Technological Sciences,MTECH-CIVIL,OC,866
+Jayamukhi Institute of Technological Sciences,MTECH-CIVIL,BC-A,513
+Jayamukhi Institute of Technological Sciences,MTECH-CIVIL,BC-B,759
+Jayamukhi Institute of Technological Sciences,MTECH-CIVIL,BC-C,837
+Jayamukhi Institute of Technological Sciences,MTECH-CIVIL,BC-D,777
+Jayamukhi Institute of Technological Sciences,MTECH-CIVIL,SC,533
+Jayamukhi Institute of Technological Sciences,MTECH-CIVIL,ST,833
+Ganapathy Engineering College,MTECH-CSE,OC,2209
+Ganapathy Engineering College,MTECH-CSE,BC-A,2036
+Ganapathy Engineering College,MTECH-CSE,BC-B,1799
+Ganapathy Engineering College,MTECH-CSE,BC-C,1766
+Ganapathy Engineering College,MTECH-CSE,BC-D,1888
+Ganapathy Engineering College,MTECH-CSE,SC,1902
+Ganapathy Engineering College,MTECH-CSE,ST,2187
+Ganapathy Engineering College,MTECH-ECE,OC,1670
+Ganapathy Engineering College,MTECH-ECE,BC-A,1813
+Ganapathy Engineering College,MTECH-ECE,BC-B,1647
+Ganapathy Engineering College,MTECH-ECE,BC-C,1661
+Ganapathy Engineering College,MTECH-ECE,BC-D,1620
+Ganapathy Engineering College,MTECH-ECE,SC,1968
+Ganapathy Engineering College,MTECH-ECE,ST,1817
+Ganapathy Engineering College,MTECH-EEE,OC,2110
+Ganapathy Engineering College,MTECH-EEE,BC-A,2164
+Ganapathy Engineering College,MTECH-EEE,BC-B,1877
+Ganapathy Engineering College,MTECH-EEE,BC-C,1987
+Ganapathy Engineering College,MTECH-EEE,BC-D,2049
+Ganapathy Engineering College,MTECH-EEE,SC,2180
+Ganapathy Engineering College,MTECH-EEE,ST,2089
+Ganapathy Engineering College,MTECH-MECH,OC,2108
+Ganapathy Engineering College,MTECH-MECH,BC-A,2118
+Ganapathy Engineering College,MTECH-MECH,BC-B,1953
+Ganapathy Engineering College,MTECH-MECH,BC-C,2078
+Ganapathy Engineering College,MTECH-MECH,BC-D,2232
+Ganapathy Engineering College,MTECH-MECH,SC,1968
+Ganapathy Engineering College,MTECH-MECH,ST,1853
+Ganapathy Engineering College,MTECH-CIVIL,OC,2020
+Ganapathy Engineering College,MTECH-CIVIL,BC-A,2002
+Ganapathy Engineering College,MTECH-CIVIL,BC-B,1732
+Ganapathy Engineering College,MTECH-CIVIL,BC-C,2044
+Ganapathy Engineering College,MTECH-CIVIL,BC-D,1995
+Ganapathy Engineering College,MTECH-CIVIL,SC,1833
+Ganapathy Engineering College,MTECH-CIVIL,ST,2019
+Shadan College of Engineering,MTECH-CSE,OC,1603
+Shadan College of Engineering,MTECH-CSE,BC-A,1576
+Shadan College of Engineering,MTECH-CSE,BC-B,1428
+Shadan College of Engineering,MTECH-CSE,BC-C,1712
+Shadan College of Engineering,MTECH-CSE,BC-D,1697
+Shadan College of Engineering,MTECH-CSE,SC,1416
+Shadan College of Engineering,MTECH-CSE,ST,1591
+Shadan College of Engineering,MTECH-ECE,OC,1383
+Shadan College of Engineering,MTECH-ECE,BC-A,1687
+Shadan College of Engineering,MTECH-ECE,BC-B,1369
+Shadan College of Engineering,MTECH-ECE,BC-C,1442
+Shadan College of Engineering,MTECH-ECE,BC-D,1642
+Shadan College of Engineering,MTECH-ECE,SC,1662
+Shadan College of Engineering,MTECH-ECE,ST,1641
+Shadan College of Engineering,MTECH-EEE,OC,1477
+Shadan College of Engineering,MTECH-EEE,BC-A,1680
+Shadan College of Engineering,MTECH-EEE,BC-B,1509
+Shadan College of Engineering,MTECH-EEE,BC-C,1868
+Shadan College of Engineering,MTECH-EEE,BC-D,1725
+Shadan College of Engineering,MTECH-EEE,SC,1758
+Shadan College of Engineering,MTECH-EEE,ST,1478
+Shadan College of Engineering,MTECH-MECH,OC,1402
+Shadan College of Engineering,MTECH-MECH,BC-A,1391
+Shadan College of Engineering,MTECH-MECH,BC-B,1462
+Shadan College of Engineering,MTECH-MECH,BC-C,1411
+Shadan College of Engineering,MTECH-MECH,BC-D,1552
+Shadan College of Engineering,MTECH-MECH,SC,1728
+Shadan College of Engineering,MTECH-MECH,ST,1719
+Shadan College of Engineering,MTECH-CIVIL,OC,1758
+Shadan College of Engineering,MTECH-CIVIL,BC-A,1647
+Shadan College of Engineering,MTECH-CIVIL,BC-B,1575
+Shadan College of Engineering,MTECH-CIVIL,BC-C,1348
+Shadan College of Engineering,MTECH-CIVIL,BC-D,1676
+Shadan College of Engineering,MTECH-CIVIL,SC,1701
+Shadan College of Engineering,MTECH-CIVIL,ST,1413
+Royal Institute of Technology,MTECH-CSE,OC,593
+Royal Institute of Technology,MTECH-CSE,BC-A,632
+Royal Institute of Technology,MTECH-CSE,BC-B,259
+Royal Institute of Technology,MTECH-CSE,BC-C,160
+Royal Institute of Technology,MTECH-CSE,BC-D,290
+Royal Institute of Technology,MTECH-CSE,SC,607
+Royal Institute of Technology,MTECH-CSE,ST,531
+Royal Institute of Technology,MTECH-ECE,OC,130
+Royal Institute of Technology,MTECH-ECE,BC-A,523
+Royal Institute of Technology,MTECH-ECE,BC-B,317
+Royal Institute of Technology,MTECH-ECE,BC-C,555
+Royal Institute of Technology,MTECH-ECE,BC-D,486
+Royal Institute of Technology,MTECH-ECE,SC,566
+Royal Institute of Technology,MTECH-ECE,ST,151
+Royal Institute of Technology,MTECH-EEE,OC,564
+Royal Institute of Technology,MTECH-EEE,BC-A,387
+Royal Institute of Technology,MTECH-EEE,BC-B,365
+Royal Institute of Technology,MTECH-EEE,BC-C,408
+Royal Institute of Technology,MTECH-EEE,BC-D,255
+Royal Institute of Technology,MTECH-EEE,SC,250
+Royal Institute of Technology,MTECH-EEE,ST,460
+Royal Institute of Technology,MTECH-MECH,OC,712
+Royal Institute of Technology,MTECH-MECH,BC-A,343
+Royal Institute of Technology,MTECH-MECH,BC-B,816
+Royal Institute of Technology,MTECH-MECH,BC-C,646
+Royal Institute of Technology,MTECH-MECH,BC-D,723
+Royal Institute of Technology,MTECH-MECH,SC,560
+Royal Institute of Technology,MTECH-MECH,ST,560
+Royal Institute of Technology,MTECH-CIVIL,OC,439
+Royal Institute of Technology,MTECH-CIVIL,BC-A,543
+Royal Institute of Technology,MTECH-CIVIL,BC-B,357
+Royal Institute of Technology,MTECH-CIVIL,BC-C,745
+Royal Institute of Technology,MTECH-CIVIL,BC-D,380
+Royal Institute of Technology,MTECH-CIVIL,SC,787
+Royal Institute of Technology,MTECH-CIVIL,ST,368
+Vivekananda Institute of Technology,MTECH-CSE,OC,1291
+Vivekananda Institute of Technology,MTECH-CSE,BC-A,917
+Vivekananda Institute of Technology,MTECH-CSE,BC-B,1006
+Vivekananda Institute of Technology,MTECH-CSE,BC-C,1068
+Vivekananda Institute of Technology,MTECH-CSE,BC-D,1198
+Vivekananda Institute of Technology,MTECH-CSE,SC,1214
+Vivekananda Institute of Technology,MTECH-CSE,ST,1246
+Vivekananda Institute of Technology,MTECH-ECE,OC,1207
+Vivekananda Institute of Technology,MTECH-ECE,BC-A,873
+Vivekananda Institute of Technology,MTECH-ECE,BC-B,1110
+Vivekananda Institute of Technology,MTECH-ECE,BC-C,1118
+Vivekananda Institute of Technology,MTECH-ECE,BC-D,1255
+Vivekananda Institute of Technology,MTECH-ECE,SC,1165
+Vivekananda Institute of Technology,MTECH-ECE,ST,859
+Vivekananda Institute of Technology,MTECH-EEE,OC,1037
+Vivekananda Institute of Technology,MTECH-EEE,BC-A,878
+Vivekananda Institute of Technology,MTECH-EEE,BC-B,899
+Vivekananda Institute of Technology,MTECH-EEE,BC-C,905
+Vivekananda Institute of Technology,MTECH-EEE,BC-D,1158
+Vivekananda Institute of Technology,MTECH-EEE,SC,1171
+Vivekananda Institute of Technology,MTECH-EEE,ST,803
+Vivekananda Institute of Technology,MTECH-MECH,OC,1394
+Vivekananda Institute of Technology,MTECH-MECH,BC-A,930
+Vivekananda Institute of Technology,MTECH-MECH,BC-B,1123
+Vivekananda Institute of Technology,MTECH-MECH,BC-C,1298
+Vivekananda Institute of Technology,MTECH-MECH,BC-D,959
+Vivekananda Institute of Technology,MTECH-MECH,SC,1273
+Vivekananda Institute of Technology,MTECH-MECH,ST,957
+Vivekananda Institute of Technology,MTECH-CIVIL,OC,1239
+Vivekananda Institute of Technology,MTECH-CIVIL,BC-A,1109
+Vivekananda Institute of Technology,MTECH-CIVIL,BC-B,1086
+Vivekananda Institute of Technology,MTECH-CIVIL,BC-C,1037
+Vivekananda Institute of Technology,MTECH-CIVIL,BC-D,794
+Vivekananda Institute of Technology,MTECH-CIVIL,SC,1204
+Vivekananda Institute of Technology,MTECH-CIVIL,ST,955
+RRS College of Engineering,MTECH-CSE,OC,1607
+RRS College of Engineering,MTECH-CSE,BC-A,1515
+RRS College of Engineering,MTECH-CSE,BC-B,1527
+RRS College of Engineering,MTECH-CSE,BC-C,1293
+RRS College of Engineering,MTECH-CSE,BC-D,1308
+RRS College of Engineering,MTECH-CSE,SC,1474
+RRS College of Engineering,MTECH-CSE,ST,1615
+RRS College of Engineering,MTECH-ECE,OC,1513
+RRS College of Engineering,MTECH-ECE,BC-A,1289
+RRS College of Engineering,MTECH-ECE,BC-B,1246
+RRS College of Engineering,MTECH-ECE,BC-C,1211
+RRS College of Engineering,MTECH-ECE,BC-D,1493
+RRS College of Engineering,MTECH-ECE,SC,1348
+RRS College of Engineering,MTECH-ECE,ST,1388
+RRS College of Engineering,MTECH-EEE,OC,1635
+RRS College of Engineering,MTECH-EEE,BC-A,1529
+RRS College of Engineering,MTECH-EEE,BC-B,1423
+RRS College of Engineering,MTECH-EEE,BC-C,1725
+RRS College of Engineering,MTECH-EEE,BC-D,1259
+RRS College of Engineering,MTECH-EEE,SC,1241
+RRS College of Engineering,MTECH-EEE,ST,1668
+RRS College of Engineering,MTECH-MECH,OC,1505
+RRS College of Engineering,MTECH-MECH,BC-A,1307
+RRS College of Engineering,MTECH-MECH,BC-B,1272
+RRS College of Engineering,MTECH-MECH,BC-C,1262
+RRS College of Engineering,MTECH-MECH,BC-D,1487
+RRS College of Engineering,MTECH-MECH,SC,1662
+RRS College of Engineering,MTECH-MECH,ST,1699
+RRS College of Engineering,MTECH-CIVIL,OC,1564
+RRS College of Engineering,MTECH-CIVIL,BC-A,1525
+RRS College of Engineering,MTECH-CIVIL,BC-B,1441
+RRS College of Engineering,MTECH-CIVIL,BC-C,1558
+RRS College of Engineering,MTECH-CIVIL,BC-D,1620
+RRS College of Engineering,MTECH-CIVIL,SC,1626
+RRS College of Engineering,MTECH-CIVIL,ST,1275
+ACE Engineering College,MTECH-CSE,OC,2013
+ACE Engineering College,MTECH-CSE,BC-A,1860
+ACE Engineering College,MTECH-CSE,BC-B,2067
+ACE Engineering College,MTECH-CSE,BC-C,1974
+ACE Engineering College,MTECH-CSE,BC-D,1714
+ACE Engineering College,MTECH-CSE,SC,2049
+ACE Engineering College,MTECH-CSE,ST,1788
+ACE Engineering College,MTECH-ECE,OC,2025
+ACE Engineering College,MTECH-ECE,BC-A,1976
+ACE Engineering College,MTECH-ECE,BC-B,2056
+ACE Engineering College,MTECH-ECE,BC-C,1607
+ACE Engineering College,MTECH-ECE,BC-D,2022
+ACE Engineering College,MTECH-ECE,SC,1641
+ACE Engineering College,MTECH-ECE,ST,1902
+ACE Engineering College,MTECH-EEE,OC,1699
+ACE Engineering College,MTECH-EEE,BC-A,1725
+ACE Engineering College,MTECH-EEE,BC-B,2170
+ACE Engineering College,MTECH-EEE,BC-C,1932
+ACE Engineering College,MTECH-EEE,BC-D,2012
+ACE Engineering College,MTECH-EEE,SC,1699
+ACE Engineering College,MTECH-EEE,ST,1871
+ACE Engineering College,MTECH-MECH,OC,1789
+ACE Engineering College,MTECH-MECH,BC-A,2013
+ACE Engineering College,MTECH-MECH,BC-B,2186
+ACE Engineering College,MTECH-MECH,BC-C,1946
+ACE Engineering College,MTECH-MECH,BC-D,1731
+ACE Engineering College,MTECH-MECH,SC,1856
+ACE Engineering College,MTECH-MECH,ST,2194
+ACE Engineering College,MTECH-CIVIL,OC,2024
+ACE Engineering College,MTECH-CIVIL,BC-A,1594
+ACE Engineering College,MTECH-CIVIL,BC-B,1639
+ACE Engineering College,MTECH-CIVIL,BC-C,1607
+ACE Engineering College,MTECH-CIVIL,BC-D,1949
+ACE Engineering College,MTECH-CIVIL,SC,1948
+ACE Engineering College,MTECH-CIVIL,ST,1823
+Al Habeeb College of Engineering,MTECH-CSE,OC,238
+Al Habeeb College of Engineering,MTECH-CSE,BC-A,646
+Al Habeeb College of Engineering,MTECH-CSE,BC-B,551
+Al Habeeb College of Engineering,MTECH-CSE,BC-C,401
+Al Habeeb College of Engineering,MTECH-CSE,BC-D,222
+Al Habeeb College of Engineering,MTECH-CSE,SC,441
+Al Habeeb College of Engineering,MTECH-CSE,ST,293
+Al Habeeb College of Engineering,MTECH-ECE,OC,403
+Al Habeeb College of Engineering,MTECH-ECE,BC-A,211
+Al Habeeb College of Engineering,MTECH-ECE,BC-B,594
+Al Habeeb College of Engineering,MTECH-ECE,BC-C,210
+Al Habeeb College of Engineering,MTECH-ECE,BC-D,402
+Al Habeeb College of Engineering,MTECH-ECE,SC,206
+Al Habeeb College of Engineering,MTECH-ECE,ST,422
+Al Habeeb College of Engineering,MTECH-EEE,OC,633
+Al Habeeb College of Engineering,MTECH-EEE,BC-A,766
+Al Habeeb College of Engineering,MTECH-EEE,BC-B,783
+Al Habeeb College of Engineering,MTECH-EEE,BC-C,764
+Al Habeeb College of Engineering,MTECH-EEE,BC-D,528
+Al Habeeb College of Engineering,MTECH-EEE,SC,695
+Al Habeeb College of Engineering,MTECH-EEE,ST,563
+Al Habeeb College of Engineering,MTECH-MECH,OC,581
+Al Habeeb College of Engineering,MTECH-MECH,BC-A,290
+Al Habeeb College of Engineering,MTECH-MECH,BC-B,313
+Al Habeeb College of Engineering,MTECH-MECH,BC-C,431
+Al Habeeb College of Engineering,MTECH-MECH,BC-D,383
+Al Habeeb College of Engineering,MTECH-MECH,SC,538
+Al Habeeb College of Engineering,MTECH-MECH,ST,439
+Al Habeeb College of Engineering,MTECH-CIVIL,OC,266
+Al Habeeb College of Engineering,MTECH-CIVIL,BC-A,483
+Al Habeeb College of Engineering,MTECH-CIVIL,BC-B,618
+Al Habeeb College of Engineering,MTECH-CIVIL,BC-C,603
+Al Habeeb College of Engineering,MTECH-CIVIL,BC-D,320
+Al Habeeb College of Engineering,MTECH-CIVIL,SC,388
+Al Habeeb College of Engineering,MTECH-CIVIL,ST,403
+Annamacharya Institute of Technology and Sciences,MTECH-CSE,OC,566
+Annamacharya Institute of Technology and Sciences,MTECH-CSE,BC-A,900
+Annamacharya Institute of Technology and Sciences,MTECH-CSE,BC-B,828
+Annamacharya Institute of Technology and Sciences,MTECH-CSE,BC-C,818
+Annamacharya Institute of Technology and Sciences,MTECH-CSE,BC-D,664
+Annamacharya Institute of Technology and Sciences,MTECH-CSE,SC,849
+Annamacharya Institute of Technology and Sciences,MTECH-CSE,ST,941
+Annamacharya Institute of Technology and Sciences,MTECH-ECE,OC,934
+Annamacharya Institute of Technology and Sciences,MTECH-ECE,BC-A,1104
+Annamacharya Institute of Technology and Sciences,MTECH-ECE,BC-B,855
+Annamacharya Institute of Technology and Sciences,MTECH-ECE,BC-C,979
+Annamacharya Institute of Technology and Sciences,MTECH-ECE,BC-D,967
+Annamacharya Institute of Technology and Sciences,MTECH-ECE,SC,1005
+Annamacharya Institute of Technology and Sciences,MTECH-ECE,ST,962
+Annamacharya Institute of Technology and Sciences,MTECH-EEE,OC,1058
+Annamacharya Institute of Technology and Sciences,MTECH-EEE,BC-A,950
+Annamacharya Institute of Technology and Sciences,MTECH-EEE,BC-B,1131
+Annamacharya Institute of Technology and Sciences,MTECH-EEE,BC-C,1076
+Annamacharya Institute of Technology and Sciences,MTECH-EEE,BC-D,851
+Annamacharya Institute of Technology and Sciences,MTECH-EEE,SC,1033
+Annamacharya Institute of Technology and Sciences,MTECH-EEE,ST,1185
+Annamacharya Institute of Technology and Sciences,MTECH-MECH,OC,717
+Annamacharya Institute of Technology and Sciences,MTECH-MECH,BC-A,720
+Annamacharya Institute of Technology and Sciences,MTECH-MECH,BC-B,888
+Annamacharya Institute of Technology and Sciences,MTECH-MECH,BC-C,906
+Annamacharya Institute of Technology and Sciences,MTECH-MECH,BC-D,903
+Annamacharya Institute of Technology and Sciences,MTECH-MECH,SC,536
+Annamacharya Institute of Technology and Sciences,MTECH-MECH,ST,676
+Annamacharya Institute of Technology and Sciences,MTECH-CIVIL,OC,720
+Annamacharya Institute of Technology and Sciences,MTECH-CIVIL,BC-A,902
+Annamacharya Institute of Technology and Sciences,MTECH-CIVIL,BC-B,1090
+Annamacharya Institute of Technology and Sciences,MTECH-CIVIL,BC-C,1035
+Annamacharya Institute of Technology and Sciences,MTECH-CIVIL,BC-D,963
+Annamacharya Institute of Technology and Sciences,MTECH-CIVIL,SC,908
+Annamacharya Institute of Technology and Sciences,MTECH-CIVIL,ST,1013
+Aradhana Engineering College,MTECH-CSE,OC,1543
+Aradhana Engineering College,MTECH-CSE,BC-A,1342
+Aradhana Engineering College,MTECH-CSE,BC-B,1354
+Aradhana Engineering College,MTECH-CSE,BC-C,1471
+Aradhana Engineering College,MTECH-CSE,BC-D,1376
+Aradhana Engineering College,MTECH-CSE,SC,1323
+Aradhana Engineering College,MTECH-CSE,ST,1436
+Aradhana Engineering College,MTECH-ECE,OC,1371
+Aradhana Engineering College,MTECH-ECE,BC-A,1483
+Aradhana Engineering College,MTECH-ECE,BC-B,1294
+Aradhana Engineering College,MTECH-ECE,BC-C,1533
+Aradhana Engineering College,MTECH-ECE,BC-D,1536
+Aradhana Engineering College,MTECH-ECE,SC,1430
+Aradhana Engineering College,MTECH-ECE,ST,1458
+Aradhana Engineering College,MTECH-EEE,OC,1585
+Aradhana Engineering College,MTECH-EEE,BC-A,1642
+Aradhana Engineering College,MTECH-EEE,BC-B,1795
+Aradhana Engineering College,MTECH-EEE,BC-C,1770
+Aradhana Engineering College,MTECH-EEE,BC-D,1335
+Aradhana Engineering College,MTECH-EEE,SC,1700
+Aradhana Engineering College,MTECH-EEE,ST,1415
+Aradhana Engineering College,MTECH-MECH,OC,1179
+Aradhana Engineering College,MTECH-MECH,BC-A,1445
+Aradhana Engineering College,MTECH-MECH,BC-B,1251
+Aradhana Engineering College,MTECH-MECH,BC-C,1379
+Aradhana Engineering College,MTECH-MECH,BC-D,1321
+Aradhana Engineering College,MTECH-MECH,SC,1396
+Aradhana Engineering College,MTECH-MECH,ST,1231
+Aradhana Engineering College,MTECH-CIVIL,OC,1542
+Aradhana Engineering College,MTECH-CIVIL,BC-A,1514
+Aradhana Engineering College,MTECH-CIVIL,BC-B,1701
+Aradhana Engineering College,MTECH-CIVIL,BC-C,1824
+Aradhana Engineering College,MTECH-CIVIL,BC-D,1570
+Aradhana Engineering College,MTECH-CIVIL,SC,1513
+Aradhana Engineering College,MTECH-CIVIL,ST,1451
+Arunodaya College of Engineering,MTECH-CSE,OC,1589
+Arunodaya College of Engineering,MTECH-CSE,BC-A,1658
+Arunodaya College of Engineering,MTECH-CSE,BC-B,1770
+Arunodaya College of Engineering,MTECH-CSE,BC-C,1883
+Arunodaya College of Engineering,MTECH-CSE,BC-D,1722
+Arunodaya College of Engineering,MTECH-CSE,SC,1676
+Arunodaya College of Engineering,MTECH-CSE,ST,1520
+Arunodaya College of Engineering,MTECH-ECE,OC,1531
+Arunodaya College of Engineering,MTECH-ECE,BC-A,1372
+Arunodaya College of Engineering,MTECH-ECE,BC-B,1555
+Arunodaya College of Engineering,MTECH-ECE,BC-C,1648
+Arunodaya College of Engineering,MTECH-ECE,BC-D,1838
+Arunodaya College of Engineering,MTECH-ECE,SC,1485
+Arunodaya College of Engineering,MTECH-ECE,ST,1372
+Arunodaya College of Engineering,MTECH-EEE,OC,1776
+Arunodaya College of Engineering,MTECH-EEE,BC-A,1514
+Arunodaya College of Engineering,MTECH-EEE,BC-B,1793
+Arunodaya College of Engineering,MTECH-EEE,BC-C,1519
+Arunodaya College of Engineering,MTECH-EEE,BC-D,1723
+Arunodaya College of Engineering,MTECH-EEE,SC,1475
+Arunodaya College of Engineering,MTECH-EEE,ST,1840
+Arunodaya College of Engineering,MTECH-MECH,OC,1519
+Arunodaya College of Engineering,MTECH-MECH,BC-A,1990
+Arunodaya College of Engineering,MTECH-MECH,BC-B,1586
+Arunodaya College of Engineering,MTECH-MECH,BC-C,1725
+Arunodaya College of Engineering,MTECH-MECH,BC-D,1599
+Arunodaya College of Engineering,MTECH-MECH,SC,1795
+Arunodaya College of Engineering,MTECH-MECH,ST,1909
+Arunodaya College of Engineering,MTECH-CIVIL,OC,1422
+Arunodaya College of Engineering,MTECH-CIVIL,BC-A,1520
+Arunodaya College of Engineering,MTECH-CIVIL,BC-B,1776
+Arunodaya College of Engineering,MTECH-CIVIL,BC-C,1612
+Arunodaya College of Engineering,MTECH-CIVIL,BC-D,1765
+Arunodaya College of Engineering,MTECH-CIVIL,SC,1698
+Arunodaya College of Engineering,MTECH-CIVIL,ST,1391
+Aurora Engineering College,MTECH-CSE,OC,971
+Aurora Engineering College,MTECH-CSE,BC-A,1278
+Aurora Engineering College,MTECH-CSE,BC-B,1108
+Aurora Engineering College,MTECH-CSE,BC-C,1222
+Aurora Engineering College,MTECH-CSE,BC-D,931
+Aurora Engineering College,MTECH-CSE,SC,1106
+Aurora Engineering College,MTECH-CSE,ST,1391
+Aurora Engineering College,MTECH-ECE,OC,1087
+Aurora Engineering College,MTECH-ECE,BC-A,1415
+Aurora Engineering College,MTECH-ECE,BC-B,1257
+Aurora Engineering College,MTECH-ECE,BC-C,1119
+Aurora Engineering College,MTECH-ECE,BC-D,1359
+Aurora Engineering College,MTECH-ECE,SC,1408
+Aurora Engineering College,MTECH-ECE,ST,1329
+Aurora Engineering College,MTECH-EEE,OC,1416
+Aurora Engineering College,MTECH-EEE,BC-A,1263
+Aurora Engineering College,MTECH-EEE,BC-B,1525
+Aurora Engineering College,MTECH-EEE,BC-C,1234
+Aurora Engineering College,MTECH-EEE,BC-D,1373
+Aurora Engineering College,MTECH-EEE,SC,1428
+Aurora Engineering College,MTECH-EEE,ST,1254
+Aurora Engineering College,MTECH-MECH,OC,1315
+Aurora Engineering College,MTECH-MECH,BC-A,1312
+Aurora Engineering College,MTECH-MECH,BC-B,1013
+Aurora Engineering College,MTECH-MECH,BC-C,966
+Aurora Engineering College,MTECH-MECH,BC-D,1044
+Aurora Engineering College,MTECH-MECH,SC,1033
+Aurora Engineering College,MTECH-MECH,ST,1031
+Aurora Engineering College,MTECH-CIVIL,OC,1449
+Aurora Engineering College,MTECH-CIVIL,BC-A,1311
+Aurora Engineering College,MTECH-CIVIL,BC-B,1513
+Aurora Engineering College,MTECH-CIVIL,BC-C,1611
+Aurora Engineering College,MTECH-CIVIL,BC-D,1505
+Aurora Engineering College,MTECH-CIVIL,SC,1196
+Aurora Engineering College,MTECH-CIVIL,ST,1412
+Bhoj Reddy Engineering College,MTECH-CSE,OC,943
+Bhoj Reddy Engineering College,MTECH-CSE,BC-A,823
+Bhoj Reddy Engineering College,MTECH-CSE,BC-B,1003
+Bhoj Reddy Engineering College,MTECH-CSE,BC-C,547
+Bhoj Reddy Engineering College,MTECH-CSE,BC-D,689
+Bhoj Reddy Engineering College,MTECH-CSE,SC,774
+Bhoj Reddy Engineering College,MTECH-CSE,ST,559
+Bhoj Reddy Engineering College,MTECH-ECE,OC,942
+Bhoj Reddy Engineering College,MTECH-ECE,BC-A,870
+Bhoj Reddy Engineering College,MTECH-ECE,BC-B,1255
+Bhoj Reddy Engineering College,MTECH-ECE,BC-C,1098
+Bhoj Reddy Engineering College,MTECH-ECE,BC-D,950
+Bhoj Reddy Engineering College,MTECH-ECE,SC,1178
+Bhoj Reddy Engineering College,MTECH-ECE,ST,842
+Bhoj Reddy Engineering College,MTECH-EEE,OC,1096
+Bhoj Reddy Engineering College,MTECH-EEE,BC-A,815
+Bhoj Reddy Engineering College,MTECH-EEE,BC-B,1087
+Bhoj Reddy Engineering College,MTECH-EEE,BC-C,1070
+Bhoj Reddy Engineering College,MTECH-EEE,BC-D,890
+Bhoj Reddy Engineering College,MTECH-EEE,SC,1091
+Bhoj Reddy Engineering College,MTECH-EEE,ST,886
+Bhoj Reddy Engineering College,MTECH-MECH,OC,751
+Bhoj Reddy Engineering College,MTECH-MECH,BC-A,762
+Bhoj Reddy Engineering College,MTECH-MECH,BC-B,705
+Bhoj Reddy Engineering College,MTECH-MECH,BC-C,1067
+Bhoj Reddy Engineering College,MTECH-MECH,BC-D,820
+Bhoj Reddy Engineering College,MTECH-MECH,SC,950
+Bhoj Reddy Engineering College,MTECH-MECH,ST,677
+Bhoj Reddy Engineering College,MTECH-CIVIL,OC,868
+Bhoj Reddy Engineering College,MTECH-CIVIL,BC-A,993
+Bhoj Reddy Engineering College,MTECH-CIVIL,BC-B,1113
+Bhoj Reddy Engineering College,MTECH-CIVIL,BC-C,1073
+Bhoj Reddy Engineering College,MTECH-CIVIL,BC-D,944
+Bhoj Reddy Engineering College,MTECH-CIVIL,SC,1128
+Bhoj Reddy Engineering College,MTECH-CIVIL,ST,884
+Christu Jyothi Institute of Technology,MTECH-CSE,OC,1916
+Christu Jyothi Institute of Technology,MTECH-CSE,BC-A,1596
+Christu Jyothi Institute of Technology,MTECH-CSE,BC-B,1906
+Christu Jyothi Institute of Technology,MTECH-CSE,BC-C,1579
+Christu Jyothi Institute of Technology,MTECH-CSE,BC-D,1936
+Christu Jyothi Institute of Technology,MTECH-CSE,SC,1929
+Christu Jyothi Institute of Technology,MTECH-CSE,ST,1791
+Christu Jyothi Institute of Technology,MTECH-ECE,OC,1567
+Christu Jyothi Institute of Technology,MTECH-ECE,BC-A,1712
+Christu Jyothi Institute of Technology,MTECH-ECE,BC-B,1592
+Christu Jyothi Institute of Technology,MTECH-ECE,BC-C,1684
+Christu Jyothi Institute of Technology,MTECH-ECE,BC-D,1686
+Christu Jyothi Institute of Technology,MTECH-ECE,SC,1667
+Christu Jyothi Institute of Technology,MTECH-ECE,ST,1947
+Christu Jyothi Institute of Technology,MTECH-EEE,OC,2079
+Christu Jyothi Institute of Technology,MTECH-EEE,BC-A,1640
+Christu Jyothi Institute of Technology,MTECH-EEE,BC-B,1694
+Christu Jyothi Institute of Technology,MTECH-EEE,BC-C,1870
+Christu Jyothi Institute of Technology,MTECH-EEE,BC-D,2060
+Christu Jyothi Institute of Technology,MTECH-EEE,SC,2113
+Christu Jyothi Institute of Technology,MTECH-EEE,ST,1753
+Christu Jyothi Institute of Technology,MTECH-MECH,OC,1585
+Christu Jyothi Institute of Technology,MTECH-MECH,BC-A,1814
+Christu Jyothi Institute of Technology,MTECH-MECH,BC-B,1556
+Christu Jyothi Institute of Technology,MTECH-MECH,BC-C,1625
+Christu Jyothi Institute of Technology,MTECH-MECH,BC-D,1721
+Christu Jyothi Institute of Technology,MTECH-MECH,SC,1530
+Christu Jyothi Institute of Technology,MTECH-MECH,ST,1886
+Christu Jyothi Institute of Technology,MTECH-CIVIL,OC,1762
+Christu Jyothi Institute of Technology,MTECH-CIVIL,BC-A,1728
+Christu Jyothi Institute of Technology,MTECH-CIVIL,BC-B,1931
+Christu Jyothi Institute of Technology,MTECH-CIVIL,BC-C,1898
+Christu Jyothi Institute of Technology,MTECH-CIVIL,BC-D,1685
+Christu Jyothi Institute of Technology,MTECH-CIVIL,SC,1763
+Christu Jyothi Institute of Technology,MTECH-CIVIL,ST,1678
+Dr VRK Women’s Engineering College,MTECH-CSE,OC,1012
+Dr VRK Women’s Engineering College,MTECH-CSE,BC-A,820
+Dr VRK Women’s Engineering College,MTECH-CSE,BC-B,760
+Dr VRK Women’s Engineering College,MTECH-CSE,BC-C,683
+Dr VRK Women’s Engineering College,MTECH-CSE,BC-D,773
+Dr VRK Women’s Engineering College,MTECH-CSE,SC,978
+Dr VRK Women’s Engineering College,MTECH-CSE,ST,970
+Dr VRK Women’s Engineering College,MTECH-ECE,OC,794
+Dr VRK Women’s Engineering College,MTECH-ECE,BC-A,865
+Dr VRK Women’s Engineering College,MTECH-ECE,BC-B,756
+Dr VRK Women’s Engineering College,MTECH-ECE,BC-C,940
+Dr VRK Women’s Engineering College,MTECH-ECE,BC-D,812
+Dr VRK Women’s Engineering College,MTECH-ECE,SC,728
+Dr VRK Women’s Engineering College,MTECH-ECE,ST,833
+Dr VRK Women’s Engineering College,MTECH-EEE,OC,823
+Dr VRK Women’s Engineering College,MTECH-EEE,BC-A,722
+Dr VRK Women’s Engineering College,MTECH-EEE,BC-B,1016
+Dr VRK Women’s Engineering College,MTECH-EEE,BC-C,853
+Dr VRK Women’s Engineering College,MTECH-EEE,BC-D,1150
+Dr VRK Women’s Engineering College,MTECH-EEE,SC,735
+Dr VRK Women’s Engineering College,MTECH-EEE,ST,953
+Dr VRK Women’s Engineering College,MTECH-MECH,OC,928
+Dr VRK Women’s Engineering College,MTECH-MECH,BC-A,615
+Dr VRK Women’s Engineering College,MTECH-MECH,BC-B,481
+Dr VRK Women’s Engineering College,MTECH-MECH,BC-C,646
+Dr VRK Women’s Engineering College,MTECH-MECH,BC-D,443
+Dr VRK Women’s Engineering College,MTECH-MECH,SC,544
+Dr VRK Women’s Engineering College,MTECH-MECH,ST,459
+Dr VRK Women’s Engineering College,MTECH-CIVIL,OC,938
+Dr VRK Women’s Engineering College,MTECH-CIVIL,BC-A,669
+Dr VRK Women’s Engineering College,MTECH-CIVIL,BC-B,496
+Dr VRK Women’s Engineering College,MTECH-CIVIL,BC-C,468
+Dr VRK Women’s Engineering College,MTECH-CIVIL,BC-D,627
+Dr VRK Women’s Engineering College,MTECH-CIVIL,SC,641
+Dr VRK Women’s Engineering College,MTECH-CIVIL,ST,745
+Global Institute of Engineering,MTECH-CSE,OC,1152
+Global Institute of Engineering,MTECH-CSE,BC-A,1121
+Global Institute of Engineering,MTECH-CSE,BC-B,1137
+Global Institute of Engineering,MTECH-CSE,BC-C,817
+Global Institute of Engineering,MTECH-CSE,BC-D,1175
+Global Institute of Engineering,MTECH-CSE,SC,825
+Global Institute of Engineering,MTECH-CSE,ST,987
+Global Institute of Engineering,MTECH-ECE,OC,1223
+Global Institute of Engineering,MTECH-ECE,BC-A,1155
+Global Institute of Engineering,MTECH-ECE,BC-B,1213
+Global Institute of Engineering,MTECH-ECE,BC-C,1137
+Global Institute of Engineering,MTECH-ECE,BC-D,973
+Global Institute of Engineering,MTECH-ECE,SC,1228
+Global Institute of Engineering,MTECH-ECE,ST,839
+Global Institute of Engineering,MTECH-EEE,OC,753
+Global Institute of Engineering,MTECH-EEE,BC-A,641
+Global Institute of Engineering,MTECH-EEE,BC-B,658
+Global Institute of Engineering,MTECH-EEE,BC-C,891
+Global Institute of Engineering,MTECH-EEE,BC-D,771
+Global Institute of Engineering,MTECH-EEE,SC,836
+Global Institute of Engineering,MTECH-EEE,ST,985
+Global Institute of Engineering,MTECH-MECH,OC,1035
+Global Institute of Engineering,MTECH-MECH,BC-A,829
+Global Institute of Engineering,MTECH-MECH,BC-B,843
+Global Institute of Engineering,MTECH-MECH,BC-C,834
+Global Institute of Engineering,MTECH-MECH,BC-D,886
+Global Institute of Engineering,MTECH-MECH,SC,816
+Global Institute of Engineering,MTECH-MECH,ST,758
+Global Institute of Engineering,MTECH-CIVIL,OC,750
+Global Institute of Engineering,MTECH-CIVIL,BC-A,984
+Global Institute of Engineering,MTECH-CIVIL,BC-B,965
+Global Institute of Engineering,MTECH-CIVIL,BC-C,1034
+Global Institute of Engineering,MTECH-CIVIL,BC-D,693
+Global Institute of Engineering,MTECH-CIVIL,SC,1016
+Global Institute of Engineering,MTECH-CIVIL,ST,1065
+Hasvita Institute of Engineering,MTECH-CSE,OC,1351
+Hasvita Institute of Engineering,MTECH-CSE,BC-A,945
+Hasvita Institute of Engineering,MTECH-CSE,BC-B,958
+Hasvita Institute of Engineering,MTECH-CSE,BC-C,1439
+Hasvita Institute of Engineering,MTECH-CSE,BC-D,982
+Hasvita Institute of Engineering,MTECH-CSE,SC,971
+Hasvita Institute of Engineering,MTECH-CSE,ST,1363
+Hasvita Institute of Engineering,MTECH-ECE,OC,1118
+Hasvita Institute of Engineering,MTECH-ECE,BC-A,1039
+Hasvita Institute of Engineering,MTECH-ECE,BC-B,909
+Hasvita Institute of Engineering,MTECH-ECE,BC-C,1148
+Hasvita Institute of Engineering,MTECH-ECE,BC-D,1280
+Hasvita Institute of Engineering,MTECH-ECE,SC,1068
+Hasvita Institute of Engineering,MTECH-ECE,ST,1035
+Hasvita Institute of Engineering,MTECH-EEE,OC,1190
+Hasvita Institute of Engineering,MTECH-EEE,BC-A,1322
+Hasvita Institute of Engineering,MTECH-EEE,BC-B,1118
+Hasvita Institute of Engineering,MTECH-EEE,BC-C,1177
+Hasvita Institute of Engineering,MTECH-EEE,BC-D,1273
+Hasvita Institute of Engineering,MTECH-EEE,SC,1428
+Hasvita Institute of Engineering,MTECH-EEE,ST,1286
+Hasvita Institute of Engineering,MTECH-MECH,OC,1351
+Hasvita Institute of Engineering,MTECH-MECH,BC-A,1155
+Hasvita Institute of Engineering,MTECH-MECH,BC-B,1290
+Hasvita Institute of Engineering,MTECH-MECH,BC-C,959
+Hasvita Institute of Engineering,MTECH-MECH,BC-D,1256
+Hasvita Institute of Engineering,MTECH-MECH,SC,1130
+Hasvita Institute of Engineering,MTECH-MECH,ST,1328
+Hasvita Institute of Engineering,MTECH-CIVIL,OC,1371
+Hasvita Institute of Engineering,MTECH-CIVIL,BC-A,1311
+Hasvita Institute of Engineering,MTECH-CIVIL,BC-B,1435
+Hasvita Institute of Engineering,MTECH-CIVIL,BC-C,1243
+Hasvita Institute of Engineering,MTECH-CIVIL,BC-D,1455
+Hasvita Institute of Engineering,MTECH-CIVIL,SC,1294
+Hasvita Institute of Engineering,MTECH-CIVIL,ST,1287
+Hi-Tech Engineering College,MTECH-CSE,OC,1760
+Hi-Tech Engineering College,MTECH-CSE,BC-A,1624
+Hi-Tech Engineering College,MTECH-CSE,BC-B,1855
+Hi-Tech Engineering College,MTECH-CSE,BC-C,1811
+Hi-Tech Engineering College,MTECH-CSE,BC-D,1839
+Hi-Tech Engineering College,MTECH-CSE,SC,1598
+Hi-Tech Engineering College,MTECH-CSE,ST,1857
+Hi-Tech Engineering College,MTECH-ECE,OC,1873
+Hi-Tech Engineering College,MTECH-ECE,BC-A,1639
+Hi-Tech Engineering College,MTECH-ECE,BC-B,1719
+Hi-Tech Engineering College,MTECH-ECE,BC-C,1800
+Hi-Tech Engineering College,MTECH-ECE,BC-D,1536
+Hi-Tech Engineering College,MTECH-ECE,SC,1743
+Hi-Tech Engineering College,MTECH-ECE,ST,1821
+Hi-Tech Engineering College,MTECH-EEE,OC,1810
+Hi-Tech Engineering College,MTECH-EEE,BC-A,1956
+Hi-Tech Engineering College,MTECH-EEE,BC-B,1899
+Hi-Tech Engineering College,MTECH-EEE,BC-C,1850
+Hi-Tech Engineering College,MTECH-EEE,BC-D,1682
+Hi-Tech Engineering College,MTECH-EEE,SC,1711
+Hi-Tech Engineering College,MTECH-EEE,ST,2114
+Hi-Tech Engineering College,MTECH-MECH,OC,1918
+Hi-Tech Engineering College,MTECH-MECH,BC-A,1491
+Hi-Tech Engineering College,MTECH-MECH,BC-B,1930
+Hi-Tech Engineering College,MTECH-MECH,BC-C,1585
+Hi-Tech Engineering College,MTECH-MECH,BC-D,1630
+Hi-Tech Engineering College,MTECH-MECH,SC,1730
+Hi-Tech Engineering College,MTECH-MECH,ST,1951
+Hi-Tech Engineering College,MTECH-CIVIL,OC,1858
+Hi-Tech Engineering College,MTECH-CIVIL,BC-A,1951
+Hi-Tech Engineering College,MTECH-CIVIL,BC-B,1605
+Hi-Tech Engineering College,MTECH-CIVIL,BC-C,1979
+Hi-Tech Engineering College,MTECH-CIVIL,BC-D,1631
+Hi-Tech Engineering College,MTECH-CIVIL,SC,1705
+Hi-Tech Engineering College,MTECH-CIVIL,ST,1732
+Jyothishmathi Institute of Technology,MTECH-CSE,OC,1085
+Jyothishmathi Institute of Technology,MTECH-CSE,BC-A,1032
+Jyothishmathi Institute of Technology,MTECH-CSE,BC-B,962
+Jyothishmathi Institute of Technology,MTECH-CSE,BC-C,1296
+Jyothishmathi Institute of Technology,MTECH-CSE,BC-D,992
+Jyothishmathi Institute of Technology,MTECH-CSE,SC,1168
+Jyothishmathi Institute of Technology,MTECH-CSE,ST,1069
+Jyothishmathi Institute of Technology,MTECH-ECE,OC,1181
+Jyothishmathi Institute of Technology,MTECH-ECE,BC-A,1402
+Jyothishmathi Institute of Technology,MTECH-ECE,BC-B,1298
+Jyothishmathi Institute of Technology,MTECH-ECE,BC-C,1109
+Jyothishmathi Institute of Technology,MTECH-ECE,BC-D,1289
+Jyothishmathi Institute of Technology,MTECH-ECE,SC,1505
+Jyothishmathi Institute of Technology,MTECH-ECE,ST,1054
+Jyothishmathi Institute of Technology,MTECH-EEE,OC,1357
+Jyothishmathi Institute of Technology,MTECH-EEE,BC-A,1071
+Jyothishmathi Institute of Technology,MTECH-EEE,BC-B,1401
+Jyothishmathi Institute of Technology,MTECH-EEE,BC-C,1178
+Jyothishmathi Institute of Technology,MTECH-EEE,BC-D,1079
+Jyothishmathi Institute of Technology,MTECH-EEE,SC,1115
+Jyothishmathi Institute of Technology,MTECH-EEE,ST,1410
+Jyothishmathi Institute of Technology,MTECH-MECH,OC,1176
+Jyothishmathi Institute of Technology,MTECH-MECH,BC-A,1352
+Jyothishmathi Institute of Technology,MTECH-MECH,BC-B,1392
+Jyothishmathi Institute of Technology,MTECH-MECH,BC-C,1136
+Jyothishmathi Institute of Technology,MTECH-MECH,BC-D,1006
+Jyothishmathi Institute of Technology,MTECH-MECH,SC,1275
+Jyothishmathi Institute of Technology,MTECH-MECH,ST,1053
+Jyothishmathi Institute of Technology,MTECH-CIVIL,OC,1365
+Jyothishmathi Institute of Technology,MTECH-CIVIL,BC-A,1271
+Jyothishmathi Institute of Technology,MTECH-CIVIL,BC-B,1391
+Jyothishmathi Institute of Technology,MTECH-CIVIL,BC-C,1473
+Jyothishmathi Institute of Technology,MTECH-CIVIL,BC-D,1108
+Jyothishmathi Institute of Technology,MTECH-CIVIL,SC,999
+Jyothishmathi Institute of Technology,MTECH-CIVIL,ST,1309
+Keshav Memorial Engineering College,MTECH-CSE,OC,1282
+Keshav Memorial Engineering College,MTECH-CSE,BC-A,1249
+Keshav Memorial Engineering College,MTECH-CSE,BC-B,1143
+Keshav Memorial Engineering College,MTECH-CSE,BC-C,1096
+Keshav Memorial Engineering College,MTECH-CSE,BC-D,1479
+Keshav Memorial Engineering College,MTECH-CSE,SC,1324
+Keshav Memorial Engineering College,MTECH-CSE,ST,1062
+Keshav Memorial Engineering College,MTECH-ECE,OC,1625
+Keshav Memorial Engineering College,MTECH-ECE,BC-A,1141
+Keshav Memorial Engineering College,MTECH-ECE,BC-B,1412
+Keshav Memorial Engineering College,MTECH-ECE,BC-C,1560
+Keshav Memorial Engineering College,MTECH-ECE,BC-D,1445
+Keshav Memorial Engineering College,MTECH-ECE,SC,1383
+Keshav Memorial Engineering College,MTECH-ECE,ST,1298
+Keshav Memorial Engineering College,MTECH-EEE,OC,1066
+Keshav Memorial Engineering College,MTECH-EEE,BC-A,1175
+Keshav Memorial Engineering College,MTECH-EEE,BC-B,1365
+Keshav Memorial Engineering College,MTECH-EEE,BC-C,1342
+Keshav Memorial Engineering College,MTECH-EEE,BC-D,1262
+Keshav Memorial Engineering College,MTECH-EEE,SC,1372
+Keshav Memorial Engineering College,MTECH-EEE,ST,1525
+Keshav Memorial Engineering College,MTECH-MECH,OC,983
+Keshav Memorial Engineering College,MTECH-MECH,BC-A,1025
+Keshav Memorial Engineering College,MTECH-MECH,BC-B,1268
+Keshav Memorial Engineering College,MTECH-MECH,BC-C,987
+Keshav Memorial Engineering College,MTECH-MECH,BC-D,1386
+Keshav Memorial Engineering College,MTECH-MECH,SC,1398
+Keshav Memorial Engineering College,MTECH-MECH,ST,1058
+Keshav Memorial Engineering College,MTECH-CIVIL,OC,1074
+Keshav Memorial Engineering College,MTECH-CIVIL,BC-A,1264
+Keshav Memorial Engineering College,MTECH-CIVIL,BC-B,959
+Keshav Memorial Engineering College,MTECH-CIVIL,BC-C,1000
+Keshav Memorial Engineering College,MTECH-CIVIL,BC-D,1170
+Keshav Memorial Engineering College,MTECH-CIVIL,SC,1029
+Keshav Memorial Engineering College,MTECH-CIVIL,ST,1155
+Kommuri Pratap Reddy Institute of Technology,MTECH-CSE,OC,1441
+Kommuri Pratap Reddy Institute of Technology,MTECH-CSE,BC-A,1585
+Kommuri Pratap Reddy Institute of Technology,MTECH-CSE,BC-B,1649
+Kommuri Pratap Reddy Institute of Technology,MTECH-CSE,BC-C,1595
+Kommuri Pratap Reddy Institute of Technology,MTECH-CSE,BC-D,1601
+Kommuri Pratap Reddy Institute of Technology,MTECH-CSE,SC,1630
+Kommuri Pratap Reddy Institute of Technology,MTECH-CSE,ST,1216
+Kommuri Pratap Reddy Institute of Technology,MTECH-ECE,OC,1581
+Kommuri Pratap Reddy Institute of Technology,MTECH-ECE,BC-A,1414
+Kommuri Pratap Reddy Institute of Technology,MTECH-ECE,BC-B,1442
+Kommuri Pratap Reddy Institute of Technology,MTECH-ECE,BC-C,1459
+Kommuri Pratap Reddy Institute of Technology,MTECH-ECE,BC-D,1489
+Kommuri Pratap Reddy Institute of Technology,MTECH-ECE,SC,1697
+Kommuri Pratap Reddy Institute of Technology,MTECH-ECE,ST,1703
+Kommuri Pratap Reddy Institute of Technology,MTECH-EEE,OC,1370
+Kommuri Pratap Reddy Institute of Technology,MTECH-EEE,BC-A,1390
+Kommuri Pratap Reddy Institute of Technology,MTECH-EEE,BC-B,1510
+Kommuri Pratap Reddy Institute of Technology,MTECH-EEE,BC-C,1740
+Kommuri Pratap Reddy Institute of Technology,MTECH-EEE,BC-D,1466
+Kommuri Pratap Reddy Institute of Technology,MTECH-EEE,SC,1557
+Kommuri Pratap Reddy Institute of Technology,MTECH-EEE,ST,1616
+Kommuri Pratap Reddy Institute of Technology,MTECH-MECH,OC,1311
+Kommuri Pratap Reddy Institute of Technology,MTECH-MECH,BC-A,1229
+Kommuri Pratap Reddy Institute of Technology,MTECH-MECH,BC-B,1362
+Kommuri Pratap Reddy Institute of Technology,MTECH-MECH,BC-C,1482
+Kommuri Pratap Reddy Institute of Technology,MTECH-MECH,BC-D,1322
+Kommuri Pratap Reddy Institute of Technology,MTECH-MECH,SC,1387
+Kommuri Pratap Reddy Institute of Technology,MTECH-MECH,ST,1599
+Kommuri Pratap Reddy Institute of Technology,MTECH-CIVIL,OC,1286
+Kommuri Pratap Reddy Institute of Technology,MTECH-CIVIL,BC-A,1408
+Kommuri Pratap Reddy Institute of Technology,MTECH-CIVIL,BC-B,1598
+Kommuri Pratap Reddy Institute of Technology,MTECH-CIVIL,BC-C,1331
+Kommuri Pratap Reddy Institute of Technology,MTECH-CIVIL,BC-D,1277
+Kommuri Pratap Reddy Institute of Technology,MTECH-CIVIL,SC,1456
+Kommuri Pratap Reddy Institute of Technology,MTECH-CIVIL,ST,1363
+Lords Institute of Engineering,MTECH-CSE,OC,521
+Lords Institute of Engineering,MTECH-CSE,BC-A,407
+Lords Institute of Engineering,MTECH-CSE,BC-B,431
+Lords Institute of Engineering,MTECH-CSE,BC-C,513
+Lords Institute of Engineering,MTECH-CSE,BC-D,684
+Lords Institute of Engineering,MTECH-CSE,SC,836
+Lords Institute of Engineering,MTECH-CSE,ST,441
+Lords Institute of Engineering,MTECH-ECE,OC,364
+Lords Institute of Engineering,MTECH-ECE,BC-A,639
+Lords Institute of Engineering,MTECH-ECE,BC-B,403
+Lords Institute of Engineering,MTECH-ECE,BC-C,681
+Lords Institute of Engineering,MTECH-ECE,BC-D,729
+Lords Institute of Engineering,MTECH-ECE,SC,778
+Lords Institute of Engineering,MTECH-ECE,ST,669
+Lords Institute of Engineering,MTECH-EEE,OC,615
+Lords Institute of Engineering,MTECH-EEE,BC-A,447
+Lords Institute of Engineering,MTECH-EEE,BC-B,407
+Lords Institute of Engineering,MTECH-EEE,BC-C,596
+Lords Institute of Engineering,MTECH-EEE,BC-D,675
+Lords Institute of Engineering,MTECH-EEE,SC,549
+Lords Institute of Engineering,MTECH-EEE,ST,558
+Lords Institute of Engineering,MTECH-MECH,OC,809
+Lords Institute of Engineering,MTECH-MECH,BC-A,531
+Lords Institute of Engineering,MTECH-MECH,BC-B,747
+Lords Institute of Engineering,MTECH-MECH,BC-C,816
+Lords Institute of Engineering,MTECH-MECH,BC-D,610
+Lords Institute of Engineering,MTECH-MECH,SC,477
+Lords Institute of Engineering,MTECH-MECH,ST,495
+Lords Institute of Engineering,MTECH-CIVIL,OC,307
+Lords Institute of Engineering,MTECH-CIVIL,BC-A,566
+Lords Institute of Engineering,MTECH-CIVIL,BC-B,351
+Lords Institute of Engineering,MTECH-CIVIL,BC-C,614
+Lords Institute of Engineering,MTECH-CIVIL,BC-D,544
+Lords Institute of Engineering,MTECH-CIVIL,SC,425
+Lords Institute of Engineering,MTECH-CIVIL,ST,559
+MNR College of Engineering,MTECH-CSE,OC,1199
+MNR College of Engineering,MTECH-CSE,BC-A,922
+MNR College of Engineering,MTECH-CSE,BC-B,1357
+MNR College of Engineering,MTECH-CSE,BC-C,1343
+MNR College of Engineering,MTECH-CSE,BC-D,1089
+MNR College of Engineering,MTECH-CSE,SC,1393
+MNR College of Engineering,MTECH-CSE,ST,1253
+MNR College of Engineering,MTECH-ECE,OC,1313
+MNR College of Engineering,MTECH-ECE,BC-A,943
+MNR College of Engineering,MTECH-ECE,BC-B,1307
+MNR College of Engineering,MTECH-ECE,BC-C,1097
+MNR College of Engineering,MTECH-ECE,BC-D,1274
+MNR College of Engineering,MTECH-ECE,SC,949
+MNR College of Engineering,MTECH-ECE,ST,1121
+MNR College of Engineering,MTECH-EEE,OC,1098
+MNR College of Engineering,MTECH-EEE,BC-A,1008
+MNR College of Engineering,MTECH-EEE,BC-B,943
+MNR College of Engineering,MTECH-EEE,BC-C,1047
+MNR College of Engineering,MTECH-EEE,BC-D,1071
+MNR College of Engineering,MTECH-EEE,SC,820
+MNR College of Engineering,MTECH-EEE,ST,1093
+MNR College of Engineering,MTECH-MECH,OC,1123
+MNR College of Engineering,MTECH-MECH,BC-A,815
+MNR College of Engineering,MTECH-MECH,BC-B,859
+MNR College of Engineering,MTECH-MECH,BC-C,755
+MNR College of Engineering,MTECH-MECH,BC-D,1139
+MNR College of Engineering,MTECH-MECH,SC,957
+MNR College of Engineering,MTECH-MECH,ST,997
+MNR College of Engineering,MTECH-CIVIL,OC,1084
+MNR College of Engineering,MTECH-CIVIL,BC-A,1069
+MNR College of Engineering,MTECH-CIVIL,BC-B,969
+MNR College of Engineering,MTECH-CIVIL,BC-C,948
+MNR College of Engineering,MTECH-CIVIL,BC-D,1021
+MNR College of Engineering,MTECH-CIVIL,SC,1035
+MNR College of Engineering,MTECH-CIVIL,ST,1334
+Narayana Engineering College,MTECH-CSE,OC,659
+Narayana Engineering College,MTECH-CSE,BC-A,286
+Narayana Engineering College,MTECH-CSE,BC-B,534
+Narayana Engineering College,MTECH-CSE,BC-C,315
+Narayana Engineering College,MTECH-CSE,BC-D,520
+Narayana Engineering College,MTECH-CSE,SC,492
+Narayana Engineering College,MTECH-CSE,ST,307
+Narayana Engineering College,MTECH-ECE,OC,248
+Narayana Engineering College,MTECH-ECE,BC-A,620
+Narayana Engineering College,MTECH-ECE,BC-B,195
+Narayana Engineering College,MTECH-ECE,BC-C,593
+Narayana Engineering College,MTECH-ECE,BC-D,388
+Narayana Engineering College,MTECH-ECE,SC,552
+Narayana Engineering College,MTECH-ECE,ST,529
+Narayana Engineering College,MTECH-EEE,OC,703
+Narayana Engineering College,MTECH-EEE,BC-A,453
+Narayana Engineering College,MTECH-EEE,BC-B,714
+Narayana Engineering College,MTECH-EEE,BC-C,421
+Narayana Engineering College,MTECH-EEE,BC-D,508
+Narayana Engineering College,MTECH-EEE,SC,555
+Narayana Engineering College,MTECH-EEE,ST,489
+Narayana Engineering College,MTECH-MECH,OC,611
+Narayana Engineering College,MTECH-MECH,BC-A,540
+Narayana Engineering College,MTECH-MECH,BC-B,612
+Narayana Engineering College,MTECH-MECH,BC-C,459
+Narayana Engineering College,MTECH-MECH,BC-D,614
+Narayana Engineering College,MTECH-MECH,SC,328
+Narayana Engineering College,MTECH-MECH,ST,398
+Narayana Engineering College,MTECH-CIVIL,OC,432
+Narayana Engineering College,MTECH-CIVIL,BC-A,398
+Narayana Engineering College,MTECH-CIVIL,BC-B,739
+Narayana Engineering College,MTECH-CIVIL,BC-C,561
+Narayana Engineering College,MTECH-CIVIL,BC-D,787
+Narayana Engineering College,MTECH-CIVIL,SC,642
+Narayana Engineering College,MTECH-CIVIL,ST,384
+Nova Engineering College,MTECH-CSE,OC,1596
+Nova Engineering College,MTECH-CSE,BC-A,1534
+Nova Engineering College,MTECH-CSE,BC-B,1430
+Nova Engineering College,MTECH-CSE,BC-C,1568
+Nova Engineering College,MTECH-CSE,BC-D,1526
+Nova Engineering College,MTECH-CSE,SC,1419
+Nova Engineering College,MTECH-CSE,ST,1435
+Nova Engineering College,MTECH-ECE,OC,1248
+Nova Engineering College,MTECH-ECE,BC-A,1031
+Nova Engineering College,MTECH-ECE,BC-B,1149
+Nova Engineering College,MTECH-ECE,BC-C,1086
+Nova Engineering College,MTECH-ECE,BC-D,1470
+Nova Engineering College,MTECH-ECE,SC,1213
+Nova Engineering College,MTECH-ECE,ST,1414
+Nova Engineering College,MTECH-EEE,OC,1166
+Nova Engineering College,MTECH-EEE,BC-A,1366
+Nova Engineering College,MTECH-EEE,BC-B,1120
+Nova Engineering College,MTECH-EEE,BC-C,1335
+Nova Engineering College,MTECH-EEE,BC-D,1333
+Nova Engineering College,MTECH-EEE,SC,1299
+Nova Engineering College,MTECH-EEE,ST,1148
+Nova Engineering College,MTECH-MECH,OC,1342
+Nova Engineering College,MTECH-MECH,BC-A,1470
+Nova Engineering College,MTECH-MECH,BC-B,1437
+Nova Engineering College,MTECH-MECH,BC-C,1173
+Nova Engineering College,MTECH-MECH,BC-D,1181
+Nova Engineering College,MTECH-MECH,SC,1505
+Nova Engineering College,MTECH-MECH,ST,1312
+Nova Engineering College,MTECH-CIVIL,OC,1605
+Nova Engineering College,MTECH-CIVIL,BC-A,1391
+Nova Engineering College,MTECH-CIVIL,BC-B,1488
+Nova Engineering College,MTECH-CIVIL,BC-C,1604
+Nova Engineering College,MTECH-CIVIL,BC-D,1289
+Nova Engineering College,MTECH-CIVIL,SC,1346
+Nova Engineering College,MTECH-CIVIL,ST,1314
+Pragati Engineering College,MTECH-CSE,OC,688
+Pragati Engineering College,MTECH-CSE,BC-A,413
+Pragati Engineering College,MTECH-CSE,BC-B,721
+Pragati Engineering College,MTECH-CSE,BC-C,518
+Pragati Engineering College,MTECH-CSE,BC-D,556
+Pragati Engineering College,MTECH-CSE,SC,387
+Pragati Engineering College,MTECH-CSE,ST,331
+Pragati Engineering College,MTECH-ECE,OC,912
+Pragati Engineering College,MTECH-ECE,BC-A,741
+Pragati Engineering College,MTECH-ECE,BC-B,849
+Pragati Engineering College,MTECH-ECE,BC-C,873
+Pragati Engineering College,MTECH-ECE,BC-D,930
+Pragati Engineering College,MTECH-ECE,SC,501
+Pragati Engineering College,MTECH-ECE,ST,469
+Pragati Engineering College,MTECH-EEE,OC,349
+Pragati Engineering College,MTECH-EEE,BC-A,347
+Pragati Engineering College,MTECH-EEE,BC-B,449
+Pragati Engineering College,MTECH-EEE,BC-C,526
+Pragati Engineering College,MTECH-EEE,BC-D,732
+Pragati Engineering College,MTECH-EEE,SC,380
+Pragati Engineering College,MTECH-EEE,ST,694
+Pragati Engineering College,MTECH-MECH,OC,352
+Pragati Engineering College,MTECH-MECH,BC-A,530
+Pragati Engineering College,MTECH-MECH,BC-B,486
+Pragati Engineering College,MTECH-MECH,BC-C,319
+Pragati Engineering College,MTECH-MECH,BC-D,694
+Pragati Engineering College,MTECH-MECH,SC,271
+Pragati Engineering College,MTECH-MECH,ST,277
+Pragati Engineering College,MTECH-CIVIL,OC,673
+Pragati Engineering College,MTECH-CIVIL,BC-A,447
+Pragati Engineering College,MTECH-CIVIL,BC-B,490
+Pragati Engineering College,MTECH-CIVIL,BC-C,748
+Pragati Engineering College,MTECH-CIVIL,BC-D,289
+Pragati Engineering College,MTECH-CIVIL,SC,639
+Pragati Engineering College,MTECH-CIVIL,ST,719
+Ramananda Institute of Technology,MTECH-CSE,OC,755
+Ramananda Institute of Technology,MTECH-CSE,BC-A,1072
+Ramananda Institute of Technology,MTECH-CSE,BC-B,1137
+Ramananda Institute of Technology,MTECH-CSE,BC-C,931
+Ramananda Institute of Technology,MTECH-CSE,BC-D,1102
+Ramananda Institute of Technology,MTECH-CSE,SC,821
+Ramananda Institute of Technology,MTECH-CSE,ST,754
+Ramananda Institute of Technology,MTECH-ECE,OC,1067
+Ramananda Institute of Technology,MTECH-ECE,BC-A,872
+Ramananda Institute of Technology,MTECH-ECE,BC-B,961
+Ramananda Institute of Technology,MTECH-ECE,BC-C,1001
+Ramananda Institute of Technology,MTECH-ECE,BC-D,829
+Ramananda Institute of Technology,MTECH-ECE,SC,1151
+Ramananda Institute of Technology,MTECH-ECE,ST,1313
+Ramananda Institute of Technology,MTECH-EEE,OC,1061
+Ramananda Institute of Technology,MTECH-EEE,BC-A,825
+Ramananda Institute of Technology,MTECH-EEE,BC-B,901
+Ramananda Institute of Technology,MTECH-EEE,BC-C,1052
+Ramananda Institute of Technology,MTECH-EEE,BC-D,1055
+Ramananda Institute of Technology,MTECH-EEE,SC,1032
+Ramananda Institute of Technology,MTECH-EEE,ST,967
+Ramananda Institute of Technology,MTECH-MECH,OC,1055
+Ramananda Institute of Technology,MTECH-MECH,BC-A,859
+Ramananda Institute of Technology,MTECH-MECH,BC-B,1160
+Ramananda Institute of Technology,MTECH-MECH,BC-C,808
+Ramananda Institute of Technology,MTECH-MECH,BC-D,724
+Ramananda Institute of Technology,MTECH-MECH,SC,1101
+Ramananda Institute of Technology,MTECH-MECH,ST,1017
+Ramananda Institute of Technology,MTECH-CIVIL,OC,860
+Ramananda Institute of Technology,MTECH-CIVIL,BC-A,1221
+Ramananda Institute of Technology,MTECH-CIVIL,BC-B,805
+Ramananda Institute of Technology,MTECH-CIVIL,BC-C,973
+Ramananda Institute of Technology,MTECH-CIVIL,BC-D,1028
+Ramananda Institute of Technology,MTECH-CIVIL,SC,850
+Ramananda Institute of Technology,MTECH-CIVIL,ST,1063
+Sphoorthy Engineering College,MTECH-CSE,OC,788
+Sphoorthy Engineering College,MTECH-CSE,BC-A,854
+Sphoorthy Engineering College,MTECH-CSE,BC-B,740
+Sphoorthy Engineering College,MTECH-CSE,BC-C,771
+Sphoorthy Engineering College,MTECH-CSE,BC-D,977
+Sphoorthy Engineering College,MTECH-CSE,SC,871
+Sphoorthy Engineering College,MTECH-CSE,ST,826
+Sphoorthy Engineering College,MTECH-ECE,OC,786
+Sphoorthy Engineering College,MTECH-ECE,BC-A,892
+Sphoorthy Engineering College,MTECH-ECE,BC-B,816
+Sphoorthy Engineering College,MTECH-ECE,BC-C,574
+Sphoorthy Engineering College,MTECH-ECE,BC-D,627
+Sphoorthy Engineering College,MTECH-ECE,SC,836
+Sphoorthy Engineering College,MTECH-ECE,ST,679
+Sphoorthy Engineering College,MTECH-EEE,OC,1067
+Sphoorthy Engineering College,MTECH-EEE,BC-A,852
+Sphoorthy Engineering College,MTECH-EEE,BC-B,814
+Sphoorthy Engineering College,MTECH-EEE,BC-C,858
+Sphoorthy Engineering College,MTECH-EEE,BC-D,790
+Sphoorthy Engineering College,MTECH-EEE,SC,685
+Sphoorthy Engineering College,MTECH-EEE,ST,1149
+Sphoorthy Engineering College,MTECH-MECH,OC,1142
+Sphoorthy Engineering College,MTECH-MECH,BC-A,1064
+Sphoorthy Engineering College,MTECH-MECH,BC-B,712
+Sphoorthy Engineering College,MTECH-MECH,BC-C,783
+Sphoorthy Engineering College,MTECH-MECH,BC-D,912
+Sphoorthy Engineering College,MTECH-MECH,SC,920
+Sphoorthy Engineering College,MTECH-MECH,ST,825
+Sphoorthy Engineering College,MTECH-CIVIL,OC,1146
+Sphoorthy Engineering College,MTECH-CIVIL,BC-A,1099
+Sphoorthy Engineering College,MTECH-CIVIL,BC-B,1116
+Sphoorthy Engineering College,MTECH-CIVIL,BC-C,1092
+Sphoorthy Engineering College,MTECH-CIVIL,BC-D,857
+Sphoorthy Engineering College,MTECH-CIVIL,SC,810
+Sphoorthy Engineering College,MTECH-CIVIL,ST,1079
+Sree Dattha Institute of Engineering,MTECH-CSE,OC,1294
+Sree Dattha Institute of Engineering,MTECH-CSE,BC-A,1318
+Sree Dattha Institute of Engineering,MTECH-CSE,BC-B,1217
+Sree Dattha Institute of Engineering,MTECH-CSE,BC-C,1289
+Sree Dattha Institute of Engineering,MTECH-CSE,BC-D,1047
+Sree Dattha Institute of Engineering,MTECH-CSE,SC,1330
+Sree Dattha Institute of Engineering,MTECH-CSE,ST,1026
+Sree Dattha Institute of Engineering,MTECH-ECE,OC,1052
+Sree Dattha Institute of Engineering,MTECH-ECE,BC-A,797
+Sree Dattha Institute of Engineering,MTECH-ECE,BC-B,771
+Sree Dattha Institute of Engineering,MTECH-ECE,BC-C,1090
+Sree Dattha Institute of Engineering,MTECH-ECE,BC-D,1074
+Sree Dattha Institute of Engineering,MTECH-ECE,SC,989
+Sree Dattha Institute of Engineering,MTECH-ECE,ST,1232
+Sree Dattha Institute of Engineering,MTECH-EEE,OC,1002
+Sree Dattha Institute of Engineering,MTECH-EEE,BC-A,1111
+Sree Dattha Institute of Engineering,MTECH-EEE,BC-B,1278
+Sree Dattha Institute of Engineering,MTECH-EEE,BC-C,1037
+Sree Dattha Institute of Engineering,MTECH-EEE,BC-D,1456
+Sree Dattha Institute of Engineering,MTECH-EEE,SC,1309
+Sree Dattha Institute of Engineering,MTECH-EEE,ST,1036
+Sree Dattha Institute of Engineering,MTECH-MECH,OC,1206
+Sree Dattha Institute of Engineering,MTECH-MECH,BC-A,1331
+Sree Dattha Institute of Engineering,MTECH-MECH,BC-B,972
+Sree Dattha Institute of Engineering,MTECH-MECH,BC-C,1180
+Sree Dattha Institute of Engineering,MTECH-MECH,BC-D,1068
+Sree Dattha Institute of Engineering,MTECH-MECH,SC,904
+Sree Dattha Institute of Engineering,MTECH-MECH,ST,992
+Sree Dattha Institute of Engineering,MTECH-CIVIL,OC,1288
+Sree Dattha Institute of Engineering,MTECH-CIVIL,BC-A,1447
+Sree Dattha Institute of Engineering,MTECH-CIVIL,BC-B,1399
+Sree Dattha Institute of Engineering,MTECH-CIVIL,BC-C,1292
+Sree Dattha Institute of Engineering,MTECH-CIVIL,BC-D,1444
+Sree Dattha Institute of Engineering,MTECH-CIVIL,SC,1208
+Sree Dattha Institute of Engineering,MTECH-CIVIL,ST,978
+Sree Kavitha Engineering College,MTECH-CSE,OC,424
+Sree Kavitha Engineering College,MTECH-CSE,BC-A,628
+Sree Kavitha Engineering College,MTECH-CSE,BC-B,534
+Sree Kavitha Engineering College,MTECH-CSE,BC-C,623
+Sree Kavitha Engineering College,MTECH-CSE,BC-D,474
+Sree Kavitha Engineering College,MTECH-CSE,SC,425
+Sree Kavitha Engineering College,MTECH-CSE,ST,859
+Sree Kavitha Engineering College,MTECH-ECE,OC,442
+Sree Kavitha Engineering College,MTECH-ECE,BC-A,720
+Sree Kavitha Engineering College,MTECH-ECE,BC-B,636
+Sree Kavitha Engineering College,MTECH-ECE,BC-C,865
+Sree Kavitha Engineering College,MTECH-ECE,BC-D,539
+Sree Kavitha Engineering College,MTECH-ECE,SC,811
+Sree Kavitha Engineering College,MTECH-ECE,ST,736
+Sree Kavitha Engineering College,MTECH-EEE,OC,531
+Sree Kavitha Engineering College,MTECH-EEE,BC-A,738
+Sree Kavitha Engineering College,MTECH-EEE,BC-B,544
+Sree Kavitha Engineering College,MTECH-EEE,BC-C,407
+Sree Kavitha Engineering College,MTECH-EEE,BC-D,391
+Sree Kavitha Engineering College,MTECH-EEE,SC,616
+Sree Kavitha Engineering College,MTECH-EEE,ST,551
+Sree Kavitha Engineering College,MTECH-MECH,OC,724
+Sree Kavitha Engineering College,MTECH-MECH,BC-A,603
+Sree Kavitha Engineering College,MTECH-MECH,BC-B,745
+Sree Kavitha Engineering College,MTECH-MECH,BC-C,512
+Sree Kavitha Engineering College,MTECH-MECH,BC-D,592
+Sree Kavitha Engineering College,MTECH-MECH,SC,731
+Sree Kavitha Engineering College,MTECH-MECH,ST,569
+Sree Kavitha Engineering College,MTECH-CIVIL,OC,669
+Sree Kavitha Engineering College,MTECH-CIVIL,BC-A,600
+Sree Kavitha Engineering College,MTECH-CIVIL,BC-B,600
+Sree Kavitha Engineering College,MTECH-CIVIL,BC-C,1016
+Sree Kavitha Engineering College,MTECH-CIVIL,BC-D,908
+Sree Kavitha Engineering College,MTECH-CIVIL,SC,931
+Sree Kavitha Engineering College,MTECH-CIVIL,ST,685
+Sri Indu College of Engineering,MTECH-CSE,OC,1592
+Sri Indu College of Engineering,MTECH-CSE,BC-A,1725
+Sri Indu College of Engineering,MTECH-CSE,BC-B,1552
+Sri Indu College of Engineering,MTECH-CSE,BC-C,1650
+Sri Indu College of Engineering,MTECH-CSE,BC-D,1568
+Sri Indu College of Engineering,MTECH-CSE,SC,1582
+Sri Indu College of Engineering,MTECH-CSE,ST,1915
+Sri Indu College of Engineering,MTECH-ECE,OC,1553
+Sri Indu College of Engineering,MTECH-ECE,BC-A,1760
+Sri Indu College of Engineering,MTECH-ECE,BC-B,1738
+Sri Indu College of Engineering,MTECH-ECE,BC-C,1737
+Sri Indu College of Engineering,MTECH-ECE,BC-D,1794
+Sri Indu College of Engineering,MTECH-ECE,SC,1930
+Sri Indu College of Engineering,MTECH-ECE,ST,1811
+Sri Indu College of Engineering,MTECH-EEE,OC,1596
+Sri Indu College of Engineering,MTECH-EEE,BC-A,1796
+Sri Indu College of Engineering,MTECH-EEE,BC-B,1665
+Sri Indu College of Engineering,MTECH-EEE,BC-C,1784
+Sri Indu College of Engineering,MTECH-EEE,BC-D,1638
+Sri Indu College of Engineering,MTECH-EEE,SC,1638
+Sri Indu College of Engineering,MTECH-EEE,ST,1551
+Sri Indu College of Engineering,MTECH-MECH,OC,1796
+Sri Indu College of Engineering,MTECH-MECH,BC-A,1646
+Sri Indu College of Engineering,MTECH-MECH,BC-B,1578
+Sri Indu College of Engineering,MTECH-MECH,BC-C,1486
+Sri Indu College of Engineering,MTECH-MECH,BC-D,1651
+Sri Indu College of Engineering,MTECH-MECH,SC,1734
+Sri Indu College of Engineering,MTECH-MECH,ST,1654
+Sri Indu College of Engineering,MTECH-CIVIL,OC,2042
+Sri Indu College of Engineering,MTECH-CIVIL,BC-A,1832
+Sri Indu College of Engineering,MTECH-CIVIL,BC-B,1965
+Sri Indu College of Engineering,MTECH-CIVIL,BC-C,2024
+Sri Indu College of Engineering,MTECH-CIVIL,BC-D,1742
+Sri Indu College of Engineering,MTECH-CIVIL,SC,1751
+Sri Indu College of Engineering,MTECH-CIVIL,ST,1975
+Sri Venkateswara Engineering College,MTECH-CSE,OC,1793
+Sri Venkateswara Engineering College,MTECH-CSE,BC-A,1798
+Sri Venkateswara Engineering College,MTECH-CSE,BC-B,1819
+Sri Venkateswara Engineering College,MTECH-CSE,BC-C,1438
+Sri Venkateswara Engineering College,MTECH-CSE,BC-D,1808
+Sri Venkateswara Engineering College,MTECH-CSE,SC,1440
+Sri Venkateswara Engineering College,MTECH-CSE,ST,1465
+Sri Venkateswara Engineering College,MTECH-ECE,OC,1496
+Sri Venkateswara Engineering College,MTECH-ECE,BC-A,1555
+Sri Venkateswara Engineering College,MTECH-ECE,BC-B,1619
+Sri Venkateswara Engineering College,MTECH-ECE,BC-C,1380
+Sri Venkateswara Engineering College,MTECH-ECE,BC-D,1516
+Sri Venkateswara Engineering College,MTECH-ECE,SC,1763
+Sri Venkateswara Engineering College,MTECH-ECE,ST,1446
+Sri Venkateswara Engineering College,MTECH-EEE,OC,1724
+Sri Venkateswara Engineering College,MTECH-EEE,BC-A,1734
+Sri Venkateswara Engineering College,MTECH-EEE,BC-B,1472
+Sri Venkateswara Engineering College,MTECH-EEE,BC-C,1311
+Sri Venkateswara Engineering College,MTECH-EEE,BC-D,1347
+Sri Venkateswara Engineering College,MTECH-EEE,SC,1494
+Sri Venkateswara Engineering College,MTECH-EEE,ST,1654
+Sri Venkateswara Engineering College,MTECH-MECH,OC,1486
+Sri Venkateswara Engineering College,MTECH-MECH,BC-A,1616
+Sri Venkateswara Engineering College,MTECH-MECH,BC-B,1494
+Sri Venkateswara Engineering College,MTECH-MECH,BC-C,1274
+Sri Venkateswara Engineering College,MTECH-MECH,BC-D,1615
+Sri Venkateswara Engineering College,MTECH-MECH,SC,1646
+Sri Venkateswara Engineering College,MTECH-MECH,ST,1550
+Sri Venkateswara Engineering College,MTECH-CIVIL,OC,1500
+Sri Venkateswara Engineering College,MTECH-CIVIL,BC-A,1482
+Sri Venkateswara Engineering College,MTECH-CIVIL,BC-B,1625
+Sri Venkateswara Engineering College,MTECH-CIVIL,BC-C,1330
+Sri Venkateswara Engineering College,MTECH-CIVIL,BC-D,1279
+Sri Venkateswara Engineering College,MTECH-CIVIL,SC,1655
+Sri Venkateswara Engineering College,MTECH-CIVIL,ST,1326
+Swarna Bharathi Institute of Science,MTECH-CSE,OC,1857
+Swarna Bharathi Institute of Science,MTECH-CSE,BC-A,1633
+Swarna Bharathi Institute of Science,MTECH-CSE,BC-B,1811
+Swarna Bharathi Institute of Science,MTECH-CSE,BC-C,1774
+Swarna Bharathi Institute of Science,MTECH-CSE,BC-D,1889
+Swarna Bharathi Institute of Science,MTECH-CSE,SC,1977
+Swarna Bharathi Institute of Science,MTECH-CSE,ST,1594
+Swarna Bharathi Institute of Science,MTECH-ECE,OC,1651
+Swarna Bharathi Institute of Science,MTECH-ECE,BC-A,1496
+Swarna Bharathi Institute of Science,MTECH-ECE,BC-B,1587
+Swarna Bharathi Institute of Science,MTECH-ECE,BC-C,1684
+Swarna Bharathi Institute of Science,MTECH-ECE,BC-D,1929
+Swarna Bharathi Institute of Science,MTECH-ECE,SC,1773
+Swarna Bharathi Institute of Science,MTECH-ECE,ST,1530
+Swarna Bharathi Institute of Science,MTECH-EEE,OC,1631
+Swarna Bharathi Institute of Science,MTECH-EEE,BC-A,1452
+Swarna Bharathi Institute of Science,MTECH-EEE,BC-B,1885
+Swarna Bharathi Institute of Science,MTECH-EEE,BC-C,1667
+Swarna Bharathi Institute of Science,MTECH-EEE,BC-D,1592
+Swarna Bharathi Institute of Science,MTECH-EEE,SC,1509
+Swarna Bharathi Institute of Science,MTECH-EEE,ST,1779
+Swarna Bharathi Institute of Science,MTECH-MECH,OC,1974
+Swarna Bharathi Institute of Science,MTECH-MECH,BC-A,1799
+Swarna Bharathi Institute of Science,MTECH-MECH,BC-B,1504
+Swarna Bharathi Institute of Science,MTECH-MECH,BC-C,1945
+Swarna Bharathi Institute of Science,MTECH-MECH,BC-D,1892
+Swarna Bharathi Institute of Science,MTECH-MECH,SC,1750
+Swarna Bharathi Institute of Science,MTECH-MECH,ST,1871
+Swarna Bharathi Institute of Science,MTECH-CIVIL,OC,2100
+Swarna Bharathi Institute of Science,MTECH-CIVIL,BC-A,1955
+Swarna Bharathi Institute of Science,MTECH-CIVIL,BC-B,1790
+Swarna Bharathi Institute of Science,MTECH-CIVIL,BC-C,2073
+Swarna Bharathi Institute of Science,MTECH-CIVIL,BC-D,2044
+Swarna Bharathi Institute of Science,MTECH-CIVIL,SC,2166
+Swarna Bharathi Institute of Science,MTECH-CIVIL,ST,2061
+Teegala Krishna Reddy Engineering College,MTECH-CSE,OC,859
+Teegala Krishna Reddy Engineering College,MTECH-CSE,BC-A,624
+Teegala Krishna Reddy Engineering College,MTECH-CSE,BC-B,933
+Teegala Krishna Reddy Engineering College,MTECH-CSE,BC-C,597
+Teegala Krishna Reddy Engineering College,MTECH-CSE,BC-D,651
+Teegala Krishna Reddy Engineering College,MTECH-CSE,SC,669
+Teegala Krishna Reddy Engineering College,MTECH-CSE,ST,751
+Teegala Krishna Reddy Engineering College,MTECH-ECE,OC,583
+Teegala Krishna Reddy Engineering College,MTECH-ECE,BC-A,638
+Teegala Krishna Reddy Engineering College,MTECH-ECE,BC-B,411
+Teegala Krishna Reddy Engineering College,MTECH-ECE,BC-C,331
+Teegala Krishna Reddy Engineering College,MTECH-ECE,BC-D,778
+Teegala Krishna Reddy Engineering College,MTECH-ECE,SC,388
+Teegala Krishna Reddy Engineering College,MTECH-ECE,ST,462
+Teegala Krishna Reddy Engineering College,MTECH-EEE,OC,244
+Teegala Krishna Reddy Engineering College,MTECH-EEE,BC-A,271
+Teegala Krishna Reddy Engineering College,MTECH-EEE,BC-B,511
+Teegala Krishna Reddy Engineering College,MTECH-EEE,BC-C,556
+Teegala Krishna Reddy Engineering College,MTECH-EEE,BC-D,706
+Teegala Krishna Reddy Engineering College,MTECH-EEE,SC,433
+Teegala Krishna Reddy Engineering College,MTECH-EEE,ST,450
+Teegala Krishna Reddy Engineering College,MTECH-MECH,OC,695
+Teegala Krishna Reddy Engineering College,MTECH-MECH,BC-A,703
+Teegala Krishna Reddy Engineering College,MTECH-MECH,BC-B,713
+Teegala Krishna Reddy Engineering College,MTECH-MECH,BC-C,708
+Teegala Krishna Reddy Engineering College,MTECH-MECH,BC-D,601
+Teegala Krishna Reddy Engineering College,MTECH-MECH,SC,827
+Teegala Krishna Reddy Engineering College,MTECH-MECH,ST,563
+Teegala Krishna Reddy Engineering College,MTECH-CIVIL,OC,562
+Teegala Krishna Reddy Engineering College,MTECH-CIVIL,BC-A,283
+Teegala Krishna Reddy Engineering College,MTECH-CIVIL,BC-B,324
+Teegala Krishna Reddy Engineering College,MTECH-CIVIL,BC-C,488
+Teegala Krishna Reddy Engineering College,MTECH-CIVIL,BC-D,688
+Teegala Krishna Reddy Engineering College,MTECH-CIVIL,SC,359
+Teegala Krishna Reddy Engineering College,MTECH-CIVIL,ST,692
+Vaishnavi Institute of Technology,MTECH-CSE,OC,1144
+Vaishnavi Institute of Technology,MTECH-CSE,BC-A,1216
+Vaishnavi Institute of Technology,MTECH-CSE,BC-B,1221
+Vaishnavi Institute of Technology,MTECH-CSE,BC-C,869
+Vaishnavi Institute of Technology,MTECH-CSE,BC-D,981
+Vaishnavi Institute of Technology,MTECH-CSE,SC,1006
+Vaishnavi Institute of Technology,MTECH-CSE,ST,915
+Vaishnavi Institute of Technology,MTECH-ECE,OC,675
+Vaishnavi Institute of Technology,MTECH-ECE,BC-A,1141
+Vaishnavi Institute of Technology,MTECH-ECE,BC-B,884
+Vaishnavi Institute of Technology,MTECH-ECE,BC-C,692
+Vaishnavi Institute of Technology,MTECH-ECE,BC-D,1101
+Vaishnavi Institute of Technology,MTECH-ECE,SC,932
+Vaishnavi Institute of Technology,MTECH-ECE,ST,774
+Vaishnavi Institute of Technology,MTECH-EEE,OC,1070
+Vaishnavi Institute of Technology,MTECH-EEE,BC-A,1153
+Vaishnavi Institute of Technology,MTECH-EEE,BC-B,854
+Vaishnavi Institute of Technology,MTECH-EEE,BC-C,742
+Vaishnavi Institute of Technology,MTECH-EEE,BC-D,1051
+Vaishnavi Institute of Technology,MTECH-EEE,SC,847
+Vaishnavi Institute of Technology,MTECH-EEE,ST,980
+Vaishnavi Institute of Technology,MTECH-MECH,OC,959
+Vaishnavi Institute of Technology,MTECH-MECH,BC-A,1104
+Vaishnavi Institute of Technology,MTECH-MECH,BC-B,866
+Vaishnavi Institute of Technology,MTECH-MECH,BC-C,1199
+Vaishnavi Institute of Technology,MTECH-MECH,BC-D,913
+Vaishnavi Institute of Technology,MTECH-MECH,SC,1055
+Vaishnavi Institute of Technology,MTECH-MECH,ST,1226
+Vaishnavi Institute of Technology,MTECH-CIVIL,OC,989
+Vaishnavi Institute of Technology,MTECH-CIVIL,BC-A,965
+Vaishnavi Institute of Technology,MTECH-CIVIL,BC-B,948
+Vaishnavi Institute of Technology,MTECH-CIVIL,BC-C,778
+Vaishnavi Institute of Technology,MTECH-CIVIL,BC-D,825
+Vaishnavi Institute of Technology,MTECH-CIVIL,SC,899
+Vaishnavi Institute of Technology,MTECH-CIVIL,ST,785
+Vardhaman Women’s Engineering College,MTECH-CSE,OC,1263
+Vardhaman Women’s Engineering College,MTECH-CSE,BC-A,1515
+Vardhaman Women’s Engineering College,MTECH-CSE,BC-B,1369
+Vardhaman Women’s Engineering College,MTECH-CSE,BC-C,1632
+Vardhaman Women’s Engineering College,MTECH-CSE,BC-D,1284
+Vardhaman Women’s Engineering College,MTECH-CSE,SC,1247
+Vardhaman Women’s Engineering College,MTECH-CSE,ST,1675
+Vardhaman Women’s Engineering College,MTECH-ECE,OC,1440
+Vardhaman Women’s Engineering College,MTECH-ECE,BC-A,1285
+Vardhaman Women’s Engineering College,MTECH-ECE,BC-B,1546
+Vardhaman Women’s Engineering College,MTECH-ECE,BC-C,1337
+Vardhaman Women’s Engineering College,MTECH-ECE,BC-D,1157
+Vardhaman Women’s Engineering College,MTECH-ECE,SC,1255
+Vardhaman Women’s Engineering College,MTECH-ECE,ST,1224
+Vardhaman Women’s Engineering College,MTECH-EEE,OC,1202
+Vardhaman Women’s Engineering College,MTECH-EEE,BC-A,1347
+Vardhaman Women’s Engineering College,MTECH-EEE,BC-B,1499
+Vardhaman Women’s Engineering College,MTECH-EEE,BC-C,1393
+Vardhaman Women’s Engineering College,MTECH-EEE,BC-D,1227
+Vardhaman Women’s Engineering College,MTECH-EEE,SC,1428
+Vardhaman Women’s Engineering College,MTECH-EEE,ST,1120
+Vardhaman Women’s Engineering College,MTECH-MECH,OC,1372
+Vardhaman Women’s Engineering College,MTECH-MECH,BC-A,1846
+Vardhaman Women’s Engineering College,MTECH-MECH,BC-B,1832
+Vardhaman Women’s Engineering College,MTECH-MECH,BC-C,1686
+Vardhaman Women’s Engineering College,MTECH-MECH,BC-D,1445
+Vardhaman Women’s Engineering College,MTECH-MECH,SC,1671
+Vardhaman Women’s Engineering College,MTECH-MECH,ST,1508
+Vardhaman Women’s Engineering College,MTECH-CIVIL,OC,1311
+Vardhaman Women’s Engineering College,MTECH-CIVIL,BC-A,1315
+Vardhaman Women’s Engineering College,MTECH-CIVIL,BC-B,1677
+Vardhaman Women’s Engineering College,MTECH-CIVIL,BC-C,1666
+Vardhaman Women’s Engineering College,MTECH-CIVIL,BC-D,1705
+Vardhaman Women’s Engineering College,MTECH-CIVIL,SC,1642
+Vardhaman Women’s Engineering College,MTECH-CIVIL,ST,1420
+Vasavi College of Engineering,MTECH-CSE,OC,808
+Vasavi College of Engineering,MTECH-CSE,BC-A,711
+Vasavi College of Engineering,MTECH-CSE,BC-B,960
+Vasavi College of Engineering,MTECH-CSE,BC-C,589
+Vasavi College of Engineering,MTECH-CSE,BC-D,882
+Vasavi College of Engineering,MTECH-CSE,SC,772
+Vasavi College of Engineering,MTECH-CSE,ST,696
+Vasavi College of Engineering,MTECH-ECE,OC,388
+Vasavi College of Engineering,MTECH-ECE,BC-A,683
+Vasavi College of Engineering,MTECH-ECE,BC-B,515
+Vasavi College of Engineering,MTECH-ECE,BC-C,682
+Vasavi College of Engineering,MTECH-ECE,BC-D,777
+Vasavi College of Engineering,MTECH-ECE,SC,835
+Vasavi College of Engineering,MTECH-ECE,ST,635
+Vasavi College of Engineering,MTECH-EEE,OC,565
+Vasavi College of Engineering,MTECH-EEE,BC-A,959
+Vasavi College of Engineering,MTECH-EEE,BC-B,874
+Vasavi College of Engineering,MTECH-EEE,BC-C,877
+Vasavi College of Engineering,MTECH-EEE,BC-D,909
+Vasavi College of Engineering,MTECH-EEE,SC,551
+Vasavi College of Engineering,MTECH-EEE,ST,1021
+Vasavi College of Engineering,MTECH-MECH,OC,835
+Vasavi College of Engineering,MTECH-MECH,BC-A,773
+Vasavi College of Engineering,MTECH-MECH,BC-B,814
+Vasavi College of Engineering,MTECH-MECH,BC-C,650
+Vasavi College of Engineering,MTECH-MECH,BC-D,802
+Vasavi College of Engineering,MTECH-MECH,SC,492
+Vasavi College of Engineering,MTECH-MECH,ST,784
+Vasavi College of Engineering,MTECH-CIVIL,OC,661
+Vasavi College of Engineering,MTECH-CIVIL,BC-A,1037
+Vasavi College of Engineering,MTECH-CIVIL,BC-B,691
+Vasavi College of Engineering,MTECH-CIVIL,BC-C,1010
+Vasavi College of Engineering,MTECH-CIVIL,BC-D,952
+Vasavi College of Engineering,MTECH-CIVIL,SC,871
+Vasavi College of Engineering,MTECH-CIVIL,ST,971
+VBIT Engineering College,MTECH-CSE,OC,1352
+VBIT Engineering College,MTECH-CSE,BC-A,1278
+VBIT Engineering College,MTECH-CSE,BC-B,1390
+VBIT Engineering College,MTECH-CSE,BC-C,1294
+VBIT Engineering College,MTECH-CSE,BC-D,1243
+VBIT Engineering College,MTECH-CSE,SC,956
+VBIT Engineering College,MTECH-CSE,ST,1336
+VBIT Engineering College,MTECH-ECE,OC,1028
+VBIT Engineering College,MTECH-ECE,BC-A,1425
+VBIT Engineering College,MTECH-ECE,BC-B,1047
+VBIT Engineering College,MTECH-ECE,BC-C,1182
+VBIT Engineering College,MTECH-ECE,BC-D,1104
+VBIT Engineering College,MTECH-ECE,SC,1075
+VBIT Engineering College,MTECH-ECE,ST,1378
+VBIT Engineering College,MTECH-EEE,OC,1543
+VBIT Engineering College,MTECH-EEE,BC-A,1494
+VBIT Engineering College,MTECH-EEE,BC-B,1461
+VBIT Engineering College,MTECH-EEE,BC-C,1063
+VBIT Engineering College,MTECH-EEE,BC-D,1366
+VBIT Engineering College,MTECH-EEE,SC,1111
+VBIT Engineering College,MTECH-EEE,ST,1122
+VBIT Engineering College,MTECH-MECH,OC,1159
+VBIT Engineering College,MTECH-MECH,BC-A,1247
+VBIT Engineering College,MTECH-MECH,BC-B,1289
+VBIT Engineering College,MTECH-MECH,BC-C,1445
+VBIT Engineering College,MTECH-MECH,BC-D,1168
+VBIT Engineering College,MTECH-MECH,SC,1516
+VBIT Engineering College,MTECH-MECH,ST,1319
+VBIT Engineering College,MTECH-CIVIL,OC,1168
+VBIT Engineering College,MTECH-CIVIL,BC-A,1489
+VBIT Engineering College,MTECH-CIVIL,BC-B,1269
+VBIT Engineering College,MTECH-CIVIL,BC-C,1602
+VBIT Engineering College,MTECH-CIVIL,BC-D,1365
+VBIT Engineering College,MTECH-CIVIL,SC,1603
+VBIT Engineering College,MTECH-CIVIL,ST,1519
+Vidya Jyothi Institute of Technology,MTECH-CSE,OC,549
+Vidya Jyothi Institute of Technology,MTECH-CSE,BC-A,961
+Vidya Jyothi Institute of Technology,MTECH-CSE,BC-B,773
+Vidya Jyothi Institute of Technology,MTECH-CSE,BC-C,784
+Vidya Jyothi Institute of Technology,MTECH-CSE,BC-D,607
+Vidya Jyothi Institute of Technology,MTECH-CSE,SC,840
+Vidya Jyothi Institute of Technology,MTECH-CSE,ST,701
+Vidya Jyothi Institute of Technology,MTECH-ECE,OC,895
+Vidya Jyothi Institute of Technology,MTECH-ECE,BC-A,770
+Vidya Jyothi Institute of Technology,MTECH-ECE,BC-B,979
+Vidya Jyothi Institute of Technology,MTECH-ECE,BC-C,1122
+Vidya Jyothi Institute of Technology,MTECH-ECE,BC-D,889
+Vidya Jyothi Institute of Technology,MTECH-ECE,SC,1118
+Vidya Jyothi Institute of Technology,MTECH-ECE,ST,733
+Vidya Jyothi Institute of Technology,MTECH-EEE,OC,752
+Vidya Jyothi Institute of Technology,MTECH-EEE,BC-A,996
+Vidya Jyothi Institute of Technology,MTECH-EEE,BC-B,996
+Vidya Jyothi Institute of Technology,MTECH-EEE,BC-C,739
+Vidya Jyothi Institute of Technology,MTECH-EEE,BC-D,947
+Vidya Jyothi Institute of Technology,MTECH-EEE,SC,844
+Vidya Jyothi Institute of Technology,MTECH-EEE,ST,880
+Vidya Jyothi Institute of Technology,MTECH-MECH,OC,739
+Vidya Jyothi Institute of Technology,MTECH-MECH,BC-A,780
+Vidya Jyothi Institute of Technology,MTECH-MECH,BC-B,977
+Vidya Jyothi Institute of Technology,MTECH-MECH,BC-C,1135
+Vidya Jyothi Institute of Technology,MTECH-MECH,BC-D,810
+Vidya Jyothi Institute of Technology,MTECH-MECH,SC,652
+Vidya Jyothi Institute of Technology,MTECH-MECH,ST,759
+Vidya Jyothi Institute of Technology,MTECH-CIVIL,OC,715
+Vidya Jyothi Institute of Technology,MTECH-CIVIL,BC-A,864
+Vidya Jyothi Institute of Technology,MTECH-CIVIL,BC-B,646
+Vidya Jyothi Institute of Technology,MTECH-CIVIL,BC-C,842
+Vidya Jyothi Institute of Technology,MTECH-CIVIL,BC-D,958
+Vidya Jyothi Institute of Technology,MTECH-CIVIL,SC,764
+Vidya Jyothi Institute of Technology,MTECH-CIVIL,ST,737
+Vignan Bharathi Institute of Technology,MTECH-CSE,OC,1698
+Vignan Bharathi Institute of Technology,MTECH-CSE,BC-A,1757
+Vignan Bharathi Institute of Technology,MTECH-CSE,BC-B,1539
+Vignan Bharathi Institute of Technology,MTECH-CSE,BC-C,1843
+Vignan Bharathi Institute of Technology,MTECH-CSE,BC-D,1875
+Vignan Bharathi Institute of Technology,MTECH-CSE,SC,1615
+Vignan Bharathi Institute of Technology,MTECH-CSE,ST,1977
+Vignan Bharathi Institute of Technology,MTECH-ECE,OC,1814
+Vignan Bharathi Institute of Technology,MTECH-ECE,BC-A,2005
+Vignan Bharathi Institute of Technology,MTECH-ECE,BC-B,1748
+Vignan Bharathi Institute of Technology,MTECH-ECE,BC-C,1725
+Vignan Bharathi Institute of Technology,MTECH-ECE,BC-D,1733
+Vignan Bharathi Institute of Technology,MTECH-ECE,SC,2027
+Vignan Bharathi Institute of Technology,MTECH-ECE,ST,1963
+Vignan Bharathi Institute of Technology,MTECH-EEE,OC,1864
+Vignan Bharathi Institute of Technology,MTECH-EEE,BC-A,1854
+Vignan Bharathi Institute of Technology,MTECH-EEE,BC-B,1636
+Vignan Bharathi Institute of Technology,MTECH-EEE,BC-C,1793
+Vignan Bharathi Institute of Technology,MTECH-EEE,BC-D,1766
+Vignan Bharathi Institute of Technology,MTECH-EEE,SC,1726
+Vignan Bharathi Institute of Technology,MTECH-EEE,ST,1525
+Vignan Bharathi Institute of Technology,MTECH-MECH,OC,1816
+Vignan Bharathi Institute of Technology,MTECH-MECH,BC-A,1571
+Vignan Bharathi Institute of Technology,MTECH-MECH,BC-B,1816
+Vignan Bharathi Institute of Technology,MTECH-MECH,BC-C,1761
+Vignan Bharathi Institute of Technology,MTECH-MECH,BC-D,1897
+Vignan Bharathi Institute of Technology,MTECH-MECH,SC,1935
+Vignan Bharathi Institute of Technology,MTECH-MECH,ST,1594
+Vignan Bharathi Institute of Technology,MTECH-CIVIL,OC,1866
+Vignan Bharathi Institute of Technology,MTECH-CIVIL,BC-A,1692
+Vignan Bharathi Institute of Technology,MTECH-CIVIL,BC-B,1867
+Vignan Bharathi Institute of Technology,MTECH-CIVIL,BC-C,1672
+Vignan Bharathi Institute of Technology,MTECH-CIVIL,BC-D,1628
+Vignan Bharathi Institute of Technology,MTECH-CIVIL,SC,1799
+Vignan Bharathi Institute of Technology,MTECH-CIVIL,ST,1689
+Vijaya Engineering College,MTECH-CSE,OC,962
+Vijaya Engineering College,MTECH-CSE,BC-A,993
+Vijaya Engineering College,MTECH-CSE,BC-B,965
+Vijaya Engineering College,MTECH-CSE,BC-C,1282
+Vijaya Engineering College,MTECH-CSE,BC-D,1416
+Vijaya Engineering College,MTECH-CSE,SC,1207
+Vijaya Engineering College,MTECH-CSE,ST,1313
+Vijaya Engineering College,MTECH-ECE,OC,1352
+Vijaya Engineering College,MTECH-ECE,BC-A,1023
+Vijaya Engineering College,MTECH-ECE,BC-B,1418
+Vijaya Engineering College,MTECH-ECE,BC-C,1465
+Vijaya Engineering College,MTECH-ECE,BC-D,1234
+Vijaya Engineering College,MTECH-ECE,SC,1272
+Vijaya Engineering College,MTECH-ECE,ST,1058
+Vijaya Engineering College,MTECH-EEE,OC,1546
+Vijaya Engineering College,MTECH-EEE,BC-A,1450
+Vijaya Engineering College,MTECH-EEE,BC-B,1389
+Vijaya Engineering College,MTECH-EEE,BC-C,1349
+Vijaya Engineering College,MTECH-EEE,BC-D,1269
+Vijaya Engineering College,MTECH-EEE,SC,1251
+Vijaya Engineering College,MTECH-EEE,ST,1328
+Vijaya Engineering College,MTECH-MECH,OC,1277
+Vijaya Engineering College,MTECH-MECH,BC-A,1107
+Vijaya Engineering College,MTECH-MECH,BC-B,1423
+Vijaya Engineering College,MTECH-MECH,BC-C,1085
+Vijaya Engineering College,MTECH-MECH,BC-D,1509
+Vijaya Engineering College,MTECH-MECH,SC,1193
+Vijaya Engineering College,MTECH-MECH,ST,1402
+Vijaya Engineering College,MTECH-CIVIL,OC,1362
+Vijaya Engineering College,MTECH-CIVIL,BC-A,1216
+Vijaya Engineering College,MTECH-CIVIL,BC-B,1312
+Vijaya Engineering College,MTECH-CIVIL,BC-C,1450
+Vijaya Engineering College,MTECH-CIVIL,BC-D,1046
+Vijaya Engineering College,MTECH-CIVIL,SC,1298
+Vijaya Engineering College,MTECH-CIVIL,ST,1352
+Visvesvaraya Engineering College,MTECH-CSE,OC,1202
+Visvesvaraya Engineering College,MTECH-CSE,BC-A,1064
+Visvesvaraya Engineering College,MTECH-CSE,BC-B,1193
+Visvesvaraya Engineering College,MTECH-CSE,BC-C,1369
+Visvesvaraya Engineering College,MTECH-CSE,BC-D,1039
+Visvesvaraya Engineering College,MTECH-CSE,SC,1214
+Visvesvaraya Engineering College,MTECH-CSE,ST,1080
+Visvesvaraya Engineering College,MTECH-ECE,OC,1253
+Visvesvaraya Engineering College,MTECH-ECE,BC-A,1211
+Visvesvaraya Engineering College,MTECH-ECE,BC-B,1123
+Visvesvaraya Engineering College,MTECH-ECE,BC-C,1387
+Visvesvaraya Engineering College,MTECH-ECE,BC-D,1368
+Visvesvaraya Engineering College,MTECH-ECE,SC,1360
+Visvesvaraya Engineering College,MTECH-ECE,ST,1113
+Visvesvaraya Engineering College,MTECH-EEE,OC,1237
+Visvesvaraya Engineering College,MTECH-EEE,BC-A,1368
+Visvesvaraya Engineering College,MTECH-EEE,BC-B,1172
+Visvesvaraya Engineering College,MTECH-EEE,BC-C,1187
+Visvesvaraya Engineering College,MTECH-EEE,BC-D,1473
+Visvesvaraya Engineering College,MTECH-EEE,SC,1416
+Visvesvaraya Engineering College,MTECH-EEE,ST,1380
+Visvesvaraya Engineering College,MTECH-MECH,OC,1501
+Visvesvaraya Engineering College,MTECH-MECH,BC-A,1188
+Visvesvaraya Engineering College,MTECH-MECH,BC-B,1291
+Visvesvaraya Engineering College,MTECH-MECH,BC-C,1419
+Visvesvaraya Engineering College,MTECH-MECH,BC-D,1530
+Visvesvaraya Engineering College,MTECH-MECH,SC,1337
+Visvesvaraya Engineering College,MTECH-MECH,ST,1213
+Visvesvaraya Engineering College,MTECH-CIVIL,OC,1189
+Visvesvaraya Engineering College,MTECH-CIVIL,BC-A,1340
+Visvesvaraya Engineering College,MTECH-CIVIL,BC-B,1101
+Visvesvaraya Engineering College,MTECH-CIVIL,BC-C,1126
+Visvesvaraya Engineering College,MTECH-CIVIL,BC-D,1428
+Visvesvaraya Engineering College,MTECH-CIVIL,SC,1280
+Visvesvaraya Engineering College,MTECH-CIVIL,ST,1340
+Vivekananda Engineering College,MTECH-CSE,OC,616
+Vivekananda Engineering College,MTECH-CSE,BC-A,791
+Vivekananda Engineering College,MTECH-CSE,BC-B,837
+Vivekananda Engineering College,MTECH-CSE,BC-C,921
+Vivekananda Engineering College,MTECH-CSE,BC-D,571
+Vivekananda Engineering College,MTECH-CSE,SC,885
+Vivekananda Engineering College,MTECH-CSE,ST,1031
+Vivekananda Engineering College,MTECH-ECE,OC,654
+Vivekananda Engineering College,MTECH-ECE,BC-A,956
+Vivekananda Engineering College,MTECH-ECE,BC-B,848
+Vivekananda Engineering College,MTECH-ECE,BC-C,787
+Vivekananda Engineering College,MTECH-ECE,BC-D,661
+Vivekananda Engineering College,MTECH-ECE,SC,826
+Vivekananda Engineering College,MTECH-ECE,ST,684
+Vivekananda Engineering College,MTECH-EEE,OC,792
+Vivekananda Engineering College,MTECH-EEE,BC-A,550
+Vivekananda Engineering College,MTECH-EEE,BC-B,835
+Vivekananda Engineering College,MTECH-EEE,BC-C,832
+Vivekananda Engineering College,MTECH-EEE,BC-D,554
+Vivekananda Engineering College,MTECH-EEE,SC,694
+Vivekananda Engineering College,MTECH-EEE,ST,615
+Vivekananda Engineering College,MTECH-MECH,OC,644
+Vivekananda Engineering College,MTECH-MECH,BC-A,478
+Vivekananda Engineering College,MTECH-MECH,BC-B,762
+Vivekananda Engineering College,MTECH-MECH,BC-C,471
+Vivekananda Engineering College,MTECH-MECH,BC-D,543
+Vivekananda Engineering College,MTECH-MECH,SC,776
+Vivekananda Engineering College,MTECH-MECH,ST,724
+Vivekananda Engineering College,MTECH-CIVIL,OC,564
+Vivekananda Engineering College,MTECH-CIVIL,BC-A,813
+Vivekananda Engineering College,MTECH-CIVIL,BC-B,774
+Vivekananda Engineering College,MTECH-CIVIL,BC-C,687
+Vivekananda Engineering College,MTECH-CIVIL,BC-D,872
+Vivekananda Engineering College,MTECH-CIVIL,SC,969
+Vivekananda Engineering College,MTECH-CIVIL,ST,662
+Zion Institute of Technology,MTECH-CSE,OC,627
+Zion Institute of Technology,MTECH-CSE,BC-A,611
+Zion Institute of Technology,MTECH-CSE,BC-B,414
+Zion Institute of Technology,MTECH-CSE,BC-C,502
+Zion Institute of Technology,MTECH-CSE,BC-D,648
+Zion Institute of Technology,MTECH-CSE,SC,510
+Zion Institute of Technology,MTECH-CSE,ST,698
+Zion Institute of Technology,MTECH-ECE,OC,763
+Zion Institute of Technology,MTECH-ECE,BC-A,652
+Zion Institute of Technology,MTECH-ECE,BC-B,565
+Zion Institute of Technology,MTECH-ECE,BC-C,769
+Zion Institute of Technology,MTECH-ECE,BC-D,475
+Zion Institute of Technology,MTECH-ECE,SC,428
+Zion Institute of Technology,MTECH-ECE,ST,835
+Zion Institute of Technology,MTECH-EEE,OC,384
+Zion Institute of Technology,MTECH-EEE,BC-A,373
+Zion Institute of Technology,MTECH-EEE,BC-B,585
+Zion Institute of Technology,MTECH-EEE,BC-C,711
+Zion Institute of Technology,MTECH-EEE,BC-D,615
+Zion Institute of Technology,MTECH-EEE,SC,667
+Zion Institute of Technology,MTECH-EEE,ST,371
+Zion Institute of Technology,MTECH-MECH,OC,423
+Zion Institute of Technology,MTECH-MECH,BC-A,723
+Zion Institute of Technology,MTECH-MECH,BC-B,594
+Zion Institute of Technology,MTECH-MECH,BC-C,731
+Zion Institute of Technology,MTECH-MECH,BC-D,383
+Zion Institute of Technology,MTECH-MECH,SC,375
+Zion Institute of Technology,MTECH-MECH,ST,535
+Zion Institute of Technology,MTECH-CIVIL,OC,386
+Zion Institute of Technology,MTECH-CIVIL,BC-A,256
+Zion Institute of Technology,MTECH-CIVIL,BC-B,508
+Zion Institute of Technology,MTECH-CIVIL,BC-C,421
+Zion Institute of Technology,MTECH-CIVIL,BC-D,623
+Zion Institute of Technology,MTECH-CIVIL,SC,331
+Zion Institute of Technology,MTECH-CIVIL,ST,583

@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>College Predictor - UG & PG</title>
+    <link rel="stylesheet" href="/static/css/style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    <style>
+        .landing-grid {
+            display: grid;
+            grid-template-columns: repeat(2, 1fr);
+            gap: 2rem;
+            margin: 3rem 0;
+        }
+
+        .landing-card {
+            background: white;
+            border-radius: 16px;
+            padding: 2.5rem;
+            text-align: center;
+            box-shadow: var(--shadow-lg);
+            border: 1px solid var(--light-gray-4);
+            transition: all 0.3s ease;
+            cursor: pointer;
+            text-decoration: none;
+            color: inherit;
+            display: block;
+        }
+
+        .landing-card:hover {
+            transform: translateY(-10px);
+            box-shadow: var(--shadow-xl);
+            border-color: var(--pure-black);
+        }
+
+        .landing-icon {
+            width: 100px;
+            height: 100px;
+            background: var(--pure-black);
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            margin: 0 auto 1.5rem;
+        }
+
+        .landing-icon i {
+            font-size: 3rem;
+            color: white;
+        }
+
+        .landing-title {
+            font-size: 2rem;
+            font-weight: 700;
+            margin-bottom: 0.5rem;
+        }
+
+        .landing-subtitle {
+            color: var(--medium-gray-2);
+            margin-bottom: 1.5rem;
+        }
+
+        .landing-desc {
+            color: var(--dark-gray-1);
+            margin-bottom: 2rem;
+        }
+
+        .landing-btn {
+            display: inline-block;
+            padding: 0.8rem 2rem;
+            background: var(--pure-black);
+            color: white;
+            border-radius: 8px;
+            font-weight: 600;
+            transition: all 0.2s ease;
+        }
+
+        .landing-btn:hover {
+            background: var(--off-black);
+        }
+
+        @media (max-width: 768px) {
+            .landing-grid {
+                grid-template-columns: 1fr;
+            }
+        }
+    </style>
+</head>
+<body>
+    <!-- Clean White Background -->
+    <div class="bg-white"></div>
+
+    <!-- Main Container -->
+    <div class="container">
+        <!-- Header -->
+        <header class="header" style="text-align: center;">
+            <div class="logo-container" style="margin: 0 auto;">
+                <div class="logo-icon">
+                    <i class="fas fa-graduation-cap"></i>
+                </div>
+                <div class="logo-text">
+                    <h1><span>College Predictor</span></h1>
+                    <p class="logo-subtitle">UG (EAMCET) & PG (GATE/PGECET)</p>
+                </div>
+            </div>
+        </header>
+
+        <!-- Main Content -->
+        <div class="main-card" style="text-align: center;">
+            <h1 style="font-size: 2.5rem; margin-bottom: 1rem;">Choose Your Program</h1>
+            <p style="color: var(--medium-gray-2); font-size: 1.1rem; max-width: 600px; margin: 0 auto 2rem;">
+                Select the program you're applying for to get personalized college predictions based on your rank.
+            </p>
+
+            <div class="landing-grid">
+                <!-- UG Card -->
+                <a href="/ug" class="landing-card">
+                    <div class="landing-icon">
+                        <i class="fas fa-university"></i>
+                    </div>
+                    <h2 class="landing-title">UG Program</h2>
+                    <p class="landing-subtitle">B.Tech / B.E.</p>
+                    <p class="landing-desc">
+                        Predict your chances for undergraduate engineering programs based on your EAMCET rank.
+                    </p>
+                    <span class="landing-btn">
+                        Go to UG Predictor <i class="fas fa-arrow-right" style="margin-left: 0.5rem;"></i>
+                    </span>
+                </a>
+
+                <!-- PG Card -->
+                <a href="/pg" class="landing-card">
+                    <div class="landing-icon">
+                        <i class="fas fa-graduation-cap"></i>
+                    </div>
+                    <h2 class="landing-title">PG Program</h2>
+                    <p class="landing-subtitle">M.Tech / M.E.</p>
+                    <p class="landing-desc">
+                        Predict your chances for postgraduate engineering programs based on your GATE/PGECET rank.
+                    </p>
+                    <span class="landing-btn">
+                        Go to PG Predictor <i class="fas fa-arrow-right" style="margin-left: 0.5rem;"></i>
+                    </span>
+                </a>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
